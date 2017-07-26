@@ -1,0 +1,23 @@
+# Database Source Control vs. Database Release Automation
+
+_Captured: 2017-04-04 at 00:15 from [dzone.com](https://dzone.com/articles/database-source-control-versus-database-release-au?edition=286971&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202017-04-03)_
+
+[Download "The DevOps Journey - From Waterfall to Continuous Delivery"](https://dzone.com/go?i=161130&u=http%3A%2F%2Finfo.saucelabs.com%2Fpaper-the-devops-journey.html%3Futm_campaign%3Ddevopsjourney%2Bwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-devops%26utm_content%3Darticle) to learn learn about the importance of integrating automated testing into the DevOps workflow, brought to you in partnership with [Sauce Labs](https://dzone.com/go?i=161130&u=http%3A%2F%2Finfo.saucelabs.com%2Fpaper-the-devops-journey.html%3Futm_campaign%3Ddevopsjourney%2Bwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-devops%26utm_content%3Darticle).
+
+Source control is your single source of the truth. Using a continuous build server with source code control is the first step in Agile Development, Continuous Integration, and Continuous Delivery. When a build is performed, source code is transformed from human-readable text to machine instructions that can be deployed. The source is tagged so that the code is forever tied to a specific application release. You can recreate it at any future time.
+
+Database source control is missing from our database change process today. Sure, maybe we are checking in our database change scripts, maybe we use Toad Team Coding to check-in and check-out database objects for us during development. Once that build is performed, you have an atomic application binary ready for automated deployment and a bunch of SQL scripts. That will not speed your deployment process. You are still tied to a manual database deployment process.
+
+Your challenge is that you cannot determine if a change has been persisted to a database without a manual review process. If you require manual DBA intervention for every change to a database, you will fail and your competitors will win.
+
+I commend companies that use the same source control repository for both application code changes and database code changes. What this does is create [database source control](http://www.datical.com/whitepapers/database-source-control-enables-agile-applications/): a single source of the truth for what database changes are part of a release. Thus, we will no longer have to wonder what application version goes with what database schema version. (Of course, the converse is true: if you are using different repositories for both the application and database code changes, you will NOT have database source control and thus will not receive these benefits. They must be the same.)
+
+[Database Release Automation](http://www.datical.com/) (DRA) solves this problem for us. Just like Application Release Automation orchestrates and automates previously manual tasks, Database Release Automation enables full stack automation by changing our database schemas safely and quickly without the need for human intervention. Of course, databases are different than application or web servers. We cannot simply blow away our database server and recreate it with a new version of the schema. We would lose our data. Databases have state and evolve over time.
+
+Balancing safety and speed is key; you must have both with Database Release Automation. I recommend, as part of every Database Release Automation tool evaluation, having use cases that test if you can perform a completely automated database deployment. Review your past year's schema changes and choose the really gnarly, [nasty ones to automate](http://www.datical.com/solution/dynamic-rules-engine/). Renaming tables is always a good one. Also, attempt to enforce naming conventions and the like with changes. Look for ones that you know should fail and make sure your DRA tool will catch them.
+
+If your current database change process cannot support lights-out automation, it's time to look for a complete solution with something more than just source control for the database.
+
+[Discover how to optimize your DevOps workflows](https://dzone.com/go?i=161129&u=http%3A%2F%2Finfo.saucelabs.com%2Fpaper-the-devops-journey.html%3Futm_campaign%3Ddevopsjourney%2Bwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-devops%26utm_content%3Darticle) with our cloud-based automated testing infrastructure, brought to you in partnership with [Sauce Labs](https://dzone.com/go?i=161129&u=http%3A%2F%2Finfo.saucelabs.com%2Fpaper-the-devops-journey.html%3Futm_campaign%3Ddevopsjourney%2Bwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-devops%26utm_content%3Darticle).
+
+Opinions expressed by DZone contributors are their own.

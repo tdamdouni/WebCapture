@@ -1,0 +1,5 @@
+# Connected Vehicle: Making the Vehicle a Node on the Network
+
+_Captured: 2015-10-02 at 16:32 from [www.capgemini.com](https://www.capgemini.com/resources/connected-vehicle-making-the-vehicle-a-node-on-the-network)_
+
+Consumers expect connectivity services in vehicles; [OEM](https://www.capgemini.com/automotive/supporting-functions-for-automotives/application-outsourcing-for-automotive-oems)s see them as an opportunity to create value; others are interested in the data that they generate. OEMs' existing business models cannot support full realization of the Connected Vehicle vision, partly because of the much shorter development lifecycle that is required for services, but also because the services raise legal issues, and require collaboration across functional boundaries, together with new architecture and processes. A new business model is therefore required: one that supports this new way of creating value through services, that enables collaboration across functions to provide the requisite data and knowledge, and that enables agility. Introducing this new architecture is a significant task but brings major benefits.

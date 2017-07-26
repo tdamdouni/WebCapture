@@ -1,0 +1,40 @@
+# Web Development vs. Software Development: How to Choose?
+
+_Captured: 2017-02-03 at 13:56 from [dzone.com](https://dzone.com/articles/web-development-vs-software-development-how-to-cho)_
+
+[Start coding today](https://dzone.com/go?i=155124&u=http%3A%2F%2Fplayground.qlik.com%2Fhome) to experience the powerful engine that drives data application's development, brought to you in partnership with [Qlik](https://dzone.com/go?i=155124&u=http%3A%2F%2Fplayground.qlik.com%2Fhome).
+
+![](https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2017/01/Web-Development-Vs-Software-Development-1020x560.png)
+
+> _Some people have doubts about which path to follow: web development or software development?_
+
+There are basically two different paths you can go when it comes to programming: web development & software development. So, how do you choose between the two? What can you do in order to make the right choice?
+
+## **Transcript From Video**
+
+**  
+John Sonmez: **
+
+Hey, what's up, John Sonmez from [simpleprogrammer.com](http://simpleprogrammer.com). I have a question for you about web development or software development. Let's choose. This question is from--oh, this is a very interesting name. I think it's Lyubomir. That's pretty cool. Sounds like he could probably be on Lord of the Rings or something, sounds like an elfish name Lyubomir or maybe a dwarf. Anyway, he says, "Hello John!" Exclamation, I like that. Start with an umph! "I really like your videos and the advices that you are giving. Wish you the best and a lot of success to your productive channel." Thank you.
+
+"I am a 19-year-old male, who is about to start university in 3 months with major in informatics. I saw the curriculum of it and I am going to study a lot of C++ and Java. The problem is that I want to become a web developer (probably backend), but I also love software programming, using algorithms and loops. I had little experience in C++ programming in the past for about 3-4 months and I find it really cool and fun. On the other hand, I like web development too, but I suck at design. My first question is what should I choose: Web development or software development? Can you go in depth about their pros and cons? Can I learn C++, Java, etc. and few web languages or do I have to specialize in one area? And can I be a frontend developer without doing design and working with softwares like Adobe Photoshop?"
+
+I already answered the second question. As far as web developer, I'm not going to reanswer that but you can definitely check out the video that I have about can you be a web developer without design skills. The answer is yes, you can.
+
+But now, to choose between software development or web development. It's kind of a nitpicky phrase. Is there really a difference there? I think what he's talking about is really doing kind of backend type of development versus frontend. I did a video on backend versus frontend. You can check that out here just to get some more context.
+
+But between choosing the 2, it doesn't really matter all that much. What matters is the specialty that you pick and this kind of addresses the bigger question here is what are you going to specialize in and what are you going to choose? Because even if you just said web development you're not just going to become a generic web developer, you're not just going to become a generic software developer. You need to have a specialty. Again, I'll point you to my playlist on specialties which you can check out here. It's ever growing as more and more of this topic is discussed, but there's a lot of good information about there.
+
+If I had to choose today between going the web route or more the backend route it's a tough one. I personally think, this is just my personal opinion here at this point. I think it's a lot more fun and interesting to work on algorithms and to work on the backend stuff. In my career, I did software development for 15 years, more than 15 years. I had a lot more fun working on like coming up with the algorithms and designing the architecture, the stuff that you didn't see because I felt like it required more brain and more thought and more--it was more challenging to me. I've always liked that type of challenge that's presented by that, to come up with the design of the architecture, to build the things, to unit test them and make sure that that works. To me, that's always had the bigger appeal building these kind of things that are not visible but are still critical to an application.
+
+That's my personal opinion. I think that's more fun. When I've done web development I actually did a video on I hate web development. I was talking about this a little bit. A lot of web development just--again, some of you are going to argue with this. That's fine. That's cool. This is just my opinion. But in my opinion what I've seen as a lot of web development is doing crud type of stuff where you're basically wiring up stuff to a user interface and then making it work and then doing the design components and fiddling with why does this button not work or why is this not showing up correctly.
+
+There's some challenge and there's some fun in that. I don't want to say that it's just total--and there's some excitement. There's a feeling when you've created a web page, you've created a web app and it works and you go to the website and it's amazing because you created this thing and you're seeing it working. There's that, but it's a little bit more boiler plate, it's a little bit less challenging for those of you that want that challenge.
+
+Again, not to say that there's not challenge especially with some of the JavaScript frameworks I know with React and Angular stuff, there's more architecture built into the frontend. We're kind of blurring the lines there. In that case, I could see that. I haven't actually worked a lot with React so I can't really talk to that, but in general, I find that web development is more of the making the things work and translating directly from the requirements, I need to build a page with this button that does this thing to the code and the markup that makes that happen. Whereas the backend stuff that you might do that is not visible to a UI is going to be more like, okay, you've got these big requirements and ideas and now you have to come up with this architecture and stuff. That may appeal to you more.
+
+Again, it depends on you. This is just my opinion. If you're creative and you like design and development type of stuff, maybe that creativity will be sparked in web development. But if you're a different kind of creative and you like the problem solving, deep algorithm type of stuff then the backend stuff is probably going to be more appealing to you. That's what was more appealing to me, although, like I said, I've done both and I've enjoyed both in my career. I just would prefer, if I had a choice, if someone said, "Okay, you can only do 1 kind of development for the rest of your life" I'm going to skip the web and all of the problems and complexities of that and I want to work on the pure backend stuff. That's just me.
+
+What about you? Leave a comment below and let me know what do you prefer. Let's take a vote here: web development or non-web development, software development. I don't know if we should divide it that way. We can say frontend or backend. What are you, a frontend or backend? What do you prefer? Also, out of curiosity, what are you doing now? Are you doing what you prefer? Because I'm curious of how many of you are not doing what you actually would prefer to do. Leave a comment below to let me know. If you like this video, click the subscribe button. You'll get more videos like this, 2 to 3 a day, and I will talk to you next time. Take care.
+
+[Create data driven applications](https://dzone.com/go?i=155123&u=http%3A%2F%2Fplayground.qlik.com%2Fhome) in Qlik's free and easy to use coding environment, brought to you in partnership with [Qlik](https://dzone.com/go?i=155123&u=http%3A%2F%2Fplayground.qlik.com%2Fhome).

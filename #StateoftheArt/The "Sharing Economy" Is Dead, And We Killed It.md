@@ -1,0 +1,89 @@
+# The "Sharing Economy" Is Dead, And We Killed It
+
+_Captured: 2016-06-12 at 02:04 from [www.fastcompany.com](http://www.fastcompany.com/3050775/the-sharing-economy-is-dead-and-we-killed-it)_
+
+"How many of you own a power drill?" Rachel Botsman, the author of the book _The Rise Of Collaborative Consumption_, asked the audience at [TedxSydney](http://www.ted.com/talks/rachel_botsman_the_case_for_collaborative_consumption?language=en) in 2010. Predictably, nearly everyone raised his or her hand. "That power drill will be used around 12 to 15 minutes in its entire lifetime," Botsman continued with mock exasperation. "It's kind of ridiculous, isn't it? Because what you need is the hole, not the drill."
+
+After pausing for a moment as the audience chuckled, she provided the obvious solution.
+
+"Why don't you rent the drill? Or rent out your own drill to other people and make some money from it?"
+
+Back then, this version of what Botsman called collaborative consumption, or what would become better known as "the sharing economy," seemed like a warm and fuzzy inevitability. American consumerism had been tamped by one of the worst recessions in history, concerns about the environment were growing, and new online networks provided a connective thread that could help us get by on less by sharing things with our neighbors. "We now live in a global village where we can mimic the ties that used to happen face to face, but on a scale and in a way that has never been possible before," Botsman explained, and these new systems allowed us "to engage in a humanness that got lost along the way." We were now, she said, experiencing "a seismic shift from individual getting and spending towards a rediscovery of collective good."
+
+Already there were a bevy of startups with dreams of facilitating the community-shared power drill. Ecomodo had launched in 2007; Crowd Rent, Share Some Sugar, and NeighborGoods in 2009; Thingloop, OhSoWe, and SnapGoods in 2010.
+
+The media loved the idea. _Entrepreneur_ magazine named NeighborGoods one of its [100 most brilliant companies of 2011](http://www.entrepreneur.com/article/219673), and it's hard to find a publication that covers technology that did not mention the idea of sharing the power drill. Many of them cited the example directly: _[Time](http://content.time.com/time/specials/packages/article/0%2C28804%2C2059521_2059717_2059710%2C00.html)_ magazine explained that "renting a power drill via SnapGoods for the one day you need it is a lot cheaper than buying it." _[The Guardian_](http://www.theguardian.com/sustainable-business/collaborative-consumption-sharing), when introducing NeighborGoods, said that the idea made sense "with the average power drill used only about 12 minutes per year." _[The New York Daily News](http://www.nydailynews.com/news/money/borrow-items-neighbors-new-web-site-article-1.349441)_ told New Yorkers they could "save countless ways by borrowing items, like a power drill, from neighbors." And _[Wired](http://www.wired.com/2011/02/rentalship-the-new-ownership/)_ asked, "If I can avoid buying an electric drill for that one job, or some temporary dinner-party chairs, or a car I will drive maybe a couple of times a month--well, why wouldn't I rent them from you?"
+
+Even companies that weren't renting power drills proselytized the theory. "There are 80 million power drills in America that are used an average of 13 minutes," Airbnb CEO Brian Chesky told the _[New York Times_](http://www.nytimes.com/2013/07/21/opinion/sunday/friedman-welcome-to-the-sharing-economy.html) in a 2013 column about the sharing economy. "Does everyone really need their own drill?"
+
+There was just one problem. As Adam Berk, the founder of Neighborrow, puts it: "Everything made sense except that nobody gives a shit. They go buy [a drill]. Or they just bang a screwdriver through the wall."
+
+![](http://b.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2015/09/3050775-inline-i-2-the-sharing-economy-is-dead-and-we-killed-it.jpg)
+
+> _Photo: [BLACKDAY](http://www.shutterstock.com/pic-314742137/stock-photo-picture-of-different-dried-flowers-captured-through-the-glass.html?src=W1brObXY9lER80is77EnHw-1-54) via Shutterstock_
+
+**Of the** eight sites listed above, only NeighborGoods is still around--after it ran through its seed funding, [it was salvaged](http://www.fastcoexist.com/1682702/what-happens-now-that-sharing-economy-pioneer-neighborgoods-has-been-acquired) by an investor with a personal interest in the idea. About 42,000 people have signed up, though fewer than 10,000 are active. While sites like Airbnb and Uber became giant companies, the platform on which we would share our power drills with neighbors never took off.
+
+Instead of platforms that would inspire human interaction and create less waste, what emerged were companies that awkwardly fit into--and at times completely twisted--this vision of neighborhood sharing. The "sharing economy" grew to include an odd menagerie of companies with little in common. Groupon "shared" the collective action of tipping a deal. Kickstarter "shared" a similar funding goal among many contributors. Sites like Airbnb "shared" homes, but charged by the night, like a hotel. Gig economy platforms like Uber and Handy "shared" the labor of independent contractors paid by the hour or mile. Netflix somehow even [managed](http://www.theguardian.com/sustainable-business/2014/feb/06/how-the-netflix-model-impacts-the-environment-economy-and-society) to fall under the sharing economy umbrella at one point.
+
+Though a few pieces of the original "sharing economy" promise survived, like peer-to-peer [car-sharing services](http://www.fastcompany.com/3032358/most-creative-people/the-airbnb-of-car-renting-how-relayrides-is-switching-gears) RelayRides and Getaround and bike-sharing site [Spinlister](http://www.fastcoexist.com/1682784/the-return-of-spinlister-how-to-revive-a-dead-sharing-economy-startup), today they are largely divorced from the concept of a global village. Somehow, when a major hotel chain forms a partnership with a $50 billion company, it is able to pass the move off as [joining the "sharing economy."](http://www.nytimes.com/aponline/2015/09/01/us/ap-us-travel-brief-hilton-uber-bedfellows.html)
+
+But the real sharing economy is dead.
+
+It was a beautiful idea that struck hard, but when it died, nobody seemed to notice ([some publications](http://www.washingtonpost.com/business/get-there/uber-just-the-latest-tech-firm-to-disrupt-an-industry-with-forward-thinking/2015/01/29/db40e478-a811-11e4-a7c2-03d37af98440_story.html) continued to cite SnapGoods, for instance, a year after it shut down). And nobody seemed to ask the question of how an idea that everybody loved so much, an idea that made so much sense on a practical and social level, morphed into the [pure capitalism](http://www.fastcompany.com/3050250/what-makes-uber-run) that it is today.
+
+**For Gary Cige,** who founded a peer-to-peer rental platform called Zilok in 2007, inspiration struck after he actually did need a power drill on a Sunday in Paris. For Ron J. Williams, the founder of SnapGoods, it was a motorcycle he rented from Craigslist. For Keara Schwartz, the founder of Share Some Sugar, it was a ladder.
+
+The story behind neighborhood sharing services, no matter the object, often goes something like this: "I didn't know how many times I would need [the ladder], so I thought, there has to be someone who I can borrow it from," Schwartz says. "I rang a couple of neighbor's doorbells, and people didn't have long enough ladders . . . So I went online and I was like, okay, $175 to buy something I'm probably going to just use once. That seems ridiculous. But it was so easy to find something online to buy that I figured oh gosh, it should be this easy to find something in my neighborhood. That's kind of when the lightbulb went off."
+
+The idea of renting to neighbors launched to a flurry of attention and praise.
+
+Williams's mother took articles about SnapGoods to show her neighbors, and for the first time, Williams felt that she really understand what he did. "We never paid a dime for PR," he says. "We never invested in aggressive marketing . . . but we had just an absurd amount of traffic for a pretty green team doing a startup from the ground up." The site drew about 30,000 visitors per month at its peak, and SnapGoods signed up about 100,000 users. After he appeared on the _Today_ show, for instance, Berk says about 2,000 people signed up for Neighborrow in one week.
+
+But most of these platforms soon discovered a discomforting incongruity between enthusiasm for the concept and actual use.
+
+"Everybody loved the idea. It was like, 'Oh, this is great. I would love to use it,'" says Schwartz. "Then I launched the thing, and it was super-slow adoption."
+
+SnapGoods and NeighborGoods had more people who wanted to lend things than wanted to pay to use them. Share Some Sugar had the opposite problem. Some sites had pockets of items that worked--on SnapGoods, for instance, electronics and photo equipment took off--but it was tough to become the default platform for renting anything. For NeighborGoods founder Micki Krimmel, it seemed like a matter of execution. A change she made right away was removing the option to rent goods, which ensured the platform would truly be focused on neighborhood favors.
+
+"When you're making something and everybody is like, 'Oh my god, that's brilliant. How come nobody ever thought about that before?' You definitely feel as though you're on the path to something," Krimmel says. "I am less optimistic about it now, because I've seen where the sharing economy has gone."
+
+![](http://a.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2015/09/3050775-inline-i-1-the-sharing-economy-is-dead-and-we-killed-it.jpg)
+
+> _Photo: [Nneirda](http://www.shutterstock.com/pic-309725210/stock-photo-close-up-photo-of-a-cnc-drilling.html?src=QEghKJIWsHjsCpd8oXwEUw-1-50) via Shutterstock_
+
+**"Let me ask** you this," Williams says. "For a drill, which by the way now costs $30, and you can get it on Amazon Now and have this thing delivered to you in an hour if you live in New York City--for something worth $30, is it really worth your time to trek potentially 25 minutes to go get something that you spent $15 to use for the day, and then have to trek back?"
+
+For most people on the sharing platforms, the answer was no. The people for whom the answer is yes were unlikely to be using platforms like SnapGoods, which generally attracted upper middle class early adopters who were comfortable with technology. Williams [had ideas](http://www.fastcompany.com/3000124/snapgoods-ceo-ron-j-williams-has-problems) about how to lessen the pain. Maybe, he thought, he could convince livery drivers to transport goods for a fee when they had empty cars (a great idea, it turns out, that Uber would later embrace). In order to address the problem of more people posting goods than renting them, he refocused the site so that people could advertise the things they wanted. "I need a power drill, do you know anyone?" turned out to be drastically more shareable than "I have a powerdrill!" Eventually that tool illuminated a need to make targeted outreach across social networks easy, which seemed more promising than SnapGoods. He shifted his attention to creating that technology, today called [Knod.es](http://www.getsimplist.com/), and shut down SnapGoods. Now he is the managing partner of a strategy and product development consultancy firm called [proofLabs Group](http://www.prooflabsgroup.com/#main).
+
+Schwartz moved from Cincinnati, where she had founded Share Some Sugar, to New York, and she slowly stopped answering customer service emails until she shut the site down about three years ago.
+
+"We tried everything: Schools, temples, affinity groups, suburbs," Berk says of Neighborrow. "It _should_ work in offices. It doesn't work there either." After he failed his cofounder's challenge to get three (yes, three) of the site's thousands of registered users to make transactions, he moved on to another project.
+
+The most successful "sharing economy" startups ended up being those that made the process as efficient and transactional as possible. "What Airbnb did quite well is that the process where you rent a room anywhere is actually quite similar to a hotel room," says Cige, the founder of Zilok. "For peer-to-peer car rental, it's exactly the same." Cige left Zilok in 2011, four years after founding it. Though it exists, it spun off a more successful car-lending platform called ouicar.com.
+
+Other companies that claimed space under the "sharing economy" umbrella and its halo effect, meanwhile, have transitioned away from that narrative. Lyft may have debuted its service as a more neighborly, peer-to-peer version of Uber--encouraging people to greet their drivers with a fist bump, fuzzy pink mustaches--but now it's [competing on price instead](http://fortune.com/2014/05/28/in-price-wars-some-uber-and-lyft-drivers-feel-the-crunch/).
+
+Parking Panda once marketed itself as a way to [share parking spaces with neighbors](http://techcrunch.com/2012/04/23/parking-spot-finder-parking-panda-raises-seed-round-expands-to-d-c/), but now many of its [shared parking spaces](http://www.fastcoexist.com/1681918/how-to-get-around-the-peak-car-conundrum) are in restaurants, hotels, commercial garages, and airports. Rent the Runway successfully rents dresses, but from [a warehouse full of 65,000 garments](http://www.fastcompany.com/3036876/most-creative-people/inside-rent-the-runways-secret-dry-cleaning-empire), not from stylish neighbors. And Zipcar, acquired by Avis in 2013, successfully changed the way we rent cars, but we're definitely not meeting each other by doing so. Calling Groupon, Netflix, or Kickstarter a "sharing economy" company at this point almost sounds absurd.
+
+It's not that these tools and sites aren't good services or that they don't make things easier. It's rather that they have little to do with the original promise of the sharing economy. Really, it's more of an "access economy," a term Williams used from the beginning. "We hated that terminology," he says of the sharing economy. "Hated it with the heat of a thousand suns."
+
+![](http://c.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2015/09/3050775-inline-i-3-the-sharing-economy-is-dead-and-we-killed-it.jpg)
+
+> _Photo: Flickr user [jar [o]](https://www.flickr.com/photos/jariceiii/4926922267/in/photolist-6n6zSc-eT5Roi-8vnLkD-aqpLCG-aikff4-awpBWF-9qUAqa-er7mvB-5LtptM-7fVQxv-8qi3F4-8qi2VP-8qmb5Y-8qmcAs-8qmcjL-8qmbv1-8qi3pe-9hQCj4-ocrsEH-j1pKuG-6ZPrAo-5R8xvt-c2Rqej-cBiX1Q-7dy9SV-7CNryp-7CNrBZ-8gkuNX-4cvGuU-qGTGvz-qX44u3-qX3Ygs-g7W6E8-afUB7x-4TLGoA-iXYpJa-61m8nF-2XUPVb-aUDAE2-cDphCL-ntzPnD-7PnSGj-75tsaF-cnZBdS-9qzMaa-EFBTN-82b6rf-8nSrfV-2W3a9S-akYDf2)_
+
+**For Brendan Benzing,** it was a power washer.
+
+"It was daunting," he says of the seven-mile trip to and from Home Depot to rent the tool. "It cost me $90. I knew there were people in my neighborhood who had the item but I didn't know who they were."
+
+Last year, he and his cofounder, Sebastien Martel, founded [MyNeighbor](https://myneighbor.com/), a platform for renting and borrowing anything. They're convinced that this time around, things will be different. "It's not often the company that was first that tends to succeed," Benzing tells me. "It's the 10th or 13th."
+
+About 1,000 people are participating in MyNeighbor's Seattle pilot.
+
+Maybe the timing _is_ better. Now there are courier services in many urban areas that will whisk your power drill from point A to point B for a minimal fee. Neighborhood social network Nextdoor [has scaled](http://www.fastcompany.com/3005759/nextdoor-social-network-neighborhoods-raises-funding-early-facebook-linkedin-investors) across 69,000 communities, proving that neighbors do want to connect. Facebook [recently added a feature](http://www.wsj.com/articles/facebook-advances-bazaar-ambitions-1441323353) that makes it easy for people in groups to buy, sell, and trade items. Peerby, the most successful current peer-to-peer rental platform, says it has processed more than 100,000 transactions and has 500,000 users. An article in the _[New York Times](http://www.nytimes.com/2015/09/03/business/smallbusiness/sharing-economy-goes-hyperlocal-with-a-growing-market-for-household-items.html)_ puzzlingly positioned it as a continuation of the trend Airbnb, Uber, and Lyft's business models rather than as an idea that was folded into these businesses from the beginning ("Want a power drill to help you hang those blinds?" the article asked, once again. "It's just a mouse click away.")
+
+Maybe the sharing economy really has come full circle, and what started as an idea about sharing among neighbors will finally turn into popular tools for sharing among neighbors. What's certain is that people still love the idea. When [Nielsen polled more than 30,000 Internet users](http://www.nielsen.com/us/en/insights/reports/2014/is-sharing-the-new-buying1.html), 23% of them said they would be willing to rent their power tools to neighbors.
+
+Even Berk, who stopped looking for funding for Neighborrow in 2009, who believes that the core problem with the idea was not trust, insurance, funding, interface, or anything other than human apathy, is still trying to make the sharing economy work. If someone requests something from Neighborrow that isn't already on the inventory list and costs less than $250, he will buy it from Amazon, send it to them, and ask them to send it along to the next user who wants to rent it.
+
+"I will never shut it down, ever," says Berk, who now works as a lean startup consultant. "But I couldn't just live in fantasy town forever."

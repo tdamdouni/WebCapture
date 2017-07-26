@@ -1,0 +1,31 @@
+# Agile Scrum Development
+
+_Captured: 2017-04-16 at 23:34 from [dzone.com](https://dzone.com/articles/agile-scrum-development?edition=290924&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202017-04-16)_
+
+Reduce testing time & get feedback faster through automation. Read the [Benefits of Parallel Testing](https://dzone.com/go?i=124039&u=http%3A%2F%2Finfo.saucelabs.com%2Fpaper-benefits-of-parallel-testing.html%3Futm_campaign%3Dparalleltestingwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-agile), brought to you in partnership with [Sauce Labs](https://dzone.com/go?i=124039&u=http%3A%2F%2Finfo.saucelabs.com%2Fpaper-benefits-of-parallel-testing.html%3Futm_campaign%3Dparalleltestingwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-agile).
+
+Agile methods are an alternative to stage-gate project management, including software application projects. Stage-gate methods of management depend on project managers delivering artifacts that record a completed task. A list of required artifacts for each stage is established, usually by a PMO, that needs to be created, reviewed, and approved before the next stage of the project's life-cycle can be started. A change to the project must be submitted via a project change request or PCR. Changes are strongly discouraged and take a long time to approve.
+
+The [Agile Software development](https://www.otssolutions.com/product-engineering/product-development.html), or Scrum development, approach assumes that changes will occur during the product's life-cycle and are welcomed as long as they improve the customer experience. In other words, what the end customer wants and needs will change over time as they get to interact in phases (or releases) with the solution. Scrum development teams start working with a product owner, or user representative, as early as possible, to determine what is called the minimum viable product, or MVP. The MVP is an understanding with the product owner of the minimum functionality required to do something useful and from which incremental development, or releases, will proceed until the full set of requirements is delivered. Scrum teams are made up of five to seven members, with role flexibility in mind. Work is done in "Sprints" lasting three to five weeks, at the end of which there should be a fully tested product with additional functionality.
+
+There are only three key roles in a Scrum team: product owner, developer/tester, and ScrumMaster.
+
+## **Product Owner**
+
+The product owner represents the product users and their vision of what the product functionality is to be. One way they convey this vision to the Scrum team is through product backlog "grooming" meetings, or prioritizing features lists (a.k.a. user stories) for the product. A product owner delivers a solid understanding of users, the business competition for those customers, and a product roadmap with a vision for the future. Product owners must collaborate and compromise, since it's the Scrum team who selects from the backlog priorities the amount of work they commit to during each Sprint, trusting that they know best what they are capable of. In return for that commitment, the product owner makes a reciprocal commitment of not coming up with new requirements during a Sprint. Requirements are allowed to change (and change is encouraged) but only outside the Sprint.
+
+An individual in the product owner's role is expected to be actively engaged with the Scrum team, be business savvy, and skilled in communicating different messages to different people, internal and external to the organization, sponsors, and stakeholders of the project at any given time.
+
+## **Developer/Tester**
+
+In non-Agile, traditional [software development](https://www.otssolutions.com/product-engineering/product-development.html), a programmer's role (Developer) is sharply separated from a tester's role (Quality Assurance). In Scrum teams, where members are encouraged to be flexible and knowledgeable with many tasks, at any given time, if necessary to meet the Sprint commitments, everybody works together to improve and build quality into the product. Developer's don't program and hand-out their work to be tested. Tester's don't just run test scripts, identify defects, and log them for fixing. They work and complement each other and roles may rotate Sprint by Sprint, per each member's strengths, weaknesses, and desire to learn new things. It will be difficult for individuals to meet the acceptance criteria of what they are developing and consider a story "done" without early-on tester collaboration and tester's won't be effective without immersing themselves and understanding the developer's work. There are no set/fast rules; it boils down to a team agrees to work on in their Sprint.
+
+## **Scrum Master**
+
+[Scrum Masters](https://www.otssolutions.com/blog/how-to-derive-effective-results-using-scrum-agile-methodology/) serve as mentors and champions of the Scrum way of doing things. They also organize meetings associated with it such as Sprint planning, backlog grooming with the product owner, stand-up meetings, reviews, and retrospectives. The Scrum Master role is similar to the traditional project manager but without complicated process and procedures to follow. Scrum Masters are flexible and ideally can take on any Scrum role to complete a task that is required to move the Sprint forward.
+
+## **Summary**
+
+Scrum team roles must be assigned wisely. Look for a potential member's cultural fit and acceptance of their responsibility in the Sprint. Let the team come up with their own working agreement decisions, and trust their daily procedures for communication and collaboration.
+
+The Agile Zone is brought to you in partnership with [Sauce Labs](https://dzone.com/go?i=121022&u=http%3A%2F%2Finfo.saucelabs.com%2FHow-to-Get-the-Most-out-of-CICD-Workflow.html%3Futm_campaign%3Ddevops%2Bwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-agile). Discover how to optimize your DevOps workflows with our [cloud-based automated testing infrastructure](https://dzone.com/go?i=121022&u=http%3A%2F%2Finfo.saucelabs.com%2FHow-to-Get-the-Most-out-of-CICD-Workflow.html%3Futm_campaign%3Ddevops%2Bwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-agile).

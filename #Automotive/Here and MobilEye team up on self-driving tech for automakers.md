@@ -1,0 +1,13 @@
+# Here and MobilEye team up on self-driving tech for automakers
+
+_Captured: 2016-12-29 at 16:19 from [www.engadget.com](https://www.engadget.com/2016/12/29/here-and-mobileye-team-up-on-self-driving-tech-for-automakers/)_
+
+There are so many companies working on autonomous car tech that we're now seeing the inevitable next phase: partnerships and consolidation. Case in point is a tie-up between MobilEye, the sensor maker that supplied sensors to Tesla before a [messy split](https://www.engadget.com/2016/09/16/tesla-mobileye-response/), and Here, the mapmaker Nokia recently [sold](https://www.engadget.com/2015/08/03/nokia-here-maps-sale-bmw-mercedes-audi/) to a German automaker consortium. The idea is to package Here's HD Live mapping software with MobilEye's hardware and sell it as a third-party automated platform to any interested car manufacturers.
+
+MobilEye had a very public falling out with Tesla, accusing the EV maker of "[pushing the envelope](https://www.engadget.com/2016/09/15/mobileye-bailed-on-tesla-over-autopilot-safety-concerns/)" in terms of safety. Elon Musk's company in turn said that its former supplier tried to block tech it was trying to develop in-house. Meanwhile, MobilEye has made other deals with [BMW](https://www.engadget.com/2016/07/01/bmw-intel-mobileye-autonomous-driving-partnership/), one of the owners of Here, and [Delphi](https://www.engadget.com/2016/07/01/bmw-intel-mobileye-autonomous-driving-partnership/), the auto parts company started by GM.
+
+![](https://s.aolcdn.com/hss/storage/midas/e10fa5e230d02193903bc41e772660d0/204752652/here-mobileye-2016-12-29-03.jpg)
+
+With the tie-up, Here will use MobilEye's so-called "roadbook," a cloud-based map of the world's roads derived from crowd-sourced vehicle sensor data. That''ll give Here's HD Live mapping system access to "landmarks and roadway information to assist in making a vehicle more aware of -- and better able to react to -- its surroundings," the companies say. MobilEye, in turn, be able to store its raw sensor data in Here's open mapping platform, making it easier to update and maintain the roadbook.
+
+Here points out that autonomous vehicles need precise and up-to-date map data, and thinks it can "accelerate that work with MobilEye." In turn, MobilEye says it wants to create a "world HD-map standard" with Here, "with the objective of eventually launching an industry-wide initiative." Considering the huge number of players now in the [self-driving](https://www.engadget.com/tag/self-driving/) game, however, it's hard to see any kind of "industry-wide" buy-in on proprietary tech at this point.

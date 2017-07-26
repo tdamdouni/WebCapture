@@ -1,0 +1,25 @@
+# For distributed agile teams, tools come last
+
+_Captured: 2017-03-31 at 00:51 from [mckilby.wordpress.com](https://mckilby.wordpress.com/2015/11/03/for-distributed-agile-teams-tools-come-last/)_
+
+![world-wide software development - pictofigo](https://mckilby.files.wordpress.com/2015/11/world-wide-software-development-pictofigo.png?w=296&h=300)
+
+> _From http://www.pictofigo.com/picture/detail/2650_
+
+Having worked with a number of distributed agile teams over the years, I'm often asked what is the best tool to use. Many people want to find the one tool that will allow their distributed team to work just like a co-located team. I find that there are usually other questions to address first.
+
+The Agile Manifesto actually gives us a better way to think about establishing our distributed teams. The first value states: "Individuals and interactions over processes and tools". These four elements (individuals, interactions, processes and tools) are all important to establish for any team, but they also can give us a prioritized list of questions to answer. Let's go through those questions in order to see how we might set up our distributed teams.
+
+**_Individuals_** - I try to understand the people on the team first. Do we understand why each person chooses to work this way? Are they seeking flexibility? Are they looking for more of a work-life blending as opposed to work-life balance (which can still lead to different forms of multi-tasking)? Are they seeking to save time in their day with no commutes? Do they want to work with the best and brightest no matter where they are located? Do they believe in the vision and mission of your organization? If you don't know why people work distributed, how do you know they will function well in your distributed team? You need to know what the individuals value. Each person needs to be clear on "What's in it for me?" (WIIFMe).
+
+**_Interactions_** - Do we understand why our team exists? Do we know what the goal is for this team? What's in it for us (WIIFUs) to work together as a team? Do we understand what the team produces and how it will benefit others? Do we have a way to get feedback from people inside the team and outside the team on a frequent and regular cadence? What's in it for others (WIIFOthers) for this team to exist?
+
+This includes how the team interacts with the rest of the organization. As a company, do we know why we want to work this way? Are we working distributed because we value the unique skills of the people on the team, are we merely looking to cut costs, or is there another reason? Working distributed is very different than the experience of many people these days. It takes discovery, intention, and focus. If we are distributed to focus on gathering the right individuals for the team, we are building a strong foundation. Does our team understand how their contributions help the company? (Again, WIIFOthers to have this team?)
+
+**_Processes_** - Working distributed can be different, but using agile approaches actually makes it easier with it's emphasis on communication and rapid feedback. However, there are a number of details the team needs to work through based on time zones, cultures, working preferences, and values. Also, the details of "how" we implement agile practices can be different than for co-located teams. (See my [Agile2015 experience report](http://www.agilealliance.org/files/3114/3751/8870/ExperienceReport.2015.Kilby.Can_you_be_Remotely_Agile.pdf) or the [Sonatype blog series "How we do it"](http://bit.ly/sonatypeagile))
+
+**_Tools_** - Once you have worked through the questions above, then you can begin to look at tools. If you understand what the individuals on the team need, how they need to interact with each, and the processes they will use, the tools you need will be much easier to locate and choose. You will likely discover that answering the questions above will make it clear there is no single tool that will support the team and processes. Also, as your team inspects and adapts, so will your selection of tools.
+
+There are two great resources that immediately come to mind to work through these questions. Ainsley Nies and Diana Larsen have captured many of these questions and a framework to work through them with any team in their book, [Liftoff: Launching Agile Teams and Projects](http://www.amazon.com/Liftoff-Launching-Agile-Teams-Projects/dp/097792016X). Another great resource is the [Successful Distributed Teams course by the Modus Institute](http://modusinstitute.com/courses/successful-distributed-teams). In this course, they not only cover project charters and mapping out the workflow of the distributed team, but they also consider the communications approaches and how the team will build rapport, learning, and change management.
+
+Want to dive even deeper? Then join me in Berlin for a gathering of some of the key pioneers in the area of distributed agile. [The Distributed Agile Teams Flock](http://bit.ly/DATFlock2015) will convene on Nov 19-20, 2015. Hope to see you there!
