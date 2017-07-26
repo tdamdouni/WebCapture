@@ -1,0 +1,86 @@
+# AI and robots will take our jobs - but better ones will emerge for us
+
+_Captured: 2017-04-13 at 21:43 from [www.wired.co.uk](http://www.wired.co.uk/article/jobs-of-the-future)_
+
+An increasingly popular concern is that robots will eat up labour's share of income at an accelerating rate, leaving ordinary workers impoverished and unemployed. A common dinner conversation topic in Silicon Valley is universal basic income, and the typical argument advanced for UBI is that we are destined to indefinitely continue losing jobs faster than we replace them. Variants on this theme have circulated since the dawn of the Industrial Revolution. Improvements in farming technology have been greeted with skepticism since ancient times for these reasons. Mechanical contraptions for sewing and other tasks were decried as potentially ruinous to workers in Elizabethan England. Around the same time that working-class Luddite Rebellion and Captain Swing protestors rioted and destroyed machinery, upper-class Victorians issued treatises on the bleak prospects for most workers.
+
+There is always a grain of truth to these complaints because technological innovations inevitably displace some segment of the workforce. In general, the current technological revolution is displacing those workers whose jobs consisted of routine, repeatable tasks. The information architecture underpinning the work processes of all our major industries is being upgraded to cloud and mobile ecosystems and is leveraging big data in thousands of new ways -- a trend we describe in [The Smart Enterprise Wave](http://formation8.com/resources/the-smart-enterprise-wave/). One consequence is that many cashier, telephone operator, mailroom, clerical, stenographic, and data-entry jobs are on the way out. In addition, advances in machine learning and robotics make it possible for manufacturers to accomplish more with fewer workers. We may also experience temporarily higher unemployment as semi-autonomous vehicle technology enables a pair of truck drivers to safely navigate a convoy of multiple trucks. Roughly 50 per cent of jobs in the US economy have been replaced with new forms of labour every 60 to 90 years.1
+
+Technological unemployment is always scary because it's hard to understand what the future will hold. But despite spikes during brief periods of disruption, unemployment rates have not appreciated over the course of the last three centuries.
+
+Innovation is the only sustainable way to make society wealthier and better off. In terms of real GDP, Americans are on average more than eight times wealthier today than they were in 1917 2. In the 16th century, Queen Elizabeth was practically the only person wearing silk stockings. In the 21st century, any American woman can. A similar point holds true for cars, plumbing, electricity, and a variety of other modern wonders that began as luxury goods. When technological unemployment occurs, laid-off workers seek retraining and private sector leaders create transitional infrastructure to reabsorb them into the economy. Innovative technologies create more wealth and better jobs in the end by eliminating unpleasant rote work and increasing overall productivity.
+
+In the past 30 years, we have experienced a complicated period of globalisation. Global inequality has actually decreased as emerging markets have prospered from market reforms. However, with global competition, prosperity in the West has been unequally distributed -- many working class families have struggled in the face of stagnant wages. But we should not lose sight of the positive 100-year trend of rising standards of living for all demographics of American society.
+
+Imagine that you are an average American living in the late 19th century: a time when workplace fatalities were 30 times more likely than current levels, there were rampant disease outbreaks of typhoid, cholera, and tuberculosis, and many farmers were barely able to sell enough crops to survive. Even if you were a wealthy, talented visionary, you still wouldn't have been able to imagine the new kinds of jobs that would be available by the 1980s. If a time traveller attempted to explain the concept of MTV, a Best Buy, or an air traffic controller to you, you would have been completely lost.
+
+You would have been justifiably worried about the future unemployment of the bobbin turners, candle makers, and small-time agrarians of your day. But hundreds of millions of new employment opportunities would open up, as living conditions continued to surge upwards. Neo-Luddite fears about technological unemployment are limited in the same way as our ancestors' worldviews. The late 19th century was not the end of history, nor is today. Innovation has consistently led to greater productivity -- meaning society can produce more with less -- and an increased demand for new jobs and services. To avoid the Luddite mistake, we must think about the future of labour with a healthy dose of creativity and an expansive frame of mind.
+
+### 12 Jobs of the Future:
+
+The "creative destruction" driven by innovation is scary because it's hard to predict what a future, wealthier society looks like. Imagine explaining software engineering to your great, great grandparents! Here are 12 example ideas for areas where we might expect future jobs.
+
+### VR/AR and Personalised Entertainment
+
+As [virtual reality](http://www.wired.co.uk/topic/virtual-reality) hardware and software evolve, whole new historical novels and science fiction adventures will be tailored to people's individual personalities. Demand will rocket for talented creatives or human actors who control dynamic avatars in personalised storylines. Hollywood and gaming industries will collaborate on building interactive environments in multiple dimensions -- employing millions. Already, many gamers have found work entertaining massive audiences on virtual platforms such as Twitch and Caffeine, and performing other services such as "mining" items.
+
+### Nanotechnology
+
+The [nanotechnology](http://www.wired.co.uk/topic/nanotechnology) market has exploded since 2000, currently employing more than a million Americans and growing. As a result, we may see substantial advancements in semiconductor technology, hyper-targeted drug therapeutics, and aircraft construction. We may eventually see clothing that moulds to your skin and "utility fog" particles that allow rooms and spaces to shape themselves around you and your work, sports, and entertainment.
+
+### E-marketing
+
+Designing, building, and managing community marketplaces for brand and business purposes can probably also employ millions of Americans part time. UX designers and content writers; social media influencers such as style bloggers, YouTube stars and Instagram celebrities; digital marketing consultants, and other e-marketing professionals will find employment opportunities in our changing economy. How we understand and measure communities and influence is likely to change, and new roles will develop for people with different interpersonal skills to contribute to this sector of the economy.
+
+### Space Economy
+
+If [Elon Musk](http://www.wired.co.uk/topic/elon-musk) is right, in the next 10-30 years, advances in spaceflight technologies will create an entirely new economy in our Solar System. Construction of new habitats on the Moon and Mars will create colony design, terraforming jobs, and work building vehicles to handle the new terrain. We will see everything from construction of caves for shelter to asteroid ice mining for water, to create hydrogen-based fuel and possibly agriculture. We will see all sorts of new entertainment, from Ender's Game like competitions to guides for Zero-G party "experiences"! Commercial spaceflight will generate tourism and shipping industries which will require trained crews of astronauts, technicians, and service workers.
+
+### Senior care
+
+When the Baby boomers age out of the workforce, they will require high-quality residential assistance with health, hygiene, transportation, meal preparation, housekeeping and more. Given how spoiled Baby boomers are, these wild children of the 60s and 70s will no doubt respond well to new forms of attention and entertainment! Taking care of our nation's elderly in a tender, loving way -- if done well -- will generate millions of new jobs. I am excited about a company called [Honor](https://www.joinhonor.com/), which sources local home care for elderly individuals who require comfort, affection, and respect.
+
+###   
+Sharing Economy
+
+Our newly-minted sharing economies are a creative expansion of the service industry. You can now serve someone else by renting them your room on AirBnB, giving them an Uber ride in your free time, or renting them your power tools. Information technology is expanding our capacity to serve each other by performing new kinds of delivery and freelance work in the "gig economy".
+
+### Energy
+
+Technological breakthroughs in fracking and the [renewable energy](http://www.wired.co.uk/topic/renewable-energy) sector have created jobs for millions in America. As energy technologies develop and drive down prices, this industry will continue to expand. In addition to creating jobs for technologists and scientists working on carbon capture, petrochemical refining, and more, we will continue to open up lower-skill jobs installing solar photovoltaic panels and wind-turbines, and retrofitting energy efficiency monitors and appliances on to older buildings.
+
+### Coaching
+
+Professional coaching will be in high demand as the American economy moves forward, also creating new jobs in the millions. New technology will quantify aspects of your emotional reactions, self-discipline, baseline outlook, and a new class of psychological coaches will emerge to help people improve their personalities. Large numbers of employment opportunities will also emerge for educational tutors, athletic/fitness instructors, love-counsellors, motivational speakers, online/video game content creation and more. We want the help of other people in holding ourselves accountable and improving our relationships with the people and projects we care about. An obvious source of economic value is helping others in this regard.
+
+### Organic data analysis 
+
+Scores of new jobs will open up at the juncture of data analysis and human opinion. Businesses will look to collect data on aspects of the marketing, design, features and more while also testing potential markets by sending out exploratory surveys. Amazon's "Mechanical Turk" is the prime example of this form of man/machine symbiosis, where workers rank options, perform sentence evaluations, and take short surveys from their devices to share their thoughts and feelings.
+
+### Chamberlains & Stewards 
+
+As technology enables a greater number of talented individuals to create large amounts of wealth, a plethora of staff roles will emerge for executive and personal assistants: individuals to whom people can delegate organisational, administrative, and communication tasks. Tens of millions of people wish they had house and event managers, personal assistants, masseuses, personally-tailored chefs, personal trainers, tutors for their children, staff to take care of pets and more. With new staff, the upper-middle class will live better than the lords and ladies of old. More social esteem will accrue to these kinds of positions, which are stimulating, fast-paced, and vital to the efficiency and success of our leaders.
+
+Jobs requiring direct human contact and interpersonal energy will emerge in the millions. New technology will open up richer worlds of human interaction as we develop new techniques for measuring and understanding our humanity. Nursing jobs, jobs in psychiatry and psychological therapy, business consulting work, human resources positions, cultural interpreter work, and customer experience analysis roles will all open up. The specifically human traits of empathy, language comprehension, and creative flexibility will all be at a premium.
+
+### Creation/Care of New Species
+
+CRISPR/Cas9 and other new techniques in synthetic biology are now making it possible to [genetically engineer](http://www.wired.co.uk/topic/genetic-engineering) plants and animals from scratch. Some groups are already drafting plans to revive mammoths in Siberia for environmental purposes (and hopefully anyone planning Jurassic Park will be more careful with the raptor DNA!). We will witness large demand for chimera pets and emotional support animals, as well as new species of animals to use in new and existing industries. We will also see genetically modified plants and fungi with new medicinal properties such as cancer-killing small molecules. Creating new species will keep millions of scientists, designers, medical researchers, caretakers and others busy.
+
+### But Doesn't AI Destroy All Jobs?
+
+Many of our friends believe that we are on the brink of developing superhuman [artificial intelligence](http://www.wired.co.uk/topic/artificial-intelligence) which will replace human labour, radically transforming our productivity function. Views that AI poses a serious existential threat or constitutes an incomprehensible inflexion point in the history of our species have taken on the character of a religion in Silicon Valley. While post-humanism is a fascinating obsession, and many take for granted the notion that computers will soon exceed human beings at nearly everything, I believe that the singularity is much farther away than people imagine. Machine learning is slowly improving and impacting many important industries, but is nowhere near the level of general human ability. If we all merge into a godlike super-consciousness or face events of similarly biblical proportion, concerns about employment will pale in comparison to more fundamental questions about the meaning of existence. But although some in every generation are eager to believe that a version of the messiah is soon to arrive, it is much more likely that in the meantime history will continue to unfold according to the economic logic of innovation, creative destruction, and job growth we saw in the 20th century.
+
+While some view AI as a kind of salvation, others have responded with anxiety. Policy rooted in fear tends to be irrational and repressive. The pro-jobs response to disruptive innovation is to cultivate a flexible economy that can swiftly adapt to technological change. First, we should increase upward mobility by making it easier to move and participate in high growth economic areas. This means fighting NIMBYism and poor zoning laws, and developing more suburbs in inexpensive areas 100-300 miles outside of our top cities. It also means introducing faster modes of transportation which enable people to live nearby and commute. Deployed with tunnels where necessary, the [Hyperloop](http://www.wired.co.uk/article/hyperloop-hype-machine), for instance, would make it possible for millions of people to live in inexpensive areas but access upward mobility in metropolitan centres.
+
+Second, we should make it easier for entrepreneurs to start new firms and employ more people in new forms of work. Wealth is only ever actually created from the bottom-up, with free people employing their distinctly human creativity and finding ways to serve and employ others. To make sure we're creating new jobs we need to cut the red-tape of over one million rules that make our economy sclerotic and deter new business formation -- and allow the market to rapidly evolve on its own terms to find new ways of employing millions of people.
+
+Fear is the wrong response to technological unemployment. Focusing on economic flexibility and adaptability -- with special attention to eliminating the barriers we've accidentally created to the mobility of the working classes -- is the right response to technological disruption. With sound policy in the context of a free and open society, I am optimistic that the coming advances in AI will massively reduce the cost to live a good life, and increase wealth and opportunity for all.
+
+Technological unemployment is scary for those affected -- but has always gone hand in hand with economic progress. In the next few decades, we will continue to invent new ways to entertain, educate, serve and delight others, employing billions in the process. Populists will predictably vilify innovation -- fear and hatred are powerful political weapons. But as our society grows more prosperous in absolute terms, raising the bar on the very definition of poverty, we will continue to create opportunities for people from all walks of life. The human mind and body remains the most complex, powerful machine on the planet, and we will adapt and thrive in a world of accelerating technological change. We owe it to our grandchildren to continue innovating.
+
+_Joe Lonsdale is a partner at [8VC](http://8vc.com/), and as an entrepreneur founded companies including Palantir, Addepar, and OpenGov.  
+_
+
+1\. See: Wyatt, Ian D. and Daniel E. Hecker. "Occupational Changes During the 20th Century." Monthly Labor Review, Bureau of Labor Statistics, 2006. [www.bls.gov/mlr/2006/03/art3full.pdf.[/note] />](https://www.bls.gov/mlr/2006/03/art3full.pdf.
+        </p&gt<br)

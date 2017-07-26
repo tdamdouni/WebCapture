@@ -1,0 +1,33 @@
+# UML-Werkzeug
+
+_Captured: 2015-10-22 at 10:51 from [de.m.wikipedia.org](https://de.m.wikipedia.org/wiki/UML-Werkzeug)_
+
+Aspekte der Funktionalitat von UML-Werkzeugen sind unter anderem die Unterstutzung von Diagrammen, Codeerzeugung und Reverse Engineering.
+
+Diagrammunterstutzung bedeutet in diesem Zusammenhang das Erzeugen und Bearbeiten von UML-Diagrammen, das heißt Diagrammen, die konform zur graphischen Notation der UML sind.
+
+Auf die Verwendung von UML-Diagrammen, um Diagramme von hauptsachlich objektorientierter Software zu zeichnen, hat man sich im allgemeinen unter Software-Entwicklern geeinigt. Andererseits wird kontrovers diskutiert, ob und in welchen Phasen der Softwareentwicklung solche Diagramme uberhaupt benotigt werden, und wie (wenn uberhaupt) diese Diagramme aktualisiert werden sollten. Der Vorrang des Programm-Codes fuhrt oft dazu, dass die Diagramme vernachlassigt werden.
+
+Ein wesentlicher Bestandteil der [modellgetriebenen Architektur](https://de.m.wikipedia.org/wiki/Modellgetriebene_Architektur) ist die Fahigkeit, verschiedene Modelle ineinander zu transformieren. Es ist zum Beispiel moglich diese Fahigkeit auf die Codeerzeugung anzuwenden, um aus einer UML-Notation automatisch [Java](https://de.m.wikipedia.org/wiki/Java_\(Programmiersprache\))-Code zu erzeugen. Des Weiteren konnen verschiedene Arten von UML-Modellen ineinander umgewandelt werden. Dies wird zum Beispiel durch [QVT](https://de.m.wikipedia.org/wiki/MOF_QVT) (fur Queries/Views/Transformations) ermoglicht. Ein Beispiel fur eine QVT-Implementierung ist die ATL-Sprache von INRIA.
+
+Quelltexterzeugung bedeutet in diesem Zusammenhang, dass der Anwender UML-Diagramme mit spezifizierten Modelldaten erzeugt, und das UML-Werkzeug als [Codegenerator](https://de.m.wikipedia.org/wiki/Codegenerator) fungiert und daraus einen Teil oder den gesamten [Quelltext](https://de.m.wikipedia.org/wiki/Quelltext) ableitet. Bei einigen Werkzeugen kann der Anwender ein Gerust des Programm-Quelltextes in Form eines Code-[Templates](https://de.m.wikipedia.org/wiki/Template_\(Programmierung\)) bereitstellten, in welchem dann vordefinierte [Token](https://de.m.wikipedia.org/wiki/Token_\(%C3%9Cbersetzerbau\)) wahrend der automatischen Codeerzeugung durch Quelltext ersetzt werden.
+
+Der Nutzen der automatischen Quelltexterzeugung aus UML-Diagrammen als solcher ist strittig und hangt zweifellos von dem spezifischen Feld und Grad der Anwendung ab. In bestimmten Bereichen ist die Codeerzeugung eine etablierte Methode und nicht auf UML beschrankt.
+
+Die Idee, die Ebene des Programmcodes komplett zu verlassen und das „Programmieren" auf der Ebene von UML zu beginnen (also auf Entwurfsniveau), ist unter Entwicklern umstritten. Es ist die Vision der modellgetriebenen Architektur. Die Idee ist nicht so verbreitet wie andere Werkzeuge der Softwareentwicklung, etwa [Compiler](https://de.m.wikipedia.org/wiki/Compiler) und Systeme fur das [Konfigurationsmanagement](https://de.m.wikipedia.org/wiki/Konfigurationsmanagement).
+
+Eine oft zitierte Kritik lautet, dass UML-Diagrammen eben jene Detailgenauigkeit fehlt, die notwendig ist, um die im Quellcode enthaltene Information abzudecken. Manche Entwickler sagen sogar: „Der Code ist der Entwurf". Allerdings handelt es sich bei dem, was mit der nicht umsonst so genannten Unified Modeling Language erzeugt wird, immer bestenfalls um ein [Modell](https://de.m.wikipedia.org/wiki/Modell) von Software, nicht um die Software selbst.
+
+Reverse Engineering bedeutet in diesem Kontext, dass das UML-Werkzeug den Quelltext als Eingabe liest und daraus entsprechende UML-Diagramme und Modelldaten ableitet (im Gegensatz zu der etwas umfassenderen Bedeutung, die im Artikel [Reverse Engineering](https://de.m.wikipedia.org/wiki/Reverse_Engineering) beschrieben ist). Einige der Herausforderungen des Reverse Engineering sind:
+
+  * Der Quellcode hat oft sehr viel genauere Informationen, als man in Entwurfsdiagrammen sehen mochte. Dieses Problem wird innerhalb der Software-Architektur-Rekonstruktion behandelt.
+  * Diagramminformation findet sich gewohnlich nicht im Quellcode, so dass das UML-Werkzeug wenigstens fur einen Anfangsschritt ein zufalliges Layout der grafischen Symbole der UML-Notation erzeugen, oder einen Layoutalgorithmus verwenden muss, der die Symbole derart platziert, dass der Anwender das Diagramm verstehen kann. Zum Beispiel sollten die Symbole so angeordnet werden, dass sie sich nicht uberlappen. Gewohnlich muss der Anwender die automatisch generierten Diagramme manuell uberarbeiten, so dass sie Bedeutung gewinnen. Zudem ergibt es meist keinen Sinn, Diagramme aus dem gesamten Quellcode abzuleiten, da diese mehr Detailinformation enthalten wurden, als in UML-Diagrammen von Interesse ist.
+  * Einige Programmiersprachen besitzen Konstrukte, die in ihrer ganzen Komplexitat automatisch besonders schwer in UML-Diagramme umzuwandeln sind, wie etwa Klassen- oder Funktions-Templates in [C++](https://de.m.wikipedia.org/wiki/C%2B%2B).
+
+Manche UML-Werkzeuge bezeichnen die Fahigkeit, den Programmcode, die Modelldaten und die UML-Diagramme konsistent zu halten, als „roundtrip" (die Verwendung von synchronisierten Fassungen wird auch [Round-Trip-Engineering](https://de.m.wikipedia.org/wiki/Round-Trip-Engineering) genannt).
+
+Das bedeutet, dass der Anwender die Moglichkeit hat, entweder die Modelldaten (durch Veranderung der entsprechenden Diagramme) oder den Quellcode zu verandern, und das Werkzeug das Gegenstuck automatisch aktualisiert.
+
+Die meisten UML-Werkzeuge ermoglichen das Speichern und Exportieren der UML-Modelle im XMI-Format. Theoretisch sollte die von einem UML-Werkzeug erzeugte [XMI](https://de.m.wikipedia.org/wiki/XML_Metadata_Interchange)-Datei von einem anderen UML-Werkzeug gelesen werden konnen, jedoch erweisen sich in der Praxis die komplexeren UML-Entwurfe als inkompatibel bezuglich verschiedener Werkzeuge.
+
+Die UML-2.0-Spezifikation umfasst 13 verschiedene Diagramme. Verglichen mit den 1.x-Versionen gibt es viele neue [Symbole](https://de.m.wikipedia.org/wiki/Symbol) und auch neue [Semantik](https://de.m.wikipedia.org/wiki/Semantik). Viele UML-Werkzeuge unterstutzen angeblich UML 2.0 - in Wirklichkeit wird der neue Standard von den meisten nur teilweise unterstutzt. Manche Erweiterungen, die in kaum einem Werkzeug unterstutzt werden, sind zum Beispiel strukturierte [Classifier](https://de.m.wikipedia.org/wiki/Classifier_\(UML\)), named frames in [Sequenzdiagrammen](https://de.m.wikipedia.org/wiki/Sequenzdiagramm) und das [Zeitverlaufsdiagramm](https://de.m.wikipedia.org/wiki/Zeitverlaufsdiagramm).

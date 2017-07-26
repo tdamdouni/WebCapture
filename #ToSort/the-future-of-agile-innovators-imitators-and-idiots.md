@@ -1,0 +1,31 @@
+# The Future of Agile: Innovators, Imitators, and Idiots
+
+_Captured: 2017-04-08 at 15:11 from [www.thoughtworks.com](https://www.thoughtworks.com/insights/blog/future-agile-innovators-imitators-and-idiots?ref=quuu)_
+
+From time to time I see articles or blogs bemoaning the state of agile. The authors are concerned that the movement has gone awry, that people are practicing prescriptive agile, that they have abandoned agile values, that they are not living up to the vision of the founders. So, what did they expect?
+
+As any movement expands from its narrow early base of practitioners, others take it in unforeseen directions--some good, some not so good. That's just the way movements go. We can wax nostalgic about the "good old days," or we can innovate and move forward.
+
+![But the real question is how do we keep moving forward as a movement?](https://insights-images.thoughtworks.com/DataScienceKenCollierBrasil2_46103c12bc72782c08a4d98688c0cfbb.jpg)
+
+In a PBS interview concerning the financial meltdown Warren Buffett commented on the natural progression of how good ideas go wrong. He called this the "three Is." "First come the innovators, who see opportunities and create genuine value. Then come the imitators, who copy what the innovators have done. Sometimes they improve on the original idea; often they tarnish it. Last come the idiots, whose avarice undermines the innovations they are trying to exploit." [From Practically Radical, by William C. Taylor]
+
+This sparked my thinking about the "progress" of the agile movement after more than 15 years of evolution. Are we in danger of being overtaken by the imitators and the idiots?
+
+There has surely been a large influx of imitators into the agile movement (this applies to the Lean movement also), inevitable as the market for agile services and tools has expanded rapidly. As Buffett indicates, many of these imitators have added improvements while some have tarnished the agile brand. And, there have been a few idiots, people and companies who barely know how to spell agile hanging out their agile shingles, often giving agile delivery a bad name in the process.
+
+But the real question is how do we keep moving forward as a movement?
+
+There are at least four keys ways that come to mind: continue to innovate, balance idealism and practicality, reinvigorate our agile value roots, and unify rather than splinter.
+
+First, I'm encouraged by the innovation that continues to occur: DevOps, [continuous delivery,](https://www.thoughtworks.com/continuous-delivery) the conversations over technical debt, [Lean](https://www.thoughtworks.com/insights/blog/tradition-vs-lean-and-agile-pmo-and-organizations), Kanban, [Agile/Adaptive Leadership](https://www.thoughtworks.com/insights/blog/leadership-agile-environment), and more. Continued innovation combats the creep of staleness that tends to infect movements after a few years.
+
+Second, particularly as agile permeates into larger organizations, we have to focus on both idealism and practicality. Many executives don't care much about esoteric arguments--they care about results. Idealism and innovation are absolutely necessary for a vibrant movement, but they need to be balanced with a dose of practicality. For example, I worked with a large organization that had a corporate-wide phase-gate process for project governance. They were able to work out an agile version for software development that still fit within the overall governance process. The idealistic approach to eliminate the phase-gate process would have been unacceptable to management and would have damaged the credibility of the agile roll-out.
+
+Third, the power and attractiveness of the agile movement lies in its values as expressed in the [Agile Manifesto](http://agilemanifesto.org/). Many of the articles (just Google "problems with agile" for a taste) deplore, and regrettably they are often correct, the lack of adherence to the manifesto core values. The more we can emphasize the dual importance of both doing agile (practices) and being agile (values), the better we can move forward on a solid foundation. "But without the shift in thinking [about values], methodology becomes technique and practice becomes imitation," writes Peter Block in Community.
+
+Finally, as any movement grows there are times when it tends to splinter and times when it unifies. Several years ago Mike Cohn wrote a piece for the Scrum Alliance: "We want Scrum teams to look beyond the Scrum framework and experience the great ideas found in our sister approaches of lean, Extreme Programming, Kanban, Feature-Driven Development, DSDM, Crystal, Adaptive, and more." Efforts like this to bring the Agile/Scrum/Lean/Kanban/etc. communities together, rather than splinter further, leaves less space for the idiots to exploit.
+
+In his classic, _[The Secrets of Consulting, ](https://www.amazon.com/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)_Jerry Weinberg offers us his Law of Raspberry Jam, "The wider you spread it, the thinner it gets." As we reflect on 15+ years of agile, I'd prefer to focus on the positive--virtually no one is "starting" a waterfall implementation these days, how we've learned to deliver value to customers faster, how we've brought quality to the forefront in ways that haven't happened before, and how we've improved the quality of workplaces around the globe. These are lumps in the jam, places where progress has been achieved. Good jam, is lumpy--it's thicker in some places than others. Yes, our agile jam may be thinner than we would like. But thinner isn't all bad. And there are plenty of individual companies and organizations that are lumpy. Let's push forward on new innovations. Let's stand on the jam lumps and create more of them.
+
+So as to where we are in the innovators, imitators, idiots' progression? The answer may not be as important as the question. The trick seems to be to rotate back and forth between innovators and imitators--advancing and then consolidating--without falling into the idiot trap as did the financial industry. Hopefully focusing on agile values and principles, continuing to innovate, balancing between idealism and practicality and taking opportunities to unify rather than splinter will keep the idiots at bay.

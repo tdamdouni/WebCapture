@@ -1,0 +1,34 @@
+# Statische Code-Analyse
+
+_Captured: 2015-10-23 at 17:59 from [de.m.wikipedia.org](https://de.m.wikipedia.org/wiki/Statische_Code-Analyse)_
+
+Im Rahmen der [Softwaretestverfahren](https://de.m.wikipedia.org/wiki/Softwaretest) ist die Statische Code-Analyse den [White-Box-Test](https://de.m.wikipedia.org/wiki/White-Box-Test)-Verfahren zuzuordnen (man benotigt den [Quellcode](https://de.m.wikipedia.org/wiki/Quelltext)). Die Analyse kann durch manuelle Inspektion erfolgen, aber auch automatisch durch ein Programm. Man spricht dann von _statischer_ Analyse, da die zu testende Software in Form von Algorithmen und Daten in ihrer Formulierung und Beschaffenheit (_statisch_) dem Prufer (oder Werkzeug) vor_liegt_.
+
+Vorlaufer der statischen Analyse sind die Prufverfahren der [normierten Programmierung](https://de.m.wikipedia.org/wiki/Normierte_Programmierung) und die Werkzeuge zur Erkennung von Code-Mustern, die sogenannten [Style Checker](https://de.m.wikipedia.org/wiki/Style_Checker).
+
+[Dynamische Code-Analyse](https://de.m.wikipedia.org/wiki/Dynamisches_Software-Testverfahren) setzt im Gegensatz zur statischen Analyse ein laufendes Programm voraus. Ein dynamisches [Pendant](https://de.m.wikipedia.org/wiki/Pendant) zur statischen Code-Analyse zur [Compilezeit](https://de.m.wikipedia.org/wiki/Compilezeit) ist z. B. das [Profiling](https://de.m.wikipedia.org/wiki/Profiler_\(Programmierung\)) zur [Laufzeit](https://de.m.wikipedia.org/wiki/Laufzeit_\(Informatik\)).
+
+Neben dem gewissenhaften Studium von Quelltext durch Entwickler ist es moglich, viele inhaltliche Fehler werkzeuggestutzt oder automatisch zu erkennen. Die Bandbreite reicht von der Sicherstellung von einfachen Coding-Standards (z. B. ein return-Statement pro Funktion) uber die Prufung von Typumwandlungen und Bereichsgrenzen uber die Suche nach bestimmten Arten von [Speicherlecks](https://de.m.wikipedia.org/wiki/Speicherleck) bis hin zur technischen [Verifikation](https://de.m.wikipedia.org/wiki/Korrektheit_\(Informatik\)) von Quelltext.
+
+Einfache Analysen sind haufig bereits im [Compiler](https://de.m.wikipedia.org/wiki/Compiler) (Übersetzer) einer [Programmiersprache](https://de.m.wikipedia.org/wiki/Programmiersprache) integriert, z. B. die Prufung auf Initialisierung einer Variablen. Daruber hinaus gibt es Methoden, die den Programmierstil auf Ästhetik und Pragmatik prufen, namlich die [stilistischen Methoden](https://de.m.wikipedia.org/wiki/Style_Checker). Allerdings werden haufig nur Warnmeldungen angezeigt, die ignoriert werden konnen. Bei sogenannten [Profilern](https://de.m.wikipedia.org/wiki/Profiler_\(Software\)) wird zusatzlicher Objektcode generiert, welcher Aussagen uber Codeabdeckung und Codefrequentierung generiert. Echte statische Analysierer gibt es nur wenige.
+
+Automatisierte Codereview-Software vereinfacht die Aufgabe der Durchsicht großer Programmteile durch systematische Überprufungen auf angreifbare Stellen wie:
+
+Aufgrund einer nach wie vor nicht unerheblichen Anzahl an falsch erkannten, nur vermeintlichen Schwachen im Quellcode ist eine vollautomatische Korrektur durch die Werkzeuge zur statischen Code-Analyse bis zum heutigen Tag nicht Usus.
+
+Als „Klassiker" auf diesem Gebiet sind neben [Lint](https://de.m.wikipedia.org/wiki/Lint_\(Programmierwerkzeug\)) auch [Checkstyle](https://de.m.wikipedia.org/wiki/Checkstyle), [FindBugs](https://de.m.wikipedia.org/wiki/FindBugs) und [PMD](https://de.m.wikipedia.org/wiki/PMD_\(Software\)) fur [Java](https://de.m.wikipedia.org/wiki/Java_\(Programmiersprache\)) oder [Cppcheck](https://de.m.wikipedia.org/wiki/Cppcheck) fur C++, [Splint](https://de.m.wikipedia.org/wiki/Splint_\(Software\)) fur C oder [FxCop](https://de.m.wikipedia.org/wiki/FxCop) bzw. [StyleCop](https://de.m.wikipedia.org/w/index.php?title=StyleCop&action=edit&redlink=1) fur C# zu nennen.
+
+Derartige Werkzeuge konnen nicht nur alleinstehend laufen, sondern auch integriert in die Entwicklungsumgebung bzw. in den [Build Server](https://de.m.wikipedia.org/wiki/Kontinuierliche_Integration). Sie beschranken sich nicht nur auf Kodierungsregeln wie beispielsweise die [MISRA-C](https://de.m.wikipedia.org/wiki/MISRA-C)-Regeln, sondern erkennen auch funktionale und technische Fehler, potentielle Bugs sowie auch qualitative Schwachstellen im Code (so genannte _[Code Smells](https://de.m.wikipedia.org/wiki/Smell_\(Programmierung\))_), wie zum Beispiel [duplizierten Code](https://de.m.wikipedia.org/wiki/Code-Duplizierung) (auch Software-Klone genannt).
+
+Einige Werkzeuge konnen den Code auch auf sicherheitsrelevante Programmierfehler wie zum Beispiel [Pufferuberlaufe](https://de.m.wikipedia.org/wiki/Puffer%C3%BCberlauf) oder [Wettlaufsituationen](https://de.m.wikipedia.org/wiki/Wettlaufsituation) prufen, wie beispielsweise [Rough Auditing Tool for Security](https://de.m.wikipedia.org/wiki/Rough_Auditing_Tool_for_Security) (RATS).
+
+Weiters gibt es noch Werkzeuge, die auch [Architekturmetriken](https://de.m.wikipedia.org/wiki/Architekturmetrik) und die Konformitat des Codes mit der Architekturspezifikation prufen. Dazu gehoren beispielsweise die Axivion Bauhaus Suite, [ConQAT](https://de.m.wikipedia.org/wiki/ConQAT) und Teamscale sowie Sonargraph und Sotograph.
+
+  * Christoph Bommer, Markus Spindler, Volkert Barr: _Softwarewartung. Grundlagen, Management und Wartungstechniken._ dpunkt-Verlag, Heidelberg 2008, [ISBN 978-3-89864-482-2](https://de.m.wikipedia.org/wiki/Spezial:ISBN-Suche/9783898644822).
+  * [Peter Liggesmeyer](https://de.m.wikipedia.org/wiki/Peter_Liggesmeyer): _Software-Qualitat. Testen, Analysieren und Verifizieren von Software._ 2\. Auflage. Spektrum Akademischer Verlag, Heidelberg 2009, [ISBN 978-3-8274-2056-5](https://de.m.wikipedia.org/wiki/Spezial:ISBN-Suche/9783827420565).
+  * Andreas Spillner, Tilo Linz: _Basiswissen Softwaretest. Aus- und Weiterbildung zum Certified Tester. Foundation level nach ISTQB-Standard._ 4., uberarbeitete und aktualisierte Auflage. dpunkt-Verlag, Heidelberg 2010, [ISBN 978-3-89864-642-0](https://de.m.wikipedia.org/wiki/Spezial:ISBN-Suche/9783898646420).
+
+Entschuldige, aber fur deinen Browser ist entweder die Nutzung von JavaScript deaktiviert oder er verfugt uber keine unterstutzte Abspielsoftware.  
+Du kannst [den Clip herunterladen](//upload.wikimedia.org/wikipedia/commons/e/e5/De-Statische_Code-Analyse-article.ogg) oder [eine Abspielsoftware herunterladen](https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download), um den Clip im Browser abspielen zu konnen.
+
+[Speichern](//upload.wikimedia.org/wikipedia/commons/e/e5/De-Statische_Code-Analyse-article.ogg) | [Informationen](https://de.m.wikipedia.org/wiki/Datei:De-Statische_Code-Analyse-article.ogg) | 04:19 min (2,57 MB) [Text der gesprochenen Version](//de.wikipedia.org/w/index.php?title=Statische_Code-Analyse&oldid=31669124)

@@ -1,0 +1,7 @@
+# Strukturierte Analyse
+
+_Captured: 2015-10-23 at 16:02 from [de.m.wikipedia.org](https://de.m.wikipedia.org/wiki/Strukturierte_Analyse)_
+
+Die **Strukturierte Analyse** (**SA**) ist eine hauptsachlich von [Tom DeMarco](https://de.m.wikipedia.org/wiki/Tom_DeMarco) entwickelte Methode zur Erstellung einer formalen Systembeschreibung im Rahmen der [Softwareentwicklung](https://de.m.wikipedia.org/wiki/Softwareentwicklung). Sie wird wahrend der [Analysephase](https://de.m.wikipedia.org/w/index.php?title=Analysephase&action=edit&redlink=1) eines Software-Projekts eingesetzt. [Strukturiertes Design](https://de.m.wikipedia.org/wiki/Strukturiertes_Design) verfeinert die Ergebnisse der SA soweit, dass sie dann umgesetzt werden konnen. Sie ist eine Methode der [Systemanalyse](https://de.m.wikipedia.org/wiki/Systemanalyse).
+
+Das Ergebnis der Strukturierten Analyse ist ein hierarchisch gegliedertes Anforderungsdokument fur Umfang und Inhalt der betrieblichen Anwendung, die in dem geplanten Softwaresystem realisiert werden soll. Die Strukturierte Analyse ist eine graphische Analysemethode, die mit Hilfe eines [Top-Down-Vorgehens](https://de.m.wikipedia.org/wiki/Top-down) ein komplexes System in immer einfachere Funktionen bzw. Prozesse aufteilt und gleichzeitig eine [Datenflussmodellierung](https://de.m.wikipedia.org/wiki/Datenfluss) durchfuhrt. In ihrer Grundform ist die SA eine statische Analyse, die jedoch spater um Methoden fur dynamische Analysen erweitert wurde.

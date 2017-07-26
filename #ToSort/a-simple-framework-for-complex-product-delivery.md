@@ -1,0 +1,21 @@
+# A Simple Framework for Complex Product Delivery
+
+_Captured: 2017-03-09 at 00:57 from [dzone.com](https://dzone.com/articles/a-simple-framework-for-complex-product-delivery?edition=276897&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202017-03-08)_
+
+[Download this white paper](https://dzone.com/go?i=150025&u=https%3A%2F%2Fwww.scrum.org%2FAbout%2FAll-Articles%2FarticleType%2FArticleView%2FarticleId%2F1029%2FCharacteristics-of-a-Great-Scrum-Team%3Futm_source%3DDZone%26utm_medium%3DArticle%26utm_campaign%3DGreatScrumTeam) to learn about the ways to make a Scrum Team great, brought to you in partnership with [Scrum.org](https://dzone.com/go?i=150025&u=https%3A%2F%2Fwww.scrum.org%2FAbout%2FAll-Articles%2FarticleType%2FArticleView%2FarticleId%2F1029%2FCharacteristics-of-a-Great-Scrum-Team%3Futm_source%3DDZone%26utm_medium%3DArticle%26utm_campaign%3DGreatScrumTeam).
+
+![verheyen-gunther-scrum-a-pocket-guide-2016](https://ullizee.files.wordpress.com/2016/11/verheyen-gunther-scrum-a-pocket-guide-2016.png?w=171)
+
+On the 3rd anniversary, and the [5th reprint](https://guntherverheyen.com/2016/11/14/a-simple-framework-for-complex-product-delivery-in-100-pages/), of my book "**Scrum - A Pocket Guide,**" I created a short introduction to Scrum, which was recorded by my publisher [Van Haren Publishing](http://www.vanharen.net/en/).
+
+Here are the highlights of the video, explaining why I think Scrum is a great, yet simple framework for complex product delivery.
+
+1\. Scrum has been around for a while. It was officially introduced to the general public in 1995. Since then, as more and more people, teams, and organizations started using Scrum, Scrum became the most adopted method for Agile product delivery. At the same time, Scrum grew lighter and lighter, thereby, in a way becoming less and less complete and 'perfect.' Prescribed practices and techniques were gradually removed from the official definition of Scrum, The Scrum Guide. Scrum turned into the _framework_ it was always designed to be, a framework upon which people devise their own solutions, create their own working process. A Product Owner brings product ideas to a Development Team. No later than by the end of a Sprint the team turns these ideas into releasable versions of the product. Sprints take no more than 4 weeks and are often shorter. The Scrum Master creates and fosters an environment for such self-organized and creative collaboration to happen.
+
+2\. Scrum not only restores simplicity, Scrum brings empirical process control. All elements of Scrum support the process of regular inspection and adaptation. Empiricism is the way for people, teams, and organisations to deal with the complexity, uncertainty, and unpredictability typical of product development. The Scrum events set the frequency of the inspection and adaptation process. The artifacts provide transparency to all information required. As all waste has already been removed from the Scrum, the framework is highly cohesive. Every element has a clear 'why,' or purpose. Omitting any core elements breaks the cohesion, and is likely to cover up existing problems and impede the transparency required to continuously adapt, i.e. to be Agile.
+
+3\. Scrum, when employed well, allows a continual discovery of what is possible, what is not, of what works, and what doesn't work. Throughout this journey of discovery, the value of the work done is incrementally optimized. The product is regularly delivered to the market. It is extremely helpful to have a simple, yet proficient, tool like Scrum in highly unstable circumstances.
+
+4\. Employing Scrum is a journey in itself. Mastering Scrum takes practice and time.
+
+Discover [what Scrum Teams do to make themselves great](https://dzone.com/go?i=150024&u=https%3A%2F%2Fwww.scrum.org%2FAbout%2FAll-Articles%2FarticleType%2FArticleView%2FarticleId%2F1029%2FCharacteristics-of-a-Great-Scrum-Team%3Futm_source%3DDZone%26utm_medium%3DArticle%26utm_campaign%3DGreatScrumTeam), brought to you in partnership with [Scrum.org](https://dzone.com/go?i=150024&u=https%3A%2F%2Fwww.scrum.org%2FAbout%2FAll-Articles%2FarticleType%2FArticleView%2FarticleId%2F1029%2FCharacteristics-of-a-Great-Scrum-Team%3Futm_source%3DDZone%26utm_medium%3DArticle%26utm_campaign%3DGreatScrumTeam).

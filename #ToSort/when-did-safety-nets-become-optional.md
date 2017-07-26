@@ -1,0 +1,17 @@
+# When Did Safety Nets Become Optional?
+
+_Captured: 2017-05-12 at 17:35 from [dzone.com](https://dzone.com/articles/when-did-safety-nets-become-optional?oid=twitter&utm_content=buffer6c902&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)_
+
+Discover how to [protect your applications](https://dzone.com/go?i=176121&u=http%3A%2F%2Fwww.waratek.com%2Fsolutions%2Fzero-day-defense%2F%3Futm_source%3DDZone%26utm_campaign%3Dba%26utm_medium%3Dprerolltextad%26utm_content%3Dzeroday) from known and unknown vulnerabilities.
+
+There are various reasons why some organizations would not be interested in protecting their data. These reasons could range from the lack of financial resources to the lack of non-financial resources, such as engineers to implement a solution. Whether or not there is a good reason to not protect your data, the net result is the same. If organizations don't do it and something bad happens, they will be in a world of hurt.
+
+Data is the lifeblood of any business. It's true that not all data is created equal, so some organizations may be comfortable losing some data. And it's also true that there are some systems or applications that are built to not only tolerate data loss but seamlessly absorb the loss of data. The reality is that this is not 100% of the systems in your business, nor is it 100% of the data. If you were to completely lose your users table in your application or have it suffer from data corruption, how would you explain this situation to your customers? Can you realistically tell them that the money wasn't there, or you didn't have the resources to protect their data and yours? What type of trust would that instill in them for you as a provider of services? What type of trust would that instill in the business for your technology team?
+
+For most businesses, data protection should be thought of as a component of the overall security strategy. If you wouldn't set up a network infrastructure without a firewall for protection, why would you create an application without protecting the data that powers it?
+
+Unfortunately, some form of system failure is inevitable. There will come a time when something bad happens. The best thing you can do is to be as prepared as possible. Providing yourself with a safety net when this happens is doable, but shouldn't be thought of as optional. There are some basics tenets that should be involved in providing a proper safety net. The most important of them is to plan for failure and test your recovery procedures. This team education is your primary line of defense against disaster. It will help mitigate many of the potential failure scenarios through awareness. Data protection is for what happens when things get past this point. And protecting data should not be optional.
+
+Find out how [Waratek's](https://dzone.com/go?i=176122&u=http%3A%2F%2Fwww.waratek.com%2Fsolutions%2Fapplication-protection%2F%3Futm_source%3DDZone%26utm_campaign%3Dba%26utm_medium%3Dpostrolltextad%26utm_content%3Dappprotect) award-winning virtualization platform can [improve your web application security](https://dzone.com/go?i=176122&u=http%3A%2F%2Fwww.waratek.com%2Fsolutions%2Fapplication-protection%2F%3Futm_source%3DDZone%26utm_campaign%3Dba%26utm_medium%3Dpostrolltextad%26utm_content%3Dappprotect), development and operations without false positives, code changes or slowing your application.
+
+### Like This Article? Read More From DZone

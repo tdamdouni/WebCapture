@@ -1,0 +1,29 @@
+# Artificial Intelligence: The Next Big Thing in Mobile
+
+_Captured: 2017-06-16 at 02:09 from [dzone.com](https://dzone.com/articles/artificial-intelligence-the-next-big-thing-in-mobi?edition=305097&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202017-06-15)_
+
+You can bank on it: Artificial intelligence (also sometimes called machine learning) is going to be the next big thing in mobile. While attending May's [MIT CIO Symposium](https://www.alphasoftware.com/blog/mit-cio-symposium-alpha-anywhere-is-1-of-only-10-global-companiesanies-selected-for-innovation-showcase-the-mit-cio-symposium/) with [Alpha Software](http://www.alphasoftware.com/) in the Innovation Showcase, CIOs spoke with me about artificial intelligence and mobile app development. They wanted to know the latest trends and what our customers were doing with Artificial Intelligence. During the keynote, GE CIO Jim Fowler made it clear that we are moving toward "a world where machines are going to tell people what to do," instead of vice versa.
+
+If there was ever any doubt, consider this - [Apple is working on a processor designed solely to perform Artificial Intelligence-related tasks](https://www.bloomberg.com/news/articles/2017-05-26/apple-said-to-plan-dedicated-chip-to-power-ai-on-devices), and it will eventually be included in many of its devices, including iPhones and iPads.
+
+[So reports Bloomberg](https://www.bloomberg.com/news/articles/2017-05-26/apple-said-to-plan-dedicated-chip-to-power-ai-on-devices). Here's what the news service said about the chip: "The chip, known internally as the Apple Neural Engine, would improve the way the company's devices handle tasks that would otherwise require human intelligence -- such as facial recognition and speech recognition."
+
+The chip would work in many kinds of devices. It's likely to be used in the self-driving cars Apple is said to be working on. But the Bloomberg article made clear that it's aimed squarely at mobile. The article said that Apple has already tested prototypes of iPhones with the chip. It went on to say: "Apple's operating systems and software features would integrate with devices that include the chip. For example, Apple has considered offloading facial recognition in the photos application, some parts of speech recognition, and the iPhone's predictive keyboard to the chip…Apple also plans to offer developer access to the chip so third-party apps can also offload artificial intelligence-related tasks."
+
+This is one instance where Apple isn't leading the way. To a certain extent, it's playing catch-up. Qualcomm recently released the Snapdragon 835 mobile processor, which has a module for machine learning and handling artificial intelligence tasks. Snapdragon processors are used in many Android phones. Google rolled out an Artificial Intelligence-related processor called the Tensor Processor Unit back in 2016, although for now, the chip is used in Google data centers for image-recognition and to deliver faster, better search results. But don't be surprised if Google develops an Artificial Intelligence-focused processor for mobile as well.
+
+Gartner believes so much in Artificial Intelligence apps that it expects most of the 200 largest companies in the world to have developed intelligent apps by 2018.
+
+The release of Apple's Artificial Intelligence chip is just one more piece of evidence of how important Artificial Intelligence will become to mobile. Gartner says that [intelligent apps will be one of the top ten strategic trends for 2017](http://www.gartner.com/smarterwithgartner/gartners-top-10-technology-trends-2017/). The company said the apps will be more than just virtual digital assistants to perform common tasks like prioritizing email easier. Instead, they'll be built into every category of enterprise mobile apps, especially marketing and ERP. Gartner believes so much in Artificial Intelligence apps that it expects most of the 200 largest companies in the world to have developed intelligent apps by 2018.
+
+Why is Artificial Intelligence becoming real in 2017? More affordable sensors, rich data available in real-time and powerful analysis tools are powering the move. Here's a related post on [how cheaper sensors will fuel artificial intelligence growth](https://www.alphasoftware.com/blog/httptechcrunch-com20150310cheaper-sensors-will-fuel-the-age-of-smart-everything6q1rfsrymx/) this year.
+
+These are important hardware and software trends that CIOs, IT managers, developers and business analysts must be aware of and watch carefully, because your competitors certainly are. We'll continue to keep you updated on news, trends and examples of artificial intelligence in mobile app development in the coming months - so stay tuned.
+
+Read more data and research on [why Artificial Intelligence will be big in mobile apps in 2017](https://www.alphasoftware.com/blog/why-artificial-intelligence-will-be-big-in-mobile-app-development-in-2017/) and [how Artificial Intelligence will be further fueled by cheaper sensors](https://www.alphasoftware.com/blog/httptechcrunch-com20150310cheaper-sensors-will-fuel-the-age-of-smart-everything6q1rfsrymx/).
+
+Read a summary of [Gartner's predictions for the top strategic trends of 2017, including Artificial Intelligence](http://www.gartner.com/smarterwithgartner/gartners-top-10-technology-trends-2017/).
+
+Read through some [examples of how the oil and gas industry will benefit from the combination of Artificial Intelligence and mobile development](https://www.alphasoftware.com/blog/why-the-oil-and-gas-industry-is-turning-to-mobile-technology/).
+
+To read the Bloomberg article about Apple's Artificial Intelligence chip, [click here](https://www.bloomberg.com/news/articles/2017-05-26/apple-said-to-plan-dedicated-chip-to-power-ai-on-devices).

@@ -1,0 +1,30 @@
+# The era of the conscious app
+
+_Captured: 2017-06-16 at 02:18 from [www.itproportal.com](http://www.itproportal.com/features/the-era-of-the-conscious-app/?utm_campaign=Sharing%20Security%20Stories&utm_content=55962719&utm_medium=social&utm_source=twitter)_
+
+![](http://cdn.mos.cms.futurecdn.net/shUuQj7rrraxYwo29giyAH-970-80.jpg)
+
+The era of the app is on the up. There are no more limits. Programming and development are no longer restricted to technological tools - it is purely about the power of the idea. Experts predict that our minds are the only barriers to greater wisdom and well-being. For the human being, the rise of cognitive apps and the growing use of artificial intelligence (AI) is driving smarter decision-making. So, how conscious are you about the impact that the rapidly evolving conscious app will have on your business and what biometrics will do to empower a more digital savvy cyber-citizen?
+
+### The future of apps
+
+A ground-breaking piece of research entitled, "The Future of Apps" (FoA) sponsored by F5 Networks, reveals compelling insights into how applications will shape the behaviour of consumers and dramatically transform business models in the decades to come. The report offers exclusive comments from eminent experts across cybersecurity, biometrics and leading technology companies highlighting their predictions for a transformative digital society. As the data economy explodes, new approaches to risk management and privacy will embrace AI and machine-learning to enable app developers to innovate in a world which will be more dependent on an interconnected, human-to-machine ecosystem.
+
+The integration of AI into buying behavioural habits will deliver a new layer of personal insight and give greater power to consumers to detect and select services. Trust is the key that will unlock the door to new businesses. Mostafa Zafer, IBM MEA, stated in the FoA report, "I think it will reach a point where the app should advise whether I should select the service, or do the transaction or not. So, there has to be some sort of advisory, and I think that is going to be the main role of AI in the app - really to become an advisor to me whilst I am using the app itself".
+
+Interestingly, many experts believe that the steady growth of open source will challenge quality control and require community scrutiny for greater reliability and security. Regulating open source is difficult and it raises more questions than answers with regards to accountability, especially when an identity has been hijacked. From a security perspective, Rebecca Parsons from Thoughtworks, told F5 Networks, "as more people become aware of the threats of things like back doors they are more and more interested in things being open source because the community as a whole can look at the code and say okay, I believe that this is secure, this does not have a back door."
+
+### Seeing new possibilities
+
+The reality is that smarter applications are central to a revolutionary digital economy that is shaping our entire interactive world. Augmented reality (AR) and biometrics will provide a future in which our interface with apps will open new possibilities to trade, entertain and resolve complex challenges. Manufacturing will be a more seamless process interconnecting man and machine giving humans greater sensory powers, including augmented reality in products, such as contact lenses. "We know that by 2020 a third of consumers will be using augmented reality applications in one form or another to do AR commerce, for example, so we see a lot of that in the fields of retail," explained Dany El Eid, from Pixelbug.
+
+Remarkably, developers and scientists are pushing the limits of the conscious interconnectivity. The idea that science can allow us to dissolve the geographical boundaries, to think about holographic and potentially telepathic teleconferencing will dramatically alter our social and commercial exchanges. The use of biometrics and humans directly interconnecting with the cyber world takes automated immersion to higher dimensions. Neil Harbisson is a cyborg activist and best known for being the first person in the world with an antenna implanted in his skull. He recently stated in the FoA, "If you have a part of yourself, which is electronic, cybernetic or technological, it can improve during your lifetime, because the technology keeps evolving; and if you have a cybernetic sense or body part it can evolve during your lifetime. So instead of seeing that the older you get the more your senses degenerate, you will see the older you get the better your senses can be".
+
+Applications are becoming more intelligent and are mediating our access and perception of the physical world around us. As transhumanism lives with embedded apps to improve cognitive reasoning and accelerate better decision-making, the software-centric ecosystem of apps will also control our vital organs. Our bodies will go toe-to-toe with technology and our thoughts head-to-headphone will the new embedded functionalities. "I see the word application might soon also be used as adding a new organ or a new sense," Neil Harbisson also commented. Yet, this presents challenges for cyber professionals as hackers and cybercriminals become increasingly adept at hijacking identities and stealing identities. The notion of 'hacking into a human' may be commonplace if cyber tools fall into the wrong hands and minds.
+
+### New realities
+
+The dangers of 'new realities' constructed and manipulated by cybercrime leads to many questions about the future of apps. Cybersecurity professionals will continue to battle with the bots and endeavour to protect unique sensitive data, which is the essence of every individual. The conscious are conquering the conmen, though the skill in your skull will rely on the ability for both individuals and companies to consciously protect our consciousness and this era is getting ever nearer. So, how mindful are you about protecting your apps for the future?
+
+_Michael Brown, Systems Engineering Manager, __[F5 Networks_](https://f5.com/)_  
+Image Credit: Pixel Fantasy / Flickr_

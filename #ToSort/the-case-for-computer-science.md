@@ -1,0 +1,24 @@
+# The Case for Computer Science
+
+_Captured: 2017-04-15 at 18:19 from [academiccomputing.wordpress.com](https://academiccomputing.wordpress.com/2012/05/18/the-case-for-computer-science/)_
+
+A few days ago, Jeff Atwood wrote a post on his Coding Horror blog entitled [Please Don't Learn To Code](http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html). It was a push back against the growing movement for more computer science (_[cf_ IT](https://academiccomputing.wordpress.com/terminology/)) skills in the populace -- including schools and universities, which are the obvious place to give these skills to the next generation.
+
+I think Atwood's points are mostly valid, but they are objecting to an argument -- the argument that everyone should learn to code so that they can use their coding skills in their lives -- that not many people are making. As someone who is pushing for more people to learn (or at least) try computer science, particularly in schools, I think it's worth explaining why I think more people should learn a little computer science. As Atwood himself says in his bolded summary:
+
+> **Please don't advocate learning to code just for the sake of learning how to code.**
+
+Quite right! The push for more computer science in schools should not be about training up programmers ready to be pushed into industry. Computer science has several distinctive qualities that are useful for a wide range of students, and that are not present in many other subjects at school-level. Computer science is not a useful school topic because it teaches coding specficially (although that is useful to those who will go on to code in later life), but rather it's about the more general skills and qualities that it can convey:
+
+  * **Programming teaches preciseness**. From syntax through to semantics, the one thing that you must have in programming is preciseness and attention to detail. If you lack it in the syntax, you get a compiler error. If you lack it in the semantics, you get a buggy program. There are no shortcuts or bodges, which leads us on to the next point.
+  * **The computer is a neutral judge**. In most subjects, success is decided solely by the teacher. Marking essays, pieces of art or music clearly involves subjective judgement. Science is a bit more formal, and maths is certainly objective, but still it's all marked by the teacher. One unique aspect of programming is that your work is "marked" in an automated fashion, with consistent objective criteria, by a machine. The computer tells you yes or no: worked or didn't work. Programming leads people to (eventually) recognise that their failure is not due to a malicious or wrong teacher, or even down to a malevolent computer (the students' first suspicion!), but rather that their failure is because of their mistakes. That's a valuable life lesson, right there! 
+
+(Although I actually think this quality will not forever be unique to computing. Essays should probably continue to be human-marked, but maths will surely move to automated checking of your working before too long, and there are bound to be more small facets of other subjects that are amenable to automated checking -- e.g. spell-checking has already become automated.)
+
+  * **Computer science teaches problem-solving and creation of solutions**. Surprisingly few school subjects cover problem-solving in this way: music and art feature creation, but not problems as such, whereas maths and the sciences have problems, but not the focus on generating solutions and creating artifacts-as-solutions that computing has. Computer science may the best hope at an engineering-like discipline in schools.
+
+And for balance, an argument for computing as an important subject that I remain skeptical about:
+
+  * **Computing teaches a different way of thinking**. I think this is true, but I also don't think it's distinct to computing. Yes, computing can teach you about algorithms, and you can find algorithms everywhere. But economics provides you with a new way of viewing interactions, graphing in maths can give you a new way of visualising/thinking about relations between variables ([see many xkcds](http://xkcd.com/963/)), psychology and sociology give you a new view of human behaviour, foreign languages give a new perspective on use of language and so on. I wonder if "it provides a new way of looking at the world" is a prerequisite for all school subjects, and thus is not something that computing can claim as distinctive.
+
+I'm sure there are probably more claims for computer science that I have missed -- feel free to suggest them in the comments. I also notice that although people are always mentioning that computer science is more than programming, my back-of-the-envelope distinctive aspects of computer science ended up being about programming. Is that because I missed something, or because the process of programming really is the unique selling point of computer science?
