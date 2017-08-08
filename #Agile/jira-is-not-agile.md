@@ -1,8 +1,8 @@
 # JIRA is Not Agile
 
-_Captured: 2017-02-11 at 17:57 from [agilepainrelief.com](https://agilepainrelief.com/notesfromatooluser/2014/09/jira-is-not-agile.html?utm_content=bufferadeb5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.WJ9CP9e1KaM)_
+_Captured: 2017-08-08 at 19:05 from [agilepainrelief.com](https://agilepainrelief.com/notesfromatooluser/2014/09/jira-is-not-agile.html#.WYnvQqCbGaN)_
 
-![Agile pyramid 2](https://agilepainrelief.com/wp-content/uploads/2014/09/Agile-pyramid-2-300x300.jpg)
+![Agile pyramid 2](https://3hppfzjby0g1sxwjng1f4h1c-wpengine.netdna-ssl.com/wp-content/uploads/2014/09/Agile-pyramid-2.jpg)
 
 I've heard people say, "We started using Jira and GreenHopper, so we're Agile now". Similar things are said of Rally, VersionOne, LeanKit, TargetProcess, etc. In making those declarations, it's clear that they don't understand Agile at all.
 

@@ -1,6 +1,6 @@
 # Every Great Product Owner Needs a Great ScrumMaster
 
-_Captured: 2017-07-15 at 10:26 from [www.romanpichler.com](http://www.romanpichler.com/blog/every-great-product-owner-needs-great-scrummaster/?utm_content=buffer3d437&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)_
+_Captured: 2017-07-30 at 21:44 from [www.romanpichler.com](http://www.romanpichler.com/blog/every-great-product-owner-needs-great-scrummaster/)_
 
 ### Product Owner vs. ScrumMaster
 

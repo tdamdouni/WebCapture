@@ -1,103 +1,125 @@
 # Documentation-Driven API Design
 
-_Captured: 2017-01-24 at 20:51 from [dzone.com](https://dzone.com/articles/documentation-driven-api-design?edition=265881&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202017-01-24)_
+_Captured: 2017-07-28 at 08:03 from [dzone.com](https://dzone.com/articles/documentation-driven-api-design-1?oid=twitter&utm_content=buffer78ab2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)_
 
-Build APIs from SQL and NoSQL or Salesforce data sources in seconds.[ Read the Creating REST APIs white paper](https://dzone.com/go?i=142024&u=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F309714743%3B137084581%3Bk), brought to you in partnership with [CA Technologies](https://dzone.com/go?i=142024&u=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F309714743%3B137084581%3Bk).
+Share, secure, distribute, control, and monetize your APIs with the platform built with performance, time-to-value, and growth in mind. [Free 90-day trial](https://dzone.com/go?i=231226&u=https%3A%2F%2Fwww.redhat.com%2Fen%2Ftechnologies%2Fjboss-middleware%2F3scale%2Fget-started%3Fsc_cid%3D701f2000000h30LAAQ) of 3Scale by Red Hat
 
-Documentation doesn't have to be as Herculean a task as it is made to appear. This assumption has made documentation be seen as something to be done as an afterthought, which is usually a nightmare for any developer who has been assigned the difficult task of having to surf through each of the application's features in a bid to try to understand exactly what each method in the app is designed to do.
+_[This article is featured in the new DZone Guide to Integration: API Design and Management. Get your free copy for more insightful articles, industry statistics, and more!_](https://dzone.com/guides/integration-api-design-and-management)
 
-Most times, there's hardly any time left to work on the documentation of an application because of the deadline for the completion of the application. Thus, you find hurriedly scribbled information put out as the documentation for the application, with the developer hoping and praying that the app's end users don't get to discover some errors before he or she does.
+Many companies and developers think documentation is something to be done as an afterthought, a nightmare for any developer who has been assigned the difficult task of having to go through each of the application's features and write about them and how they are used.
 
-How much better it would be if the documentation for an application is properly written so that its end users can rate it high.
+But think, what if you could speed up your API development by focusing on the documentation first? Documentation changes are cheap, code changes are expensive.
 
-How great it would be if this documentation became an invaluable resource and tool for a development team, in which you have already documented the details you need to before even writing a lot of code.
+The philosophy behind Documentation-Driven API Design or Development is simple: from the perspective of a user, if a feature is not documented, then it does not exist, and if a feature is documented incorrectly, then it is broken.
 
-This document could be shared between the development teams like and testers and all could start working at the same time to implement such an API.
+## API Design - Documentation First
 
-Documentation's place in API development is strengthened via interactivity. When you speak of the best documentations, you speak of the documentations that have the capacity to make API calls straight from the site in itself -- in other words, interactive documentation.
+Designing an API is a special case because you're often designing for unknowns. You might not know:
 
-Once the audience and users can directly gain access and interact with the API from the documentation, it would help to increase the capacity of a developer to work successfully with the API in implementing a client.
+  * What types of clients will consume the API, or their individual preferences.
 
-These interactivity features can serve as a very invaluable tool for both the developer and the debugger.
+  * The flow that any given consumer will take through your API endpoints.
 
-## 3 API Documentation Design Features
+  * Which information will be most valuable to the consumer.
 
-These are three features that should be ever present in a documentation:
+With all of these unknowns, the best thing you can do for yourself and your consumers is to write your documentation first, as visibly as possible. The goal is to gather insight and recommendations from your consumers early and throughout the design process, turning your unknowns into knowns.
 
-  1. **There should be consistency**, meaning that an end-user should be able to know what your documentation has in the offing. The terminology used should also be in line with your language.
+By designing your API through documentation, you can easily get feedback and iterate your design before any development happens. Changes are easier and faster to make in documentation than they are in code. Documentation can become an invaluable resource as you want to increase your company's Velocity.
 
-  2. **The documentation should offer a complete scope of the entire features of your project.** Private methods used should also be put down for your developers to utilize. The public features should be made explicitly available for your end users.
+The documentation gives the client team and test team something to work from before the server team has even implemented the documented endpoints. This prevents rework and parallelizes the efforts of the server and client teams. Coders and testers could start working at the same time to implement and test such an API.
 
-  3. **It should also be current**, meaning that the documentation should maintain recent versions of the code used for the project.
+When writing or updating documentation is a required first step of your development process, you ensure your documentation is always consistent with your code.
 
-There are also bonuses that your documentation has to offer.
+## 6 Guidelines for Working Documentation-Driven API Design
 
-Your documentation should serve as a guide that will assist your developer in building a consistent utility product, one that can be used to test run your API quality and can help in the enhancement of proper communication within your development team.
+### 1\. Document Your API or Feature First
 
-## Fundamental API Documentation Sections
+You can do this as you design an API, or later if you'd like to rework an existing API. Wherever the documentation becomes complicated or difficult to write, revisit the design. This process works because it is easier to spot complexity in the documentation than in the code. Figure out how you are going to describe the feature to users; if it is not documented, it does not exist.
 
-You need authentication information describing which authentication scheme your API uses.
+### 2\. Do Documentation Reviews
 
-If you're using OAuth, don't forget to explain how to set up an OAuth application and obtain the API key and secret.
+Whenever possible, documentation should be reviewed by users before any development begins. This also gives you the chance to get your ideas peer-reviewed, since it helps users to understand what you are trying to do.
 
-You need to explain errors and how they're communicated to API consumers. You should explain if you follow any error standard, i.e., the HTTP status codes and how errors are generally communicated inside responses.
+### 3\. Work in Parallel
 
-You need to include endpoints and information on how to consume them, including requests and responses. This is considered the main section in which you expose all your API methods, explain how they can be reached, and note what kind of parameters are allowed.
+Once documentation has been written, development should commence, preferably test-driven development. Both developers and testers can start working on the implementation, one focusing on writing code and the other on writing automatic tests.
 
-With these three sections, you're off to a great start because you've already documented most of what is needed to consume your API and your offering.
+### 4\. Testing
 
-As you're about to find out, this is often not enough. As you obtain more sophisticated consumers, you'll end up having to offer them documentation on non-functional aspects of your API.
+Unit tests should be written to test the features as described in the documentation. If the functionality is ever out of alignment with the documentation, tests should fail.
 
-For your developers or testers, having some sort of an API mock based on your documentation could be a fantastic boost to the development.
+### 5\. Changes
 
-## What API Documentation Should Contain
+When a feature is being modified, it should be modified documentation-first; when documentation is modified, so should the tests change. Along with the tests being changed, the coding will also have to be modified accordingly.
+
+### 6\. Versioning
+
+Documentation and software should both be versioned, and the versions should match so someone working with old versions of software will be able to find the proper documentation.
+
+## API Documentation Design Fundamentals
+
+Concise and clear documentation, which allows your API consumers to adopt it into their application quickly, is no longer optional for organizations that want to drive adoption of their APIs. According to SmartBear's 2016 State of API Report, 75% of organizations that develop   
+APIs now have a formal documentation process. 46% say it is a high priority for their organization. A survey by ProgrammableWeb found that API consumers considered complete and accurate documentation as the biggest factor affecting their API decision-making, even outweighing price and API performance.
+
+Good documentation accelerates development and consumption, and reduces the money and time that would otherwise be spent answering support calls. It is important to remember that documentation matters for internal API users as well. Do not assume that your internal stakeholders will have intimate knowledge of how to work with the API.
+
+What should go into your API documentation? These are three features that should be ever-present in documentation:
+
+  1. There should be consistency, meaning that an end user should be able to know what your documentation has in the offing. The terminology used should also be in line with your language.
+
+  2. The documentation should be a complete scope of the features of your entire project. Private methods used should also be put down for your developers to utilize. The public features should be made explicitly available for your end users.
+
+  3. It should also be up to date. This means that the documentation should maintain recent versions of the code used for the project.
 
 There are, of course, no standards or hard-and-fast rules on what API documentation should have. As a general rule, whatever resonates with the developer community and makes it easy for them to understand an API is a good starting point.
 
 Some general sections that are backed up by examples from established providers in the API economy:
 
-  * **A list of the resources** with an explanation of the purpose of each in the context of the product or service being offered via the API.
+  * A list of the resources with an explanation of the purpose of each in the context of the product or service being offered via the API.
 
-  * **Examples of API calls **in a variety of languages and tools (cURL, Postman collections, etc.). The examples are probably the most important section of the API document, as this is going to be used by your clients.
+  * Examples of API calls in a variety of languages and tools (curl, Postman collections, etc.). The   
+examples are probably the most important section of the API document, as these are going to be used by your clients.
 
-  * **Guides that detail the workflows implicit in using the API**, i.e., the sequence of API calls that do something meaningful in the context of the product or service the API offers.
+  * Guides that detail the workflows implicit in using the API, i.e. the sequence of API calls that do something meaningful in the context of the product or service the API offers.
 
-  * **An overview of the design principles** adopted by the API provider and what that means for aspects adherence to REST (especially hypermedia), HTTP codes, etc.
+  * An overview of the design principles adopted by the API provider and what that means for aspects adherence to REST (especially hypermedia), HTTP codes, etc.
 
-  * **Information on authentication**, including schemes that may be implemented such as OAuth or OpenID Connect.
+  * Information on authentication, including schemes that may be implemented, such as OAuth or OpenID Connect.
 
-  * **General information on error handling** with information on the HTTP return codes.
+  * General information on error handling with information on the HTTP return codes that will be returned.
 
-  * **An interactive API explorer** that allows the developer to readily bring all this information to life.
+![Image title](https://dzone.com/storage/temp/6025730-screen-shot-2017-07-24-at-112620-am.png)
 
-## Starting Your API Document
+## Open API Specification, a.k.a. Swagger
 
-Begin by writing your documentation first. Start by converting your requirements for each feature into documentation. Do this even if you haven't been provided with as many specifications as necessary. This should be done even before you work on your unit tests or even the code.
+Some API documentation formats have the added benefit of being machine-readable. This opens the door to a multitude of additional tools that can help during the entire lifecycle of your API:
 
-Your documentation should be used to share knowledge. This is so that both the end users and the internal developers get the right information on how to proceed with the project -- especially the internal developers who would need to understand the documentation in order to explain tit.
+  * Create a mock server to help during the initial API development for both testers and client/server-side teams, and to test your API before deployment to ensure that the API and the documentation match.
 
-After writing the documentation for the API project, it is now time to convert written comments and other content of the documentation into the colorful website and other customizable templates.
+  * Create interactive documentation that allows developers to perform demo requests to your API.   
+These interactivity features will serve as an invaluable tool for both the developer and the debugger.
 
-All of these will be done with little effort as you go on to produce complete feature sites for your projects.
+Among all the API documentation formats, the most popular and used by many big companies is the OAS (Open API Specification), or Swagger. It gives you the ability to design your API in a way that can be easily consumed by humans as well as machines.
 
-## 3 API Documentation Template Resources
+The Open API/Swagger specification is a machine- and human-readable description format that defines the API's contract. This contract defines what data is exposed by the resources and services, and how the client should call these resources. While this idea seems simple, it has powerful implications for the multi-platform API economy, where services are built in many languages and consumed by clients across different devices.
 
-Among all the API documentation formats, three of them deserve a mention because they let you design your API in a way that can be easily consumed by humans as well as machines:
+Today, thousands of API teams around the world use the Open API Specification and Swagger tooling to generate documentation for their internal and public-facing APIs.
 
-  1. **Swagger and Open API. **There let you easily generate your own API server code, client code, and the documentation itself. Open API Initiative (OAI) is focused on creating, evolving, and promoting a vendor neutral API description format based on the Swagger specification.
+There are many practical uses for implementing the OAS into your API workflow starting from code generation (try out ApiBldr, a Visual Open API Builder that helps you build Open API Specification for your API. It's also able to generate client and server SDKs from the OAS) and ending with generation of beautiful interactive documentation that can easily be shared   
+with the API's end users.
 
-  2. **RAML. **RESTful API Modeling Language offers an easy way to specify an API by using patterns.
+## Conclusion
 
-  3. **API Blueprint.** This is a standard based on the popular Markdown format that lets you easily generate code from the documentation.
-
-## Summary
+API documentation, as detailed above, is no easy task. Organizations not only need to work on technical writing, but also must make sure the documentation is secure and easy to work with.
 
 Everyone agrees that documentation is an absolute must if you want to guarantee that your API is well understood by potential consumers and business partners. While some people believe that starting an API project with initial documentation is a good idea, most people struggle to actually write something.
 
-Think of planning your documentation first as a way of creating more time to work on the main project.
+After you finish your documentation, you can quickly generate the code for your API using the many tools out there, like ApiBldr, for example.
 
-In the long run, having great documentation can you save you a lot of time and can help you get more clients and easily build the project at hand.
+__[This article is featured in the new DZone Guide to Integration: API Design and Management. Get your free copy for more insightful articles, industry statistics, and more!](https://dzone.com/guides/integration-api-design-and-management)__
 
-After you finish your documentation you can quickly generate the code for your API using the many tools out there.
+Explore the core elements of owning an API strategy and best practices for effective API programs. [Download](https://dzone.com/go?i=231227&u=https%3A%2F%2Fengage.redhat.com%2F3scale-api-owners-s-201706160312%3Fsc_cid%3D701f2000000h30LAAQ) the API Owner's Manual, brought to you by 3Scale by Red Hat
 
-The Integration Zone is brought to you in partnership with [CA Technologies](https://dzone.com/go?i=142025&u=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F309714699%3B137084580%3Bt). Use CA Live API Creator to quickly [create complete application backends, with secure APIs and robust application logic](https://dzone.com/go?i=142025&u=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Fclk%2F309714699%3B137084580%3Bt), in an easy to use interface.
+### Like This Article? Read More From DZone
+
+Opinions expressed by DZone contributors are their own.

@@ -1,8 +1,8 @@
 # Scrum By Example – Stuck Waiting for Other Teams
 
-_Captured: 2017-02-25 at 07:33 from [agilepainrelief.com](https://agilepainrelief.com/notesfromatooluser/2014/08/scrummaster-tales-stuck-waiting-for-other-teams.html?utm_content=bufferbd263&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.WLElCIa1KaN)_
+_Captured: 2017-08-08 at 19:03 from [agilepainrelief.com](https://agilepainrelief.com/notesfromatooluser/2014/08/scrummaster-tales-stuck-waiting-for-other-teams.html#.WYnutaCbGaN)_
 
-![stop sign image](https://agilepainrelief.com/wp-content/uploads/2014/08/stop-sign.jpg)
+![stop sign image](https://3hppfzjby0g1sxwjng1f4h1c-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/stop-sign.jpg)
 
 Getting stuck waiting for people outside your Scrum Team? Some examples of how to handle this situation.
 
@@ -22,11 +22,11 @@ Before we explore options in a situation like this I prefer to gather data. The 
 
 John, being aware this might be an issue, has been tracking the data for just over a month:
 
-![ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_data_table](https://agilepainrelief.com/wp-content/uploads/2014/08/ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_data_table.jpg)
+![ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_data_table](https://3hppfzjby0g1sxwjng1f4h1c-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_data_table.jpg)
 
 From the data we can produce a Cumulative Flow Diagram that looks like this:
 
-![Cumulative Flow Diagram ](https://agilepainrelief.com/wp-content/uploads/2014/08/ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_CFD_chart.jpg)
+![Cumulative Flow Diagram ](https://3hppfzjby0g1sxwjng1f4h1c-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/ScrumMaster_Tales_-_Stuck_Waiting_for_Other_Teams_CFD_chart.jpg)
 
 So what does this chart show? The team isn't the bottleneck in this case. A simple test I use to tell is this:
 

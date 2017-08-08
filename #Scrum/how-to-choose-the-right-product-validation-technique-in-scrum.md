@@ -1,6 +1,6 @@
 # How to Choose the Right Product Validation Technique in Scrum
 
-_Captured: 2017-03-07 at 14:20 from [www.romanpichler.com](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffere3bab&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)_
+_Captured: 2017-08-04 at 23:47 from [www.romanpichler.com](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffer79245&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)_
 
 ### Feedback and Data in Scrum
 
@@ -21,27 +21,27 @@ T**echnique**
 **Strength**
 **Weakness**
 
-[Product demo](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffere3bab&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+[Product demo](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffer79245&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 Demo the latest increment. Listen to the feedback, and ask open questions.
 Test limited functionality: Helps people imagine what using the product would be like. Feedback is available immediately.
 Feedback is based on what users hear and see; danger of influencing users.
 
-[Usability test](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffere3bab&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+[Usability test](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffer79245&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 Observe how users interact with the prototype or product in a controlled environment such as a lab.
 Understand if users employ the product as anticipated. Possibly collect data using analytics software. Data is available immediately.
 Artificial environment: users do not use the product "in the wild"; observer effect.
 
-[Release](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffere3bab&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+[Release](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffer79245&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 Release the software to a group of target users and collect data using analytics.
 Find out how the product is used in its target environment. Reach a larger test group. Run A/B tests.
 Does not explain _why_ users employ the product in a certain way. Can take time to collect enough data.
 
-[Observation](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffere3bab&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+[Observation](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffer79245&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 Observe users employ the product preferably in its target environment.
 Understand how users interact with the product.
 Can be time consuming; danger of observer effect and bias.
 
-[Spike ](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffere3bab&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+[Spike ](http://www.romanpichler.com/blog/beyond-product-demo-validation-techniques-in-scrum/?utm_content=buffer79245&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 Create an executable prototype to address an architecture risk.
 Understand if an architecture or technology choice is feasible.
 Can lead to an over-engineered solution.
