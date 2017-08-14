@@ -1,1 +1,1 @@
-Collection of interesting Web Articles.
+Collection of interesting blog posts and web articles
