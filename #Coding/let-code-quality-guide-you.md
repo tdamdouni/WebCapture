@@ -1,0 +1,25 @@
+# Let Code Quality Guide You
+
+_Captured: 2017-08-11 at 19:32 from [dzone.com](https://dzone.com/articles/let-code-quality-guide-you?edition=315394&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-08-11)_
+
+Reduce testing time & get feedback faster through automation. Read the [Benefits of Parallel Testing](https://dzone.com/go?i=124039&u=http%3A%2F%2Finfo.saucelabs.com%2Fpaper-benefits-of-parallel-testing.html%3Futm_campaign%3Dparalleltestingwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-agile), brought to you in partnership with [Sauce Labs](https://dzone.com/go?i=124039&u=http%3A%2F%2Finfo.saucelabs.com%2Fpaper-benefits-of-parallel-testing.html%3Futm_campaign%3Dparalleltestingwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-agile).
+
+Back in the 1990s when I was faced with multiple design choices, I'd have to code them up in multiple ways in order to figure out which one was best. This was time-consuming, and evaluating design choices was one of the hardest things for me.
+
+But now I have a better approach, thanks to code qualities. If we agree that CLEAN code is good code, then we simply have to evaluate each design choice in terms of their code qualities and we'll find the better options. I find that this is a fast way of evaluating design choices and now that I do it all the time, I can make these evaluations almost instantly.
+
+Each code quality represents a key aspect of code. [Cohesion](https://dzone.com/articles/quality-code-is-cohesive) means that code is more focused to deal with only one thing at a time, and it makes code much clearer and more straightforward to work with. [Loose coupling](https://dzone.com/articles/quality-code-is-loosely-coupled) means the code is more independent and easier to test in smaller units. [Encapsulated](https://dzone.com/articles/quality-code-is-encapsulated) code can't be overwritten by something external so it's more reliable. [Assertive](https://dzone.com/articles/quality-code-is-assertive) code is more performant and better organized. Code that is [nonredundant](https://dzone.com/articles/quality-code-is-nonredundant) costs less to maintain and extend.
+
+Each code quality represents an important aspect in code that when missing can distort the object model and make code difficult to work with in the future.
+
+These code qualities guide me. They are my teachers in the pursuit of understanding good code and I find that when I pay attention to these code qualities, I end up building code that's more maintainable, more straightforward to work with, that's in better alignment with the principles of good programming, and I even discovered design patterns.
+
+Understandability in code is for us humans. Computers don't care but we should. In order to maintain software, we have to understand it. We have to start by building software in such a way that it's understandable. Architects don't go off and just draw whatever they want on a blueprint without paying attention to the standards and practices of their industry. In the software industry, we need to establish good standards and practices that we can follow just like builders and architects follow.
+
+Pay attention to code qualities that will help you more than anything else to stumble upon the right designs and have you use principles, patterns, and practices that support good software development. Let code qualities be your teacher and guide you to build code that continues to provide value into the future.
+
+But don't stop with code. If CLEAN is fundamental to the way we understand the world, then we should see it reflected everywhere--and we do. Good communication is cohesive. Healthy relationships are loosely coupled. Well-formed ideas are encapsulated. Healthy people are assertive. And unique ideas are nonredundant. These same code qualities are in the arts, in sciences--they're everywhere because they help us understand the world around us. And because they're everywhere, because they're at the foundation of how we humans understand, we can and must imbue our software with these same qualities so that it can be understandable to us.
+
+The good news is you don't have to focus on all five code qualities. Just pick one or two that make the most sense to you and focus on those. What you'll find is that as you improve one code quality, all the other code qualities will improve as well. They are not independent of each other. In fact, they are very much interrelated, like facets of the same gem.
+
+The Agile Zone is brought to you in partnership with [Sauce Labs](https://dzone.com/go?i=121022&u=http%3A%2F%2Finfo.saucelabs.com%2FHow-to-Get-the-Most-out-of-CICD-Workflow.html%3Futm_campaign%3Ddevops%2Bwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-agile). Discover how to optimize your DevOps workflows with our [cloud-based automated testing infrastructure](https://dzone.com/go?i=121022&u=http%3A%2F%2Finfo.saucelabs.com%2FHow-to-Get-the-Most-out-of-CICD-Workflow.html%3Futm_campaign%3Ddevops%2Bwp%26utm_medium%3Dtextlink%26utm_source%3Ddzone-agile).

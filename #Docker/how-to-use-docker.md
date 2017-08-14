@@ -1,0 +1,31 @@
+# How to Use Docker
+
+_Captured: 2017-08-04 at 23:52 from [dzone.com](https://dzone.com/articles/how-to-use-docker?oid=twitter&utm_content=buffer3d353&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)_
+
+[Download the blueprint](https://dzone.com/go?i=228233&u=https%3A%2F%2Foffers.automic.com%2Fblueprint-to-continuous-delivery-with-automic-release-automation%3Futm_campaign%3DAMER%252520Online%252520Syndication%252520DZone%252520Platinum%252520Sponsorship%252520Ads%252520JULY-2017%26utm_source%3DDzone%252520Ads%26utm_medium%3DBlueprint%252520to%252520CD) that can take a company of any maturity level all the way up to enterprise-scale continuous delivery using a combination of Automic Release Automation, Automic's 20+ years of business automation experience, and the proven tools and practices the company is already leveraging.
+
+[Docker](https://www.docker.com/) is on a roll. In the last few years, this container management service has become immensely popular in development, especially given the great fit with agile-based projects and continuous delivery. In this article, I want to take a brief look at how you can use Docker to accelerate and streamline the software development lifecycle (SDLC) process.
+
+First, however, a brief introduction. The whole concept of Docker is for developers to easily ship applications inside "software containers" which can then be deployed and run anywhere. Let's imagine you develop an application on your laptop where it works perfectly. Then you push that into a test or production environment; you've chosen the right stack, the right language, and right version. But it doesn't work. Why? Because it's not the same environment.
+
+Maybe you used a new version of a library, but the ops guy tells you that you can't use this library because all the other applications running on the server will break. So, there's a lot of back and forth between the ops and your team of developers. It delays projects, costs money and is frustrating for everyone involved.
+
+When you develop with Docker, everything is packaged inside a [container](https://automic.com/blog/what-containerization-and-will-it-spell-end-virtualization), or inside several containers that talk to each other. Docker completely isolates your piece of software from any external dependencies. A container is self-sufficient. You simply push the container to another environment; its contents and how it was developed are transparent to the ops team. So how is a "software container" like this any different from a standalone computer? Or a virtual machine for that matter?
+
+Containers are lightweight because they don't need the extra load of a hypervisor, but run directly within the host machine's kernel. This means you can run more containers on a given hardware combination than if you were using virtual machines. You can even run Docker containers within host machines that are actually virtual machines. All of this makes containers - and Docker - ideal for continuous integration and continuous delivery workflows.
+
+Docker itself uses a client-server architecture. The client talks to the daemon, which does the heavy lifting of building, running and distributing the containers. The Docker client and daemon can run on the same system, or you can connect the client to a remote daemon. The Docker client and daemon communicate using a REST API, over UNIX sockets or a network interface.
+
+## Orchestrating the Management and Deployment of Docker Containers
+
+[Despite all its advantages](https://offers.automic.com/docker-webinar-how-to-leverage-container-technology-od-reg), Docker still requires its own platform to be managed, someone to manage build, run, assign and stop the containers (as well many additional administrative tasks). And Docker itself still needs to be aware of the other environments it interacts with, including the infrastructure layer and other traditional software services not currently running within the container landscape. Time spent by developers on tasks like these is considered an overhead which can result in missed deadlines, while time spent by ops performing these tasks creates pipeline bottlenecks right before production deployments, which can, in turn, lead to production failures.
+
+There is a solution that enables you to orchestrate all the moving parts - people, process, and technology - involved in managing and deploying to Docker containers. Release automation packages. The built in Automic container blueprint provisioning system along with the Docker actionpack from Automic allows you to blueprint entire Docker systems, build visual workflows and automate container builds, maintenance, provisioning, configurations and most administration tasks. This not only increases productivity among developers and administrators, it also lowers the risk of errors occurring. One example might be automatically ensuring the underlying infrastructure has enough capacity to support the projected container workloads or that certain container versions are always rolled out with matching external service package versions.
+
+The Docker environment blueprint provisioning capability and actionpack from Automic combines an integrated application packaging system, smart deployment models, and out-of-the-box actions for common deployment tasks with robust workflow design and high-volume execution capability. The [Automic Docker package](https://automic.com/content/docker-package-automic) allows users to build, provision, configure and manage Docker containers as part of an automated application deployment process.
+
+Ultimately, this accelerates deployments to Docker containers, ensures the quality of container deployments and minimizes management overhead to help both development and operations grow the business.
+
+[Download](https://dzone.com/go?i=228234&u=https%3A%2F%2Foffers.automic.com%2Fblueprint-to-continuous-delivery-with-automic-release-automation%3Futm_campaign%3DAMER%252520Online%252520Syndication%252520DZone%252520Platinum%252520Sponsorship%252520Ads%252520JULY-2017%26utm_source%3DDzone%252520Ads%26utm_medium%3DBlueprint%252520to%252520CD) the 'Practical Blueprint to Continuous Delivery' to learn how Automic Release Automation can help you begin or continue your company's digital transformation.
+
+### Like This Article? Read More From DZone

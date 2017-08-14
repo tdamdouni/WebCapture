@@ -1,6 +1,6 @@
 # A Scrum Primer for Kanban Teams
 
-_Captured: 2017-07-27 at 20:23 from [dzone.com](https://dzone.com/articles/a-scrum-primer-for-kanban-teams?edition=311391&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202017-07-27)_
+_Captured: 2017-08-11 at 19:46 from [dzone.com](https://dzone.com/articles/a-scrum-primer-for-kanban-teams)_
 
 [Download this white paper](https://dzone.com/go?i=150025&u=https%3A%2F%2Fwww.scrum.org%2FAbout%2FAll-Articles%2FarticleType%2FArticleView%2FarticleId%2F1029%2FCharacteristics-of-a-Great-Scrum-Team%3Futm_source%3DDZone%26utm_medium%3DArticle%26utm_campaign%3DGreatScrumTeam) to learn about the ways to make a Scrum Team great, brought to you in partnership with [Scrum.org](https://dzone.com/go?i=150025&u=https%3A%2F%2Fwww.scrum.org%2FAbout%2FAll-Articles%2FarticleType%2FArticleView%2FarticleId%2F1029%2FCharacteristics-of-a-Great-Scrum-Team%3Futm_source%3DDZone%26utm_medium%3DArticle%26utm_campaign%3DGreatScrumTeam).
 

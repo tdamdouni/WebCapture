@@ -1,8 +1,8 @@
 # Agile Change or Adoption: Sense Your Current Culture
 
-_Captured: 2017-03-05 at 11:58 from [agilepainrelief.com](https://agilepainrelief.com/notesfromatooluser/2016/04/agile-change-or-adoption-sense-your-current-culture.html#.WLvvM7u1KaM)_
+_Captured: 2017-08-10 at 16:15 from [agilepainrelief.com](https://agilepainrelief.com/notesfromatooluser/2016/04/agile-change-or-adoption-sense-your-current-culture.html?utm_content=buffer2013e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.WYxqP3mbGaM)_
 
-![](https://agilepainrelief.com/wp-content/uploads/2016/12/Be-Always-Changing-sense-culture.jpg)
+![](https://3hppfzjby0g1sxwjng1f4h1c-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/Be-Always-Changing-sense-culture.jpg)
 
 (Continued from _Agile Change or Adoption Always Starts with Why_: [Part 1](http://agilepainrelief.com/notesfromatooluser/2016/03/agile-change-or-adoption-always-starts-with-why.html), [Part 2](http://agilepainrelief.com/notesfromatooluser/2016/04/agile-change-or-adoption-the-steps-to-go-from-why-to-how.html))
 
@@ -10,7 +10,7 @@ _Captured: 2017-03-05 at 11:58 from [agilepainrelief.com](https://agilepainrelie
 
 To understand the culture you're attempting to change in your organization, you need to measure (or sense) the current state and then map that state to a model.
 
-The model we will use is the Schneider Culture Model [[1]](https://agilepainrelief.com/notesfromatooluser/2016/04/agile-change-or-adoption-sense-your-current-culture.html) [[2]](https://agilepainrelief.com/notesfromatooluser/2016/04/agile-change-or-adoption-sense-your-current-culture.html):
+The model we will use is the Schneider Culture Model [[1]](https://agilepainrelief.com/notesfromatooluser/2016/04/agile-change-or-adoption-sense-your-current-culture.html?utm_content=buffer2013e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) [[2]](https://agilepainrelief.com/notesfromatooluser/2016/04/agile-change-or-adoption-sense-your-current-culture.html?utm_content=buffer2013e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer):
 
   * Collaboration - a culture of working together
   * Control - a culture of predictability and staying in control
@@ -19,11 +19,11 @@ The model we will use is the Schneider Culture Model [[1]](https://agilepainreli
 
 These attributes are mapped on two axes: Horizontal - People vs. Company oriented; Vertical - Reality vs. Possibility oriented.
 
-![Schneider Culture Model by Michael Sahota](https://agilepainrelief.com/wp-content/uploads/2016/04/Schneider-Culture-Model.Michael-Sahota-1024x751.jpg)
+![Schneider Culture Model by Michael Sahota](https://3hppfzjby0g1sxwjng1f4h1c-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/Schneider-Culture-Model.Michael-Sahota.jpg)
 
-> _[Image by Michael Sahota, used with permission](http://agilitrix.com/2011/03/how-to-make-your-culture-work/)_
+> _Image by Michael Sahota, used with permission_
 
-Each organization will have a primary and secondary culture. Agile and Scrum are primarily collaborative, with a secondary focus on cultivation [[3]](https://agilepainrelief.com/notesfromatooluser/2016/04/agile-change-or-adoption-sense-your-current-culture.html).
+Each organization will have a primary and secondary culture. Agile and Scrum are primarily collaborative, with a secondary focus on cultivation [[3]](https://agilepainrelief.com/notesfromatooluser/2016/04/agile-change-or-adoption-sense-your-current-culture.html?utm_content=buffer2013e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer).
 
 To sense where your organization fits in, you can either use a questionnaire ([sample](https://www.surveymonkey.com/mp/employee-satisfaction-surveys/) via Survey Monkey) or run a culture discovery workshop in conjunction with the questionnaire. My own experience, and that of Michael Sahota in "[An Agile Adoption and Transformation Survival Guide](http://www.infoq.com/minibooks/agile-adoption-transformation)", suggests that using a workshop is more effective at creating a consensus around the results of the survey.
 
@@ -70,7 +70,7 @@ Other Frameworks to consider:
 _First image attribution: Agile Pain Relief Consulting_
 
   
-![](https://agilepainrelief.com/wp-content/uploads/2016/12/Be-Always-Changing.jpg)
+![](https://3hppfzjby0g1sxwjng1f4h1c-wpengine.netdna-ssl.com/wp-content/uploads/2016/12/Be-Always-Changing.jpg)
 
 > _(Continued from Agile Change or Adoption Always Starts with Why)_
 
