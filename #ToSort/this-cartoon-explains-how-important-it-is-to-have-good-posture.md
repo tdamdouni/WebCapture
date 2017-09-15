@@ -1,0 +1,7 @@
+# This Cartoon Explains How Important It Is to Have Good Posture
+
+_Captured: 2017-08-19 at 11:28 from [lifehacker.com](http://lifehacker.com/this-cartoon-explains-how-important-it-is-to-have-good-1722813018?utm_campaign=socialflow_lifehacker_twitter&utm_source=lifehacker_twitter&utm_medium=socialflow)_
+
+We've covered a lot of great ways to help you adjust your posture; from [fixing your chicken neck](http://lifehacker.com/fix-your-forward-neck-chicken-head-posture-with-these-1647160952), to [undoing your computer hunch](http://lifehacker.com/fix-your-computer-hunch-and-other-posture-problems-in-3-1476347921). This video explains why developing your posture is so important for the rest of your body.
+
+This video from the [TED-Ed YouTube channel](https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA) explains why standing up straight is about more than how you look. Your posture affects every movement your body makes, and can make your muscles work harder to perform normal tasks, or become weakened over time. Pain and the inability to move certain ways are now [all too common side effects](http://lifehacker.com/this-graphic-shows-the-effects-texting-has-on-your-body-1716980731) of poor posture, and it can even start to affect your internal organs; so it should be taken seriously. Sitting at desks is the root cause for a lot of these problems, but there are [plenty of things you can do to help yourself out](http://lifehacker.com/5755870/how-to-ergonomically-optimize-your-workspace).

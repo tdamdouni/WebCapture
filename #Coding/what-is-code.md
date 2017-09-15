@@ -1,10 +1,13 @@
 # WHAT _IS_CODE?
 
-_Captured: 2017-07-27 at 07:12 from [www.bloomberg.com](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)_
+_Captured: 2017-09-13 at 20:38 from [www.bloomberg.com](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)_
 
-Software has been around since the 1940s. Which means that people have been faking their way through meetings about software, and the code that builds it, for generations. Now that software lives in our pockets, runs our cars and homes, and dominates our waking lives, ignorance is no longer acceptable. The world belongs to people who code. Those who don't understand will be left behind.
 
-This issue comprises a single story devoted to demystifying code and the culture of the people who make it. There's some technical language along with a few pretty basic mathematical concepts. There are also lots of solid jokes and lasting insights. It may take a few hours to read, but that's a small price to pay for adding decades to your career.
+![Icon of a letter](images/letter.svg) A message from Josh Tyrangiel
+
+Software has been around since the 1940s. Which means that people have been faking their way through meetings about software, and the code that builds it, for generations. Now that software lives in our pockets, runs our cars and homes, and dominates our waking lives, ignorance is no longer acceptable. The world belongs to people who code. Those who don’t understand will be left behind.
+
+This issue comprises a single story devoted to ­demystifying code and the culture of the people who make it. There’s some technical language along with a few pretty basic mathematical concepts. There are also lots of solid jokes and lasting insights. It may take a few hours to read, but that’s a small price to pay for adding decades to your career.
 
 _--Josh Tyrangiel_
 
@@ -20,7 +23,7 @@ For your entire working memory, _some Internet thing_ has come along every two y
 
 Here we go again. On the other side of your (well-organized) desk sits _this guy_ in his mid-30s with a computer in his lap. He's wearing a taupe blazer. He's come to discuss spending large sums to create intangible abstractions on a "website re-architecture project." He needs money, support for his team, new hires, external resources. It's preordained that you'll give these things to him, because the CEO signed off on the initiative--and yet should it all go pear-shaped, you will be responsible. Coders are insanely expensive, and projects that start with uncomfortably large budgets have an ugly tendency to grow from there. You need to understand where the hours will go.
 
-![A Pantone swatch of Simply Taupe](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_taupe.jpg)
+![A Pantone swatch of Simply Taupe](images/sec1_taupe.jpg)
 
 Photographer: Corey Olsen for Bloomberg Businessweek
 
@@ -64,7 +67,7 @@ At this stage in the meeting, you like to look supplicants in the eye and say, _
 
 This time you stop yourself. You don't want your inquiry to be met by a patronizing sigh of impatience or another explanation about ship dates, Agile cycles, and continuous delivery. Better for now to hide your ignorance. _When will it be done?_ You are learning to accept that the answer for software projects is _never_.
 
-![Kevin wearing a taupe blazer](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/taupe.gif)
+![Kevin wearing a taupe blazer](images/emotes/taupe.gif)
 
 ### 1.1 Why Are We Here?
 
@@ -84,17 +87,17 @@ What I'm saying is, I'm one of 18 million. So that's what I'm writing: my view o
 
 Every month it becomes easier to do things that have never been done before, to create new kinds of chaos and find new kinds of order. Even though my math skills will never catch up, I love the work. Every month, code changes the world in some 
 
-interesting, ![Disaster response robot](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_interesting.jpg)
+interesting, ![Disaster response robot](images/sec1_interesting.jpg)
 
-wonderful, ![Patient with a cochlear implant](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_wonderful.jpg)
+wonderful, ![Patient with a cochlear implant](images/sec1_wonderful.jpg)
 
-or disturbing way. ![3D-printed gun](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_horrible.jpg)
+or disturbing way. ![3D-printed gun](images/sec1_horrible.jpg)
 
 ## 2 Let's Begin
 
 A computer is a clock with benefits. They all work the same, doing second-grade math, one step at a time: Tick, take a number and put it in box one. Tick, take another number, put it in box two. Tick, _operate_ (an operation might be addition or subtraction) on those two numbers and put the resulting number in box one. Tick, check if the result is zero, and if it is, go to some other box and follow a new set of instructions. 
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/twitter-blk.png)
+![](images/twitter-blk.png)
 
 You, using a pen and paper, can do anything a computer can; you just can't do those things billions of times per second. And those billions of tiny operations add up. They can cause a phone to boop, elevate an elevator, or redirect a missile. That raw speed makes it possible to pull off not one but multiple sleights of hand, card tricks on top of card tricks. Take a bunch of pulses of light reflected from an optical disc, apply some math to unsqueeze them, and copy the resulting pile of expanded impulses into some memory cells--then read from those cells to paint light on the screen. Millions of pulses, 60 times a second. That's how you make the rubes believe they're watching a movie. 
 
@@ -112,7 +115,7 @@ The turn-of-last-century British artist William Morris once said you can't have 
 
 Consider what happens when you strike a key on your keyboard. Say a lowercase "a." The keyboard is waiting for you to press a key, or release one; it's constantly scanning to see what keys are pressed down. Hitting the key sends a scancode.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/twitter-blk.png)
+![](images/twitter-blk.png)
 
 Just as the keyboard is waiting for a key to be pressed, the computer is waiting for a signal from the keyboard. When one comes down the pike, the computer interprets it and passes it farther into its own interior. "Here's what the keyboard just received--do with this what you will."
 
@@ -126,7 +129,7 @@ Hardware is a tricky business. For decades the work of integrating, building, an
 
 This led to much cursing from individuals who'd spent $1,000 or more on a computer and now had to figure out how to stop the antivirus software from nagging them to pay up.
 
-![Steve Ballmer](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/ballmer.gif)
+![Steve Ballmer](images/ballmer.gif)
 
 Ballmer chants “Developers!”
 
@@ -144,7 +147,7 @@ Thus a craft, and a professional class that lives that craft, emerged. Beginning
 
 Most programmers aren't working on building a widely recognized application like Microsoft Word. Software is everywhere. It's gone from a craft of fragile, built-from-scratch custom projects to an industry of standardized parts, where coders absorb and improve upon the labors of their forebears (even if those forebears are one cubicle over). Software is there when you switch channels and your cable box shows you what else is on. You get money from an ATM--software. An elevator takes you up five stories--the same. Facebook releases software every day to something like a billion people, and that software runs inside Web browsers and mobile applications. Facebook looks like it's just pictures of your mom's crocuses or your son's school play--but no, it's software.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_rubegoldberg.jpg)
+![](images/sec1_rubegoldberg.jpg)
 
 Photographer: Boru O'Brien O'Connell for Bloomberg Businessweek; Set design: Dave Bryant
 
@@ -162,13 +165,13 @@ That's in a language called, simply, K, famous for its brevity. 2 That code will
 
 So how else might your code look? Maybe like so, in Excel (with all the formulas hidden away under the numbers they produce, and a check box that you can check): 
 
-![Screenshot of Excel spreadsheet](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_excel.png)
+![Screenshot of Excel spreadsheet](images/sec1_excel.png)
 
 But Excel spreadsheets are tricky, because they can hide all kinds of things under their numbers. This opacity causes risks. One study by a researcher at the University of Hawaii found that 88 percent of spreadsheets [contain errors](http://panko.shidler.hawaii.edu/SSR/Mypapers/whatknow.htm).
 
 Programming can also look like Scratch, a language for kids:
 
-![Screenshot of Scratch programming environment](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_scratch.png)
+![Screenshot of Scratch programming environment](images/sec1_scratch.png)
 
 That's definitely programming right there--the computer is waiting for a click, for some input, just as it waits for you to type an "a," and then it's doing something repetitive, and it involves hilarious animals. 
 
@@ -279,15 +282,15 @@ Time to get to work.
 
 The reason I'm showing it to you is so you can see how every character matters. Computers usually "understand" things by going character by character, bit by bit, transforming the code into other kinds of code as they go. The Bolus compiler now organizes the tokens into a little tree. Kind of like a sentence diagram. Except instead of nouns, verbs, and adjectives, the computer is looking for functions and arguments. Our program above, inside the computer, becomes this:
 
-![Diagram of tree data structure of code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_tree-tree.svg)
+![Diagram of tree data structure of code](images/sec1_tree-tree.svg)
 
 Trees are a really pleasant way of thinking of the world. Your memo at work has sections that have paragraphs? Tree. Your e-mail program contains messages that contain subject lines and addresses? Tree. Your favorite software program that has a menu bar with individual items that have subitems? Tree. Every day is Arbor Day in Codeville. 
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/twitter-blk.png)
+![](images/twitter-blk.png)
 
 Of course, it's all a trick. If you cut open a computer, you'll find countless little boxes in rows, places where you can put and retrieve bytes. Everything ultimately has to get down to things in little boxes pointing to each other. That's just how things work. So that tree is actually more like this:
 
-![Diagram of tree data structure of code, flattened](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_tree-array.svg)
+![Diagram of tree data structure of code, flattened](images/sec1_tree-array.svg)
 
 Every character truly, truly matters. Every single stupid misplaced semicolon, space where you meant tab, bracket instead of a parenthesis--mistakes can leave the computer in a state of panic. The trees don't know where to put their leaves. Their roots decay. The boxes don't stack neatly. For not only are computers as dumb as a billion marbles, they're also positively Stradivarian in their delicacy.
 
@@ -303,7 +306,7 @@ Maybe you're reading this in print. No shame in that. In fact, thank you. The pa
 
 Thinking this way will teach you two things about computers: One, there's no magic, no matter how much it looks like there is. There's just work to make things look like magic. And two, it's crazy in there.
 
-![Magic](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3_magic.jpg)
+![Magic](images/sec3_magic.jpg)
 
 Photographer: Asger Carlsen for Bloomberg Businessweek; Set Design: Dave Bryant
 
@@ -311,7 +314,7 @@ Photographer: Asger Carlsen for Bloomberg Businessweek; Set Design: Dave Bryant
 
 "Algorithm" is a word writers invoke to sound smart about technology. Journalists tend to talk about "Facebook's algorithm" or a "Google algorithm," which is usually inaccurate. They mean "software."
 
-Algorithms don't require computers any more than geometry does. An algorithm solves a problem, and a great algorithm gets a name. Dijkstra's algorithm, after the famed computer scientist Edsger Dijkstra, finds the shortest path in a graph. By the way, "graph" here doesn't mean ![a bar chart](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_graph-bar.svg) but rather ![a collection of nodes, connected by paths](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_graph-nodes.svg).
+Algorithms don't require computers any more than geometry does. An algorithm solves a problem, and a great algorithm gets a name. Dijkstra's algorithm, after the famed computer scientist Edsger Dijkstra, finds the shortest path in a graph. By the way, "graph" here doesn't mean ![a bar chart](images/sec1_graph-bar.svg) but rather ![a collection of nodes, connected by paths](images/sec1_graph-nodes.svg).
 
 Think of a map; streets connect to streets at intersections. It's a graph! There are graphs all around you. Plumbing, electricity, code compilation, social networks, the Internet, all can be represented as graphs! (Now to monetize …)
 
@@ -343,7 +346,7 @@ And that's Euclid's algorithm in PostScript. The sample PostScript code included
 
 A programming language is a system for encoding, naming, and organizing algorithms for reuse and application. It's an algorithm management system. This is why, despite the hype, it's silly to say Facebook has an algorithm. An algorithm can be translated into a function, and that function can be called (run) when software is executed. There are algorithms that relate to image processing and for storing data efficiently and for rapidly running through the elements of a list. Most algorithms come for free, already built into a programming language, or are available, organized into libraries, for download from the Internet in a moment. You can do a ton of programming without actually thinking about algorithms--you can save something into a database or print a Web page by cutting and pasting code. But if you want the computer to, say, identify whether it's reading Spanish or Italian, you'll need to write a language-matching function. So in that sense, algorithms can be pure, mathematical entities as well as practical expressions of ideas on which you can place your grubby hands.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_edward.jpg)
+![](images/sec1_edward.jpg)
 
 Dijkstra distributed a remarkable and challenging set of at least 1318 memos to the global computer science community, starting in the 1960s and continuing up until his death in 2002, known as "EWDs," many of them [handwritten](http://www.cs.utexas.edu/~EWD/).Δ Dijkstra wrote at least 1318 memos to the computer science community, not 18. _[Thanks to @hbp on GitHub](https://github.com/BloombergMedia/whatiscode/issues/67)_
 
@@ -387,7 +390,7 @@ Conferences! The website Lanyrd lists hundreds of technology conferences for Jun
 
 Tech conferences look like you'd expect. Tons of people at a Sheraton, keynote in Ballroom D. Or enormous streams of people wandering through South by Southwest in Austin. People come together in the dozens or thousands and attend panels, ostensibly to learn; they attend presentations and brush up their skills, but there's a secondary conference function, one of acculturation. You go to a technology conference to affirm your tribal identity, to transfer out of the throng of dilettantes and into the zone of the professional. You pick up swag and talk to vendors, if that's your thing.
 
-![TechCrunch Disrupt NYC, May 2011](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference04.jpg)![Google I/O developers conference, San Francisco, May 2013](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference02.jpg)![Global Mobile Internet Conference, Beijing, April 2015](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference06.jpg) ![Nvidia GPU, San Jose, September 2010](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference11.jpg)![South by Southwest \(SXSW\) Interactive Festival, Austin, March 2013](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference09.jpg)![Apple Worldwide Developers Conference \(WWDC\), San Francisco, June 2008](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference03.jpg) ![TechCrunch Disrupt NYC, May 2012](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference07.jpg)![Re:publica conference, Berlin, May 2015](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference08.jpg)![TechCrunch Disrupt NYC, May 2015](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference05.jpg) ![SXSW Interactive Festival, Austin, March 2014](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference10.jpg)![WWDC, San Francisco, June 2015](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference01.jpg)![Bloomberg Technology Conference!, San Francisco, June 15-16](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_conference12.jpg)
+![TechCrunch Disrupt NYC, May 2011](images/sec1_conference04.jpg)![Google I/O developers conference, San Francisco, May 2013](images/sec1_conference02.jpg)![Global Mobile Internet Conference, Beijing, April 2015](images/sec1_conference06.jpg) ![Nvidia GPU, San Jose, September 2010](images/sec1_conference11.jpg)![South by Southwest \(SXSW\) Interactive Festival, Austin, March 2013](images/sec1_conference09.jpg)![Apple Worldwide Developers Conference \(WWDC\), San Francisco, June 2008](images/sec1_conference03.jpg) ![TechCrunch Disrupt NYC, May 2012](images/sec1_conference07.jpg)![Re:publica conference, Berlin, May 2015](images/sec1_conference08.jpg)![TechCrunch Disrupt NYC, May 2015](images/sec1_conference05.jpg) ![SXSW Interactive Festival, Austin, March 2014](images/sec1_conference10.jpg)![WWDC, San Francisco, June 2015](images/sec1_conference01.jpg)![Bloomberg Technology Conference!, San Francisco, June 15-16](images/sec1_conference12.jpg)
 
 **First row:** TechCrunch Disrupt NYC, May 2011; Google I/O developers conference, San Francisco, May 2013; Global Mobile Internet Conference, Beijing, April 2015
 
@@ -419,7 +422,7 @@ Conferences began to develop codes of conduct, rules and algorithms for people (
 
 When people started talking about conference behavior, they also began to talk about the larger problems of programming culture. This was always an issue, but the conference issues gave people a point of common reference. Why were there so many men in this field? Why do they behave so strangely? Why is it so hard for them to be in groups with female programmers and behave in a typical, adult way?
 
-![Kevin collecting conference swag](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/swagbot.gif)![Kevin reading conference guide](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/conferencebot.gif)![Kevin gesticulating with a cocktail glass](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/drinkbot.gif)
+![Kevin collecting conference swag](images/emotes/swagbot.gif)![Kevin reading conference guide](images/emotes/conferencebot.gif)![Kevin gesticulating with a cocktail glass](images/emotes/drinkbot.gif)
 
 "I go to work and I stick out like a sore thumb. I have been mistaken for an administrative assistant more than once. I have been asked if I was physical security (despite security wearing very distinctive uniforms)," wrote Erica Joy Baker on [Medium.com](https://medium.com/thelist/the-other-side-of-diversity-1bb3de2f053e) who has worked, among other places, at Google.Δ The original version of this story did not name Baker or link to her post. _[Thanks to @EricaJoy on GitHub](https://github.com/BloombergMedia/whatiscode/pull/36)_
 
@@ -427,8 +430,8 @@ When people started talking about conference behavior, they also began to talk a
 
   
 Ada Lovelace: The first programmer. She devised algorithms for Charles Babbage's "analytical engine," which he never built.  
-![Ada Lovelace](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_lovelace.jpg) Grace Murray Hopper: World War II hero and inventor of the compiler.  
-![Grace Murray](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_hopper.jpg)
+![Ada Lovelace](images/sec1_lovelace.jpg) Grace Murray Hopper: World War II hero and inventor of the compiler.  
+![Grace Murray](images/sec1_hopper.jpg)
 
 "Always the only woman in the meeting, often the first--the first female R&D engineer, first female project lead, first female software team lead--in the companies I worked for," wrote another woman in _[Fast Company](http://www.fastcompany.com/3008216/tracking/minding-gap-how-your-company-can-woo-female-coders)_ magazine. The quotation from Fast Company magazine was from an article by Ciara Byrne with Jay Cassano. _[Thanks to @creatrixtiara on GitHub](https://github.com/BloombergMedia/whatiscode/issues/38)_
 
@@ -442,7 +445,7 @@ Which leads one to the inescapable conclusion: The problem with women in technol
 
 Some demographics taken from Stack Overflow's 2015 developer survey:
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec1_demographics.jpg)
+![](images/sec1_demographics.jpg)
 
 ## 3 Why Are Programmers So Intense About Languages?
 
@@ -686,7 +689,7 @@ The true measure of a language isn't how it uses semicolons; it's the _standard 
 
 Take Python, which is "batteries included," meaning that it comes with tons of preexisting code, organized into "modules," that you can reuse. Its standard library has functions that let you copy Web pages or replace words in a document.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/twitter-blk.png)
+![](images/twitter-blk.png)
 
 What does that mean, to process text? Well, you might have a string of text (The Quick Brown Fox) and save it in a variable called `my_string`. So now you can call standard methods on that string. You can say `my_string.lower()`, and it will make all the words lowercase, producing "the quick brown fox."
 
@@ -704,7 +707,7 @@ But what a payoff! Now that Pillow is installed, you have, at your typing finger
 
 ### 3.2 What Do Different Languages Do?
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_fridgebike.jpg)
+![](images/sec2_fridgebike.jpg)
 
 Photographer: Steven Brahms for Bloomberg Businessweek; Prop Stylist: Zachary Kinsella
 
@@ -718,15 +721,15 @@ Some programming languages, such as C, will do their best to do exactly as you a
 
 Some languages have cute logos, like the Go gopher.
 
-![The gopher mascot for the language Go](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_gopher.png)
+![The gopher mascot for the language Go](images/sec2_gopher.png)
 
 There's Scratch, a teaching language for kids. It doesn't use text much at all but allows li'l coders to move icons around on screen and assemble programs like Legos. Its logo is a smiling cat on two legs.
 
-![The cat mascot for the language Scratch](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_scratch-cat.png)
+![The cat mascot for the language Scratch](images/sec2_scratch-cat.png)
 
 And then there's Lisp, which didn't come with a logo when it was first proposed in the 1950s but now has a community-created five-eyed alien holding a flag with its proboscis. Lisp is a classic language. There are some languages that just have authority, elegance--canonical computer languages. 
 
-![The alien mascot for the language Lisp](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_lisp.png)
+![The alien mascot for the language Lisp](images/sec2_lisp.png)
 
 And one of these is C. Most of the popular languages look a lot like it. C's de facto logo is, well, the letter C. C is called C because it came after another language. That language was called B.
 
@@ -734,7 +737,7 @@ And one of these is C. Most of the popular languages look a lot like it. C's de 
 
 C is as big a deal as you can get in computing. Created by Dennis Ritchie starting in the late 1960s at Bell Labs, it's the principal development language of the UNIX operating system. Unix (lowercased now, to refer to the idea of Unix instead of the branded version) is a simple operating system--basically it's a kernel12 that manages memory and runs software, a large collection of very small utility programs, and a "shell" that helps you knit programs into "shell scripts." If you couldn't do what you needed with shell scripts, you might write a new utility in C and add it to the utility library. This was a nice and practical way of working, and it coincided with the rise of various kinds of networks that today we refer to collectively as the Internet. So Unix spread from Bell Labs to academia, to large industrial systems, and eventually leached into the water supply of computing until it was everywhere. And everywhere that Unix went, C was sure to go.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_pullup.jpg)
+![](images/sec2_pullup.jpg)
 
 Photographer: Jeremy Liebman for Bloomberg Businessweek
 
@@ -800,7 +803,7 @@ If you're going to understand how code works in a corporate environment, you nee
 
 There are many definitions. I'll wade in and provide my own and face the consequences. Object-oriented programming is, at its essence, a filing system for code. As anyone who's ever shared a networked folder--or organized a physical filing cabinet--knows, without a good shared filing system your office will implode. C, people said in the 1980s and '90s, is a great language! An excellent language! But it doesn't really let you organize things. You end up with all these functions. It's a mess. I mean, we have this data structure for our customers (name, address, and so forth), and we have all these functions for manipulating that data (`update_address`, `send_bill`, `delete_account`), but the thing is, those functions aren't related to the data except by the naming convention. C doesn't have a consistent way to name things. Which means it's hard to find them later. Object-oriented programming gave programmers a great way to name things--a means of building up a library. I could call (run) `update_address` on a picture of a dog or an Internet address. That approach is sloppy and dangerous and leads to bugs (our forebears reasoned, and not without precedent), and it makes it hard to program with big teams and keep track of everything. 
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_octopus.jpg)
+![](images/sec2_octopus.jpg)
 
 Photographer: Thomas Albdorf for Bloomberg Businessweek; Prop Stylist: Amélie Chapalain
 
@@ -822,7 +825,7 @@ This isn't better or worse. It's just different. Here is some Smalltalk code:
 
 It prints that short sentence in the Transcript Window on the user's screen. The Transcript is an object--and here it's receiving a message `(show:)` with an argument--i.e., input--"Hello," etc. You type that in, select it with your mouse (even in the early 1980s), and tell the computer to execute it. It compiles just that bit of code and adds it to the rest of the running system. It looks like this:
 
-![Screenshot of the Smalltalk programming environment](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_smalltalk2.png)
+![Screenshot of the Smalltalk programming environment](images/sec2_smalltalk2.png)
 
 Tons of windows all talking to each other. Each window is, well, an object. And instead of programming it and compiling the program, then running it, you just dive right into this living, breathing, window-full environment, and start making new objects that send messages to other objects. If you save where you are, and come back five years later, well, everything will look exactly the same.
 
@@ -855,7 +858,7 @@ Python people, generally, are pretty cool.
 
 ## 4 Why Are Coders Angry?
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/angry3.gif)
+![](images/emotes/angry3.gif)
 
 There's a website dedicated to language benchmarks, to measuring how fast certain languages run compared with others, and it includes this preface to stave off riots: "These are not the only compilers and interpreters. These are not the only programs that could be written. These are not the only tasks that could be solved. These are just 10 tiny examples."16
 
@@ -863,19 +866,19 @@ It sometimes appears that everyone in coding has a beef. You can feel it coming 
 
 Languages have agendas. People glom onto them. Blunt talk is seen as a good quality in a developer, a sign of an "engineering mindset"--spit out every opinion as quickly as possible, the sooner to reach a technical consensus. Expect to be told you're wrong; expect to tell other people they're wrong. (Masculine anger, bluntly expressed, is part of the industry.)
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/angry.gif)
+![](images/emotes/angry.gif)
 
 Coding is a culture of blurters. This can yield fast decisions, but it penalizes people who need to quietly compose their thoughts, rewarding fast-twitch thinkers who harrumph efficiently. Programmer job interviews, which often include abstract and meaningless questions that must be answered immediately on a whiteboard, typify this culture. Regular meetings can become sniping matches about things that don't matter. The shorthand term for that is "bikeshedding." (Who cares what color the bike shed is painted? Well …) 
 
 Code culture is very, very broad, but the geographic and cultural core is the Silicon Valley engine of progress. The Valley mythologizes young geniuses with vast sums. To its credit, this culture works; to its shame, it doesn't work for everyone.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/angry2.gif)
+![](images/emotes/angry2.gif)
 
 At any moment some new thing could catch fire and disrupt the tribal ebb and flow. Instagram was written in Python and sold for $700 millionΔ The original version of this story incorrectly stated $2 billion. _[Thanks to @straup on GitHub](https://github.com/BloombergMedia/whatiscode/pull/33)_ , so Python had a moment of glory. The next mind-blowing app could show up, written in some new language--and start everyone taking that more seriously. Within 18 months your skills could be, if not quite valueless, suspect.
 
 I was in a meeting once where someone said, "How long will it take to fix that?" One person, who'd been at the company for years, said, "Three months." A new person, who'd just come from a world of rapidly provisioned cloud microservices, said, "Three minutes." They were both correct. That's how change enters into this world. Slowly at first, then on the front page of Hacker News.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/angry4.gif)
+![](images/emotes/angry4.gif)
 
 Programmers carve out a sliver of cognitive territory for themselves and go to conferences, and yet they know their position is vulnerable. They get defensive when they hear someone suggest that Python is better than Ruby, because [insert 500-comment message thread here]. Is the next great wave swelling somewhere, and will it wash away Java when it comes? Will Go conquer Python? Do I need to learn JavaScript to remain profitable? Programmers are often angry because they're often scared. We are, most of us, stumbling around with only a few candles to guide the way. We can't always see the whole system, so we need to puzzle it out, bit by bit, in the dark.
 
@@ -897,7 +900,7 @@ For a truly gifted programmer, writing code is a side effect of thought. Their s
 
 ### 4.2 The Thing About Real Artists Is That They--
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_cult.jpg)
+![](images/sec2_cult.jpg)
 
 Photographer: Boru O'Brien O'Connell for Bloomberg Businessweek; Set design: Dave Bryant
 
@@ -907,27 +910,27 @@ As a class, programmers are easily bored, love novelty, and are obsessed with va
 
 **Nutrition: Soylent**  
 Heralded as "the end of food." Contains potato and rice starches, oat flour, oils, vitamins, and minerals. It was invented in 2013 by Rob Rhinehart, a programmer hoping to make mealtime more efficient. Price: $70 for a bag of Soylent powder, or about $3 per meal.   
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_soylent.jpg)
+![](images/sec2_soylent.jpg)
 
 **Caffeine delivery system: Club-Mate**  
 A fizzy drink from a Bavarian brewery sold mostly in Europe. It's made from yerba mate, which has caffeine and polyphenols. Programmers also loooove coffee.   
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_clubmate.jpg)
+![](images/sec2_clubmate.jpg)
 
 **Computer: 13-inch MacBook Pro**  
 Widely rated as having best-in-class hardware, these machines are capable of running Mac as well as Windows and Linux operating systems.   
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_macbook.jpg)
+![](images/sec2_macbook.jpg)
 
 **Text editor: Highly subjective**  
 Developers use scores of different text editors, programs that allow them to more easily write and debug code. Favorites include Sublime Text, Text Wrangler, and Brackets.   
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_sublime.jpg)
+![](images/sec2_sublime.jpg)
 
 **Old-school desk: The Jerker**  
 Nerds in countless online forums pine after this discontinued modular Ikea workstation, which allows a user to customize desk and shelf height. It sells for about $250 on EBay.   
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_jerker.jpg)
+![](images/sec2_jerker.jpg)
 
 **Standing desk: GeekDesk Max**  
 With four preset heights, a steel frame, and dual motors that lift or lower the tabletop at 1.1 inches per second, this desk can support up to 335 pounds. It comes in small ($949) and large ($985).   
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_geekdesk.jpg)
+![](images/sec2_geekdesk.jpg)
 
 Meanwhile, the executives who run large programming teams have to actually ship software. "Ship" is a cult word. If they don't ship on time, managers could get a lower rating on their performance reviews and end up making only inordinate, as opposed to obscene, amounts of money. Wine cellars are at risk, not to mention alimony payments. As managers, their job--along with all the trust falls and consensus-building and active listening--is to reduce ship risk, which comes in many forms: bad bugs; features that were promised to bosses or clients that distract from boring, utterly necessary features; or test servers that crash at night.
 
@@ -939,7 +942,7 @@ Then the programmers shuffle back to their standing desks and complain until the
 
 Managers and old coders have fewer options. It's often better to just keep working and shipping, even if the code starts to look ugly, even if there are nominally better solutions, even as the technical debt18 accrues around you, because in a few years everything will change. Maybe you'll get promoted and the new manager will have the will and motive to tear up everything you did, cursing, and start again (perhaps using a new language) with the goal of making something much simpler. Or the entire industry will spasm and everything you've done will need to be thrown away and rebuilt along new lines anyway. (From desktop to Web, from Web to mobile, from mobile to … quantum? Who knows. But there's always something.)
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/twitter-blk.png)
+![](images/twitter-blk.png)
 
 Somehow it keeps working out. The industry is always promising to eat itself, to come up with a paradigm so perfect that we can all stop wasting our time and enter a world of pure digital thought. It never happens.
 
@@ -990,7 +993,7 @@ While no one sings its praises (except for banks--banks love Cobol), it still ru
         PRINT *, ""
         END
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_backus.jpg)
+![](images/sec2_backus.jpg)
 
 "Much of my work has come from being lazy. I didn't like writing programs, and so, when I was working on the IBM 701, writing programs for computing missile trajectories, I started work on a programming system to make it easier to write programs."  
 -- _John Backus, 1979, in _Think_, the IBM employee magazine_
@@ -1048,15 +1051,15 @@ On today's agenda: How to make sure that registration is a positive experience f
 
 Enter the remaining two programmers. Programmer A, who is senior, takes her place at the whiteboard. …
 
-![Programmer A](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/chatter_Orange.gif)
+![Programmer A](images/emotes/chatter_Orange.gif)
 
 **Programmer A:** "Let's just start with e-mail validation."
 
 **Programmer B:** "Can you define valid?"
 
-![Programmer B](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/chatter_Blue.gif)
+![Programmer B](images/emotes/chatter_Blue.gif)
 
-![Programmer B](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/chatter_Green.gif)
+![Programmer B](images/emotes/chatter_Green.gif)
 
 **Programmer C:** "A well-formed--"
 
@@ -1184,7 +1187,7 @@ Java running "inside" a Web browser, as a plug-in, never worked well. It was slo
 
 Here are some facts about Java to help you understand how it slowly took over the world by the sheer power of being pretty good.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_ribbon.jpg)
+![](images/sec2_ribbon.jpg)
 
 Photographer: Joanna Mcclure for Bloomberg Businessweek; Prop Stylist: Amy Henry
 
@@ -1214,7 +1217,7 @@ Don't ever count Microsoft out. Its great corporate skill has always been to tak
 
 But Java is also in wide use at Google. It's a language for places such as General Electric and Accenture. These aren't startups, but if their product schedules slip, so does their revenue, and they are beholden to the public markets. Gigantic data-driven organizations are structured around code, around getting software made. But that doesn't mean their teams are huge--Amazon, for example, is famous for its two-pizza rule: "Never have a meeting where two pizzas couldn't feed the entire group."
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/pizza.gif) ![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/pizza.gif)
+![](images/pizza.gif) ![](images/pizza.gif)
 
 These companies have cultures that know how to make software. They have whole departments dedicated to testing. The process is important because there are so many moving pieces, many of them invisible.
 
@@ -1316,7 +1319,7 @@ PHP stands for Personal Home Page/Forms Interpreter. PHP now stands for “PHP: 
 
 I know a lot of people who program in PHP, and they are smart, good people. PHP powers Etsy and Facebook. It powers Wikipedia, for God's sake. WordPress. Out of all the Web's pages, an enormous percentage is created with PHP.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3_diary.jpg)
+![](images/sec3_diary.jpg)
 
 Photographer: Jeremy Liebman for Bloomberg Businessweek
 
@@ -1334,7 +1337,7 @@ One of the privileges of owning a Mac is that you can download a program by Appl
 
 It's an enormous download, more than 2 gigabytes, or roughly the size of an hour of DVD-quality video. Xcode is the heart of Apple. It's not only how the company writes software, it's the tool for everyone who wants to write software for the Mac or iPhone.33
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3_xcode.jpg)
+![](images/sec3_xcode.jpg)
 
 Within Xcode are whole worlds to explore. For example, one component is the iOS SDK (Software Development Kit). You use that to make iPhone and iPad apps. That SDK is made up of dozens and dozens of APIs (Application Programming Interfaces). There's an API for keeping track of a user's location, one for animating pictures, one for playing sounds, and several for rendering text on the screen and collecting information from users. And so forth.
 
@@ -1403,7 +1406,7 @@ When your app is done, you may sell it in an app store. And if users are excited
 
 Odds are, if you're doing any kind of programming, especially Web programming, you've adopted a framework. Whereas an SDK is an expression of a corporate philosophy, a framework is more like a product pitch. Want to save time? Tired of writing the same old code? Curious about the next new thing? You use a graphics framework to build graphical applications, a Web framework to build Web applications, a network framework to build network servers. There are hundreds of frameworks out there; just about every language has one.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3_django2.jpg)
+![](images/sec3_django2.jpg)
 
 Django Reinhardt, guitar virtuoso and namesake of the Django framework
 
@@ -1422,7 +1425,7 @@ Suppose we're still making our bookstore, the Amazonesque one with the relationa
 
 So now we can make a book catalog. (Obviously we need to add authors and the like.) The incredibly neat thing is that with a few more lines of configuration you have a completely functional, working Web-based article editor; to wit:
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3-32_addbook.png)
+![](images/sec3-32_addbook.png)
 
 That's called the "admin" view, and it's always been a main feature of Django. Your work as a programmer has just started, but very soon after the moment of conception, your users--journalists, if you're building a publishing platform, or alpha testers, or maybe just you, in a testing frame of mind--can start to play with your baby, entering books, trying things out.
 
@@ -1454,7 +1457,7 @@ Programming is debugging. It's the expectation that things won't work. This is n
 
 When I started programming I felt that each time the program crashed, I'd failed. I found myself cringing, desperate, unable to move forward. There's even a novel by Ellen Ullman, _The Bug_, about the anxieties and social complexities that arise when a serious bug is hard to find.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/twitter-blk.png)
+![](images/twitter-blk.png)
 
 Eventually, though, I learned to submit. I let myself drift into the computer, to remember the math I know, the things I understand about types and categories and lists and syntax. Sometimes bugs cause error messages to pop up; sometimes they cause the program to give up the ghost and quit suddenly; sometimes they get caught in terrible loops and fill up the memory and choke all the resources of the computer until it has to be restarted. That's called a stack overflow. Sometimes a request goes too hard, for example, calling itself so many times that the stack, which is a finite resource, fills up and can't take it anymore. Hence the name of the website Stack Overflow, where programmers go to answer questions and help each other solve bugs. It's the 62nd-most-visited website in the world, trailing Craigslist by a few spots.
 
@@ -1466,7 +1469,7 @@ Randomly selected item from Stack Overflow, to give you a taste of programming:
 
 TheOncomingCode seems to be saying that he's using the AngularJS framework in JavaScript and another piece of code called ui-router. Judging from its name, the latter helps set up routes to address components of a user interface--that is, it helps manage how you view your data.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3_semicolon.jpg)
+![](images/sec3_semicolon.jpg)
 
 Thomas Albdorf for Bloomberg Businessweek; Prop Stylist: Amélie Chapalain
 
@@ -1482,7 +1485,7 @@ Polymer is a "Web components" library, which means it gives you little reusable 
 
 So what we know now is that the combination of Angular, ui-router, Yeoman, Gulp, and Polymer is somehow not working for TheOncomingCode. All of these things are tools designed to make it easier to code. But they all introduce their own complexity. This person is trying to make a Web browser do something in JavaScript, and it's crapping out.
 
-**The top 10 tags on Stack Overflow’s help-wanted listings, June 1:** ![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3_helpwanted.jpg)
+**The top 10 tags on Stack Overflow’s help-wanted listings, June 1:** ![](images/sec3_helpwanted.jpg)
 
 Someone came in to answer this question, too. "To be able to use the header state in the home state," wrote Stack Overflow user Matt Tester, "they will need to [be] nested (chained). So, it's not obvious, but you can safely make one state the parent of another in separate files/configs because of the way registration works." So. There you go. That solves it.
 
@@ -1518,9 +1521,9 @@ In my opinion, version control is one of the most beautiful things about program
 
 What if I told you ...
 
-![Programmer A](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/chatter_Blue.gif)
+![Programmer A](images/emotes/chatter_Blue.gif)
 
-![Programmer B](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/chatter_Green.gif)
+![Programmer B](images/emotes/chatter_Green.gif)
 
 Go on...
 
@@ -1554,7 +1557,7 @@ Shut up, shut up, and take everything, disembodied code voice, take everything! 
 
 And that's why everyone gets excited about GitHub. You should go to GitHub, you really should. You should poke around and look through the thousands of repositories there, read some of the README files. And you should look into the code, and then look at the commits. A "commit" is a moment of action captured and stored. You can compare one commit with another and see a "diff," see what's been added and what's been removed. See what you can figure out. Take a look at the screen shot below.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3-31_django.png)
+![](images/sec3-31_django.png)
 
 First, we're looking at the Django repository. This is the actual, real-life code that makes Django, the Web framework, run. It has 668 people keeping an eye on it, and 14,325 people have starred it as a favorite, and there are 5,692 forks--meaning that people have copied the code into their own repositories with some intention of manipulating and adding to or changing it. These numbers represent invested users. There are likely hundreds of thousands more who downloaded the code just to use it.
 
@@ -1588,7 +1591,7 @@ which asks you to enter a commit message explaining what you've done; and then
 
 which will cause an error because who do you think you are to come in and start pushing code to the node repository? But if you did have permission, that would push your changes to the master branch of the git repository that is hosted on GitHub.
 
-**Github Repositories** ![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3_repositories.jpg)
+**Github Repositories** ![](images/sec3_repositories.jpg)
 
 These commands are now part of the sense memory of many programmers. They type variations on them dozens of times a day, checking in their code to keep a record of the work they've done, so they can rewind to any point if they go too deep and screw up too many things.
 
@@ -1646,7 +1649,7 @@ You feel some pity for the coders now. Obviously, they will inherit the earth. B
 
 His mouth opens, then shuts.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3_braids.jpg)
+![](images/sec3_braids.jpg)
 
 Photographer: Joanna Mcclure for bloomberg businessweek; prop stylist: Amy Henry
 
@@ -1686,21 +1689,21 @@ Now, that number isn't trivial; if it takes a minute to make a page, you'd need 
 
 **Assembly**  
 Pac-Man, Centipede  
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_pacman.gif)
+![](images/sec2_pacman.gif)
 
 **C**  
 Unix, Linux kernel, Python, Perl, PHP 
 
 **C++**  
 Windows, Google Chrome, software for F-35 fighter jets  
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_jet.jpg)
+![](images/sec2_jet.jpg)
 
 **Python**  
 Instagram, Pinterest, Spotify, YouTube 
 
 **PHP**  
 Facebook, Wikipedia, WordPress, Drupal  
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec2_wiki.jpg)
+![](images/sec2_wiki.jpg)
 
 **Perl**  
 BuzzFeed 
@@ -1814,7 +1817,7 @@ You can feel it, the S, off in the distance, coming toward you. It will arrive i
 
 Perhaps you have a future in software after all.
 
-![Hello World](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3_helloworld.jpg)
+![Hello World](images/sec3_helloworld.jpg)
 
 Photographer: David Brandon Geeting for Bloomberg Businesswek; Prop Stylist: Dave Bryant
 
@@ -1826,7 +1829,7 @@ You probably already do code. You do it in Excel or Google Spreadsheets. You run
 
 Programming as a career can lead to a rewarding, solidly middle-class existence. If you are inclined and enjoy the work, it's a good way to spend time, and if you work for and with good people, it can be very fun--even the dry parts have something to teach you. Of course this is true of any place where smart people work. If your situation is lousy, you can probably find another job more easily than, say, a writer.
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/twitter-blk.png)
+![](images/twitter-blk.png)
 
 The industry twists and turns so often, though, that who knows what the next 10 or 20 years will bring? The iPhone, and mobile in general, created a brief renaissance for people who could program using lower-level languages such as Objective-C, people who could worry about a computer's memory. Perhaps the Internet of Things will turn everything into a sensor. (Already you wander Disney World with a wristband, and it watches and tracks you; the whole place is a computer. Δ Digital wristbands are available at Disney World, not Disneyland. _[Thanks to @charlesdwesleyeplica on GitHub](https://github.com/BloombergMedia/whatiscode/issues/85)_ ) This will require yet more low-level thinking. And then there will be websites to make, apps to build, and on and on.
 
@@ -1846,15 +1849,15 @@ Code has atomized entire categories of existence that previously appeared whole.
 
 I'm happy to have lived through the greatest capital expansion in history, an era in which the entirety of our species began to speak, awkwardly, in digital abstractions, as venture capitalists waddle around like mama birds, dropping blog posts and seed rounds into the mouths of waiting baby bird developers, all of them certain they will grow up to be billionaires. It's a comedy of ego, made possible by logic gates. I am not smart enough to be rich, but I'm always entertained. I hope you will be, too. Hello, world!
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/certificatedemo_800.png)
+![](images/certificatedemo_800.png)
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/sec3_paul.jpg)
+![](images/sec3_paul.jpg)
 
 Photographer: Corey Olsen for Bloomberg Businessweek
 
 **Paul Ford** is a writer and programmer who lives in Brooklyn, N.Y. He is a founding partner of [Postlight](http://postlight.com/), a company in New York City that builds Internet platforms and develops interactive products. He is writing a book of essays about Web pages that Farrar, Straus and Giroux will publish in 2016. His article, “[The Surprising Sophistication of Twitter](http://www.bloomberg.com/bw/articles/2013-11-07/the-hidden-technology-that-makes-twitter-huge),” appeared in the Nov. 7, 2013, issue of _Bloomberg Businessweek_. E-mail: [ford@ftrain.com](mailto:ford@ftrain.com). Twitter: [@ftrain](https://twitter.com/ftrain). GitHub: [ftrain](https://github.com/ftrain).
 
-![](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/images/emotes/waving.gif)
+![](images/emotes/waving.gif)
 
 DARPA ROBOT: David McNew/Reuters, HEARING: Kim Komenich/San Francisco Chronicle/Corbis, 3D GUN: Keith Beaty/Toronto Star/Getty Images, DYKSTRA: Ben Shneiderman, BACKUS: Courtesy IBM Archives, REINHARDT: Courtesy William Gottlieb/Library of Congress, HOPPER: AP Photo, INPUT-ENIAC: National Archives, PUNCH CARDS: Courtesy IBM Archives, CD: Fairfax Media/Getty Images, FLOPPY DISCS: W.Cody/Corbis, SOFTWARE CASSETTES: Courtesy Nico Kaiser/Wiki Commons, TECH CONFERENCES: ALAMY (1); BLOOMBERG (5); CORBIS (1); KIM KULISH (2); The Image Works (1) 
 

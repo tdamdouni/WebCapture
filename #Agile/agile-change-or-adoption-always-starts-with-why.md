@@ -1,18 +1,18 @@
 # Agile Change or Adoption Always Starts with Why
 
-_Captured: 2017-03-05 at 11:56 from [agilepainrelief.com](https://agilepainrelief.com/notesfromatooluser/2016/03/agile-change-or-adoption-always-starts-with-why.html#.WLvuyJ21KJI)_
+_Captured: 2017-08-18 at 19:00 from [agilepainrelief.com](https://agilepainrelief.com/notesfromatooluser/2016/03/agile-change-or-adoption-always-starts-with-why.html?utm_content=buffer062f2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.WZcdI_SbGaM)_
 
 Your organization has decided to become more "Agile." Why? As we learned in a previous blog post, "[Because Our Competitors Are](https://agilepainrelief.com/notesfromatooluser/2016/02/because-our-competitors-are-is-no-reason-to-become-an-agile-organization.html)" is not a valid - or sensible - reason.
 
 Before embarking on a change, adoption, or improvement program, you need to know the rationale behind that decision. So… why Agile?
 
-![Group of people](https://agilepainrelief.com/wp-content/uploads/2016/03/photodune-352256-group-of-people-xs-300x200.jpg)
+![Group of people](https://3hppfzjby0g1sxwjng1f4h1c-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/photodune-352256-group-of-people-xs.jpg)
 
 A traditional approach to answering this question might see the executive team going off-site for two to three days and holding a workshop where they decide why they should be Agile, then design an adoption strategy, and then summarize the whole thing in a few sentences to be sent out in a memo.
 
 Typically, large-scale change initiatives have a lot more ceremony, more meetings, and more setup than this. However, there are several key failings, including that they involve only a select few executives in the envisioning and decision-making process, and they attempt to plan for the long haul.
 
-There are dozens of examples in our industry of failed change efforts that have cost billions of dollars and proved that this approach doesn't work. At Nokia, Stephen Elop issued the famous '[burning platform](http://blogs.wsj.com/tech-europe/2011/02/09/full-text-nokia-ceo-stephen-elops-burning-platform-memo/)' memo in 2011, and yet two years later the company was sold to Microsoft. In 2013 Avon had to write off $125 million[[1](https://agilepainrelief.com/notesfromatooluser/2016/03/agile-change-or-adoption-always-starts-with-why.html)] of work that built an enterprise software implementation which drove representatives away. This was change that failed to help the very people it was intended for.
+There are dozens of examples in our industry of failed change efforts that have cost billions of dollars and proved that this approach doesn't work. At Nokia, Stephen Elop issued the famous '[burning platform](http://blogs.wsj.com/tech-europe/2011/02/09/full-text-nokia-ceo-stephen-elops-burning-platform-memo/)' memo in 2011, and yet two years later the company was sold to Microsoft. In 2013 Avon had to write off $125 million[[1](https://agilepainrelief.com/notesfromatooluser/2016/03/agile-change-or-adoption-always-starts-with-why.html?utm_content=buffer062f2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)] of work that built an enterprise software implementation which drove representatives away. This was change that failed to help the very people it was intended for.
 
 These and other failures involve some combination of the following:
 

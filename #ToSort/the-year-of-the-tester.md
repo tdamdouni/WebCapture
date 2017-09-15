@@ -1,0 +1,45 @@
+# The Year of the Tester
+
+_Captured: 2017-09-08 at 14:40 from [dzone.com](https://dzone.com/articles/the-year-of-the-tester-1?edition=324395&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=devops%202017-09-08)_
+
+[Download the blueprint](https://dzone.com/go?i=228233&u=https%3A%2F%2Foffers.automic.com%2Fblueprint-to-continuous-delivery-with-automic-release-automation%3Futm_campaign%3DAMER%252520Online%252520Syndication%252520DZone%252520Platinum%252520Sponsorship%252520Ads%252520JULY-2017%26utm_source%3DDzone%252520Ads%26utm_medium%3DBlueprint%252520to%252520CD) that can take a company of any maturity level all the way up to enterprise-scale continuous delivery using a combination of Automic Release Automation, Automic's 20+ years of business automation experience, and the proven tools and practices the company is already leveraging.
+
+## Where We've Been
+
+I've spent years working with waterfall teams for two major companies. One was a perfect example of waterfall done well, while the other was the epitome of waterfall at its worst. I've been a tester writing test cases, an SME (business process subject matter expert), and a functional business analyst writing requirements for IT. I've naturally been in the hot-seat for deadlines needing too much testing with too little time. Once, I even crashed a whole division of a company for not considering one particular test case scenario before signing off on a release.
+
+Fortunately, with the advent of DevOps cultures and Agile methodologies, we're reaching exciting new heights. Siloed teams are dissolving. Code is being produced more rapidly, release cycles are shortening, systems are monitored and stabilized, and teams are working more efficiently. All of this is comparative, of course, but keep in mind the product of change …is more change. Since you can only go as fast as your slowest bottleneck, all the acceleration seen around development and releases has pulled back the covers to expose an area that's been neglected for the last 30 years - Quality Assurance practices.
+
+Now that I'm in the IT solutions space, it's been exciting to finally see so much interest around testing. The once the forgotten step-child, called QA, is being elevated in the broader picture of SDLC as an extremely crucial component. But that's not the good news. The good news is the strain of change is starting to shape the future. We're starting to see the second coming of "the tester."
+
+## Where We're Going
+
+Consider the following diagram"
+
+![Image title](https://dzone.com/storage/temp/6409668-tip1.jpg)
+
+Research analyst [Phillip Howard (2014)](https://www.ca.com/us/collateral/industry-analyst-report/bloor-research-spotlight-paper-automated-test-case-generation.html) estimates that 70% of testing is still done manually. In working with our customers, we find most are spending upwards of 94% of their testing efforts at the UI level. It makes sense why we do this. The UI represents all the pieces together in a functional, pre-production state. Disparate and third party systems, API calls, and the logic that drives them all come to a head at the UI. So, it makes sense that the final stamp of approval comes at the UI level. However, it's historically been the _only_ stamp of approval. If we are catching defects at the UI level, we're catching them too late in the SDLC and can't really claim to be shifting left. It's like manufacturing an automobile, getting in the driver's seat, and turning the key to ensure the engine doesn't blow up. If that were the case, the engine most definitely _would_ blow up, you'd have to start all over, and you'd need to open a new req. to hire another tester.
+
+Instead, testing needs to be focused at the API and unit level. Using virtual services we have the ability to pretend that all other components are live and ready when we need them. We can generate production-like request-response pairs and other test data necessary to complete our testing. From unit, to API, to production we can even monitor and test out performance at each level of the stack. So, the argument isn't that we can't. It's that we haven't changed our approach. The UI level is way too unstable and brittle to truly test the scale of production. Too many variables are unaccounted for and open to human error and misconfiguration. Things like user experience, regression and performance testing, and answering the question, "is it doing what the business requested?" must continue to be explored, but UI testing should only consume about 5% of our efforts. Just like [lean manufacturing](https://en.wikipedia.org/wiki/Lean_manufacturing) and TQM ([Total Quality Management](https://en.wikipedia.org/wiki/Total_quality_management)), quality needs to be injected at every step of the workflow and before each handoff. When we do this, we begin to realize that quality is everyone's responsibility, and everyone is "The Tester" when we embrace Continuous Testing.
+
+## How to Get There
+
+![Image title](https://dzone.com/storage/temp/6409669-tip2.jpg)
+
+There are many advanced solutions on the market that assist with testing efficiencies, they don't address the fundamental challenges of true Shift Left Testing. Traditional practices approach testing from a reactionary standpoint - identifying what needs to be tested after the code is released to the QA environment. What if we could take a [model-based testing](https://www.ca.com/us/collateral/white-papers/using-model-based-testing-to-drive-behavior-driven-development.html) (MBT) approach and push that process back to the design and planning stage. If a developer thinks through how a user story will be tested and thinks through how to validate each unit of the written code, then the developer will write code that naturally causes those tests to pass. This is called Test Driven Development, or TDD. Taking it a step further, if the business has a hand in deciding what the acceptance criteria will be, and the test cases are in support of the acceptance criteria, now we're advancing into Acceptance Test-Driven Design (ATDD). For the test cases to be so closely tied to the initial requirements themselves, they need to be an output of the requirements and we should eliminate manual test case design altogether.
+
+Technology is paving the way for organizations to build [modern software factories ](https://www.ca.com/us.html?intcmp=searchresultclick&resultnum=0)which incorporate [test case design](https://www.ca.com/us/products/test-case-design.html?intcmp=headernav) practices at the planning level. Think of the possibilities if teams could import their user stories, model and groom the requirements in the form of a visual model, and generate optimized test cases to reduce over/and under testing. But what about that UI testing? In addition to test cases, why shouldn't automation scripts also be possible output from requirements. If each requirement could be linked to existing test automation frameworks, when a requirement changes, the automation scripts would automatically change as well. Even if your automation scripts are stored elsewhere, they can be referenced into the model and maintained at their source. Tools like [Ranorex](http://www.ranorex.com/) and [eggPlant](http://www.testplant.com/) provide even greater flexibility. By scanning the UI, both solutions have the ability to either capture objects or text and images, store them in a repository, and generate automated test scripts. In linking the scanned assets to directly to requirements, targeted test cases and full blown regression test suites;
+
+  * Have their own automation scripts embedded within them,
+  * Actively adapt to requirement changes and versioning, and
+  * Can be populated with fit-for-purpose test data.
+
+No more needless manual testing. No more manual automation scripting. No more searching or waiting for test data, and no more ambiguous requirements. In an environment like this everyone is using the same, central source of information with quality at the center. Welcome… to The Year of The Tester.
+
+To start your journey to Continuous Testing today, please visit <https://www.ca.com/us/trials/ca-agile-requirements-designer.html>
+
+**References:**
+
+Howard, P. (2014). _Automated Test Case Generation_. _Bloor Spotlight_. Retrieved from [https://www.ca.com/us/collateral/industry-analyst-report/bloor-research-spotlight-paper-automated-test-case-generation.html ](https://www.ca.com/us/collateral/industry-analyst-report/bloor-research-spotlight-paper-automated-test-case-generation.html)
+
+[Download](https://dzone.com/go?i=228234&u=https%3A%2F%2Foffers.automic.com%2Fblueprint-to-continuous-delivery-with-automic-release-automation%3Futm_campaign%3DAMER%252520Online%252520Syndication%252520DZone%252520Platinum%252520Sponsorship%252520Ads%252520JULY-2017%26utm_source%3DDzone%252520Ads%26utm_medium%3DBlueprint%252520to%252520CD) the 'Practical Blueprint to Continuous Delivery' to learn how Automic Release Automation can help you begin or continue your company's digital transformation.

@@ -1,8 +1,10 @@
 # Wie die Fachseite Produkte selbst entwickeln kann
 
-_Captured: 2017-06-30 at 21:51 from [blogs.itemis.com](https://blogs.itemis.com/de/wie-die-fachseite-produkte-selbst-entwickeln-kann?utm_source=hs_email&utm_medium=email&utm_content=53657294&_hsenc=p2ANqtz--cUXuroknD00k39Swlyngd-g3JtSo_z7hmeNqEE-MgRzgD25-NoSIge6IS7KSonsInbRchul0jQEen2jO0DtCq-X85QQ&_hsmi=53657294)_
+_Captured: 2017-08-15 at 19:44 from [blogs.itemis.com](https://blogs.itemis.com/de/wie-die-fachseite-produkte-selbst-entwickeln-kann?utm_source=hs_email&utm_medium=email&utm_content=54394286&_hsenc=p2ANqtz-_IhwUmmwXO2m2ni3RGACjK21SuF6UOPrThOAdKACpV3c2VSLj8n2UXEu4OSS-ueDoxPnBqVaVkK5cOK2ghNR60DbU6Jg&_hsmi=54394286)_
 
-Wir leben in einer rasanten Zeit: Neue Produkte kommen mit unglaublicher Geschwindigkeit auf den Markt. Dass wir unser Produkt schneller als unsere Konkurrenz auf den Markt bringen, kann bereits ein wesentliches Kriterium fur den Erfolg des Produkts sein. Hinter einer Produktentwicklung steht jedoch meist ein umfangreicher und aufwandiger Prozess, der viele Übergaben zwischen verschiedenen Rollen erfordert.   
+Wir leben in einer rasanten Zeit: Neue Produkte kommen mit unglaublicher Geschwindigkeit auf den Markt. Dass wir unser Produkt schneller als unsere Konkurrenz auf den Markt bringen, kann bereits ein wesentliches Kriterium fur den Erfolg des Produkts sein.
+
+Hinter einer Produktentwicklung steht jedoch meist ein umfangreicher und aufwandiger Prozess, der viele Übergaben zwischen verschiedenen Rollen erfordert.   
 Ich zeige euch eine Moglichkeit, wie ihr diesen Prozess abkurzen und somit die Time to Market beschleunigen konnt.
 
 ## Was ware, wenn Mitarbeiter der Fachseite in die Entwicklung einbezogen wurden?
@@ -11,7 +13,9 @@ Das klingt erst einmal komisch: Jemand, der die Fachseite in einem Unternehmen v
 
 Lassen wir das _Wie _zunachst einmal außen vor und uberlegen uns, was wir uberhaupt davon hatten, wenn dies tatsachlich der Fall ware. Wenn wir einen Blick auf Produktentwicklungsprozesse in verschiedenen Branchen werfen, dann gibt es oftmals die Unterteilung in den Fachbereich und die IT. Mitarbeiter des Fachbereichs haben, wie der Name sagt, umfangreiches fachspezifisches Wissen, das fur die fachliche Funktionalitat bzw. Korrektheit des Produkts essentiell ist. Meist verfugen sie jedoch uber wenig technisches Wissen. Die IT-Mitarbeiter wiederum haben dieses technische Wissen, ihnen fehlt jedoch das fachliche Knowhow bzw. das Interesse, sich in das Thema tief einzuarbeiten. Das fuhrt dazu, dass sich der Fachbereich Gedanken uber die Ausgestaltung und Art des Produktes macht, diese Gedanken in irgendeiner Form, z. B. in Anforderungsdokumenten oder Pflichtenheften, dokumentiert und dann an die IT ubergibt, die fur die Umsetzung des Produkts verantwortlich ist.
 
-![Übergabe-Anforderungen-IT-Fachseite.jpg](https://blogs.itemis.com/hs-fs/hubfs/Blog/Usability/Austausch-zwischen-Kollegen.jpg?t=1498831770942&width=2172&name=Austausch-zwischen-Kollegen.jpg)
+![Übergabe Anforderungen IT Fachseite](https://blogs.itemis.com/hs-fs/hubfs/Blog/Usability/Austausch-zwischen-Kollegen.jpg?t=1502807725053&width=2172&name=Austausch-zwischen-Kollegen.jpg)
+
+> _Übergabe Anforderungen IT Fachseite_
 
 ## Probleme durch Übergaben zwischen Fachbereich und IT
 
@@ -27,7 +31,9 @@ Das alles kann sehr zeitaufwandig sein, denn die gleichen Sachverhalte mussen wi
 
 Der Grundgedanke klingt also erstmal gut. Aber wie ist das moglich, ohne dass der Fachbereich Schulungen in Java, C und Co. absolviert oder man alles in Excel-Monstern ausdruckt?
 
-![die-fachseite-entwickelt-selber-code.jpg](https://blogs.itemis.com/hs-fs/hubfs/Blog/Usability/programming-laptop.jpg?t=1498831770942&width=2172&name=programming-laptop.jpg)
+![Die Fachseite entwickelt selber Code](https://blogs.itemis.com/hs-fs/hubfs/Blog/Usability/programming-laptop.jpg?t=1502807725053&width=2172&name=programming-laptop.jpg)
+
+> _Die Fachseite entwickelt selber Code_
 
 Die technischen Moglichkeiten dafur existieren. Tools wie beispielsweise [MPS von Jetbrains](https://www.jetbrains.com/mps/) erlauben es, Sachverhalte in domanenspezifischen Sprachen (also Sprachen aus der Anwendungsdomane des Nutzers) zu erfassen und daraus dann spater Quellcode zu generieren. Der Anwender, also in diesem Fall der Fachbereich, formuliert die Sachverhalte dabei so, wie er es gewohnt ist (z. B. in Form mathematischer, tabellarischer, graphischer oder textueller Notationen), druckt hinterher auf einen Knopf und heraus kommt eine ausfuhrbare Implementierung. Wenn die Sprachen und Werkzeuge richtig gestaltet werden, konnen die Fachbereiche auch gleich Tests schreiben oder Anwendungsfalle durchsimulieren und dadurch die Korrektheit weiter steigern.
 

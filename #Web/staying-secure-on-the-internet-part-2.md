@@ -1,6 +1,6 @@
 # Staying Secure on the Internet, Part 2
 
-_Captured: 2017-08-08 at 20:30 from [dzone.com](https://dzone.com/articles/staying-secure-on-the-internet-part-2?edition=310393&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202017-07-21)_
+_Captured: 2017-08-15 at 19:41 from [dzone.com](https://dzone.com/articles/staying-secure-on-the-internet-part-2)_
 
 If you missed the first part of this article, check it out [here](https://dzone.com/articles/staying-secure-on-the-internet).
 
@@ -43,6 +43,9 @@ Ensure you note the address of eth0, as this will be where you want to point all
 Now that we have the machine configured, it's time to get our router traffic to run through TOR. First, we need to configure our 'black box of privacy' to be running TOR, and here-forth this machine will be referred to as our 'TOR machine.' We'll need to install TOR on our TOR machine, and we can follow the same instructions as above. If you installed the server version of the operating system, it probably doesn't have a display. If this is the case, then you'll need to set up a virtual display for the browser. You should install Xvfb with the below command to allow our browser to run without an issue.
 
 The last step of our TOR install is to ensure that it is always running so that we can always pass our traffic through TOR via our proxy. To do this, we want to set up a simple service. First, create the below file in _/lib/systemd/system_ and name it _tor.service_.
+    
+    
+    ExecStartPre=Xvfb :99 -ac 2>/dev/null 1>&2 &; export DISPLAY=:99
 
 Replace _/path/to/tor_ with the location where you installed TOR, and only include the _ExecStartPre _command if you needed to install Xvfb in the above steps. To complete our TOR install, we want to enable and start our TOR service with the below commands:
 
@@ -51,6 +54,8 @@ Once that is completed, we'll want to obtain the proxy information to connect th
 Finally, we just need to configure our router to pass all traffic through TOR. If you have already configured your router to run DD-WRT, this is very simple. Navigate to Administration -> Commands, and paste the below code into the text area
 
 You need to replace 127.0.0.1 with the IP of eth0 that you configured earlier in both lines. You also need to replace 3128 with the port that the TOR proxy is listening on. Click the Run Commands button, and finally click the Save Firewall button. That's it. All traffic on your network connecting to your router is being passed through TOR.
+
+![](https://www.coveros.com/wp-content/uploads/Router-proxied-through-TOR.jpg)
 
 ## Run Network Through TOR or VPN
 
@@ -72,8 +77,6 @@ Pros
 ### TOR
 
 Setup your machine the exact same way as you did for our previous example, and setup the networking the same way as well. Similarly, install TOR like the above to run as a service, and enable it. Rather than using the router to push all traffic through TOR, we'll actually just build the network pipeline to have all traffic move through the TOR machine. In order to accomplish this, we'll want to setup our network to have our router's output connect to our TOR machine, and our TOR machine connect to our modem.
-
-![](https://www.coveros.com/wp-content/uploads/Router-proxied-through-TOR.jpg)
 
 ### VPN
 
