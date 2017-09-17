@@ -1,6 +1,6 @@
 # Scrum By Example – Product Backlog Refinement in Action
 
-_Captured: 2017-08-08 at 18:58 from [agilepainrelief.com](https://agilepainrelief.com/notesfromatooluser/2014/05/scrummaster-tales-product-backlog-refinement-in-action.html#.WYntsKCbGaN)_
+_Captured: 2017-09-01 at 21:38 from [agilepainrelief.com](https://agilepainrelief.com/notesfromatooluser/2014/05/scrummaster-tales-product-backlog-refinement-in-action.html?utm_content=bufferb2f3a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.Wam29kebGaM)_
 
 _![Product Backlog Iceberg](http://3hppfzjby0g1sxwjng1f4h1c-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/Product-Backlog-Iceberg.png)_
 
