@@ -1,0 +1,11 @@
+# NASA’s robots will either explore Titan or study a comet
+
+_Captured: 2017-12-25 at 14:53 from [www.engadget.com](https://www.engadget.com/2017/12/21/nasa-new-frontiers-mission-finalists/)_
+
+NASA's New Frontiers program consists of a series of unmanned missions with the intent of exploring the solar system. The missions are designed to target specific goals as defined by the broader planetary community. Yesterday, NASA announced the two finalists for a robotic New Frontiers mission, with a planned launch in the mid-2020s. One is a sample return mission to a comet; the other is to explore Saturn's moon Titan.
+
+The first mission, called CAESAR, or Comet Astrobiology Exploration Sample Return intends to send a spacecraft back to 67P/Churyumov-Gerasimenko. This is the same comet that the [ESA spacecraft Rosetta](https://www.engadget.com/2017/10/01/rosetta-probe-last-image-landing-site/) explored. This mission would focus on returning a sample of the comet to Earth. Another sample mission, [OSIRIS-REx](https://www.engadget.com/2016/09/06/nasas-asteroid-bound-osiris-rex-launches-thursday/), launched earlier this year and is destined for the asteroid Bennu.
+
+The second mission, Dragonfly, is a quadcopter that would explore the Saturn's moon, Titan. [Cassini](https://www.engadget.com/2017/09/15/cassini-end-of-mission-rip/) found all kinds of cool features on the ocean world of Titan, from [flooded canyons](https://www.engadget.com/2016/08/10/cassini-spacecraft-finds-flooded-canyons-on-saturn-s-moon-titan/) to [a molecule that could foster life](https://www.engadget.com/2017/07/28/molecule-saturns-moon-titan-foster-life/). This mission would specifically be designed to examine the habitability of different areas of the moon.
+
+There are three previous New Frontiers missions. One is [New Horizons](https://www.engadget.com/2016/07/01/nasa-new-horizons-kuiper-belt-2019-mission/), which visited Pluto and is on its way to explore the Kuiper Belt. There's also [Juno](https://www.engadget.com/2017/05/26/nasa-juno-jupiter-surprising-findings/), which is currently in an elongated orbit of Jupiter, as well as the afore-mentioned OSIRIS-REx. Whichever of the two is picked will be the fourth New Frontiers mission. Both missions will receive funding for another year develop their concepts.

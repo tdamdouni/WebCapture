@@ -1,0 +1,11 @@
+# NASA goes back to the middle ages for its rover tire design
+
+_Captured: 2017-11-25 at 14:46 from [www.engadget.com](https://www.engadget.com/2017/11/24/nasa-superelastic-chainmail-tires/)_
+
+The Mars Curiosity rover has been a big success, but NASA's modern tech couldn't save its tires from [breaking down](https://www.engadget.com/2017/09/13/nasa-curiosity-mars-rover-broken-wheels/) in the harsh conditions of Mars. For future missions, the agency has gone back to the age of knights. Based on the principals of chainmail armor, the "[Superelastic](https://technology.nasa.gov/patent/LEW-TOPS-99)" tires can withstand more deformation than any other non-pneumatic tire. At the same time, they could potentially withstand extraplanetary abuse and provide better traction for next-generation rovers.
+
+Curiosity's wheels have taken a lot of damage because they don't have much give, and Mars rocks can be particularly [jagged](https://www.space.com/26643-mars-rover-curiosity-wheel-damage.html). NASA's new [chainmail](https://www.wired.com/story/nasa-fabric-chain-mail-from-the-future/) type material, on the other hand, provides a lot more flexibility, while still being difficult to penetrate, as shown in the video below. In another configuration, the material could [also be useful](https://www.wired.com/story/nasa-fabric-chain-mail-from-the-future/) to NASA as an all-purpose, lightweight heat and debris shield for orbiting spacecraft.
+
+It's not just the chainmail-style configuration that makes the tires work, though. They're also built from alloys like nickel-titanium (NiTi) that can deform up to 10 percent deformation without losing their shape. "The use of a NiTi shape memory alloy yield a superelastic tire that is virtually impervious to plastic deformation," according to the team at NASA's Glenn Research center.
+
+The tires probably won't be on the next Mars rover, but could find their way to future designs, including crewed exploration vehicles. They could even be useful here on Earth. "The Superelastic tire offers traction equal or superior to conventional pneumatic tires and eliminates the possibility of puncture failures, thereby improving automobile safety," NASA said.

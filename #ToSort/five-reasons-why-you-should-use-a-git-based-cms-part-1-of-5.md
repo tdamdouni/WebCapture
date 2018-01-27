@@ -1,0 +1,35 @@
+# Five Reasons Why You Should Use a Git-Based CMS (Part 1 of 5)
+
+_Captured: 2017-11-10 at 01:04 from [dzone.com](https://dzone.com/articles/five-reasons-why-you-should-use-a-git-based-cms-pa?edition=334849&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-11-07)_
+
+### While CMS has made the Internet a much more vibrant place, there are still some issues that need to be addressed. Read on to see why a Git-based CMS could be the answer.
+
+[Learn how to build modern digital experience apps](https://dzone.com/go?i=190130&u=http%3A%2F%2Fwww.craftersoftware.com%2Fresources%2Flp%3Fid%3D%2Fmodern-web-dev-with-java%26t%3Deb) with Crafter CMS. Download this eBook now. Brought to you in partnership with [Crafter Software](https://dzone.com/go?i=190130&u=http%3A%2F%2Fwww.craftersoftware.com%2Fresources%2Flp%3Fid%3D%2Fmodern-web-dev-with-java%26t%3Deb).
+
+Traditional CMS platforms like Drupal, WordPress, Adobe Experience Manager, Sitecore, and most others either have severely limited versioning or provide basic versioning capabilities that track single object graphs or maintain clunky data structures to track relationships.
+
+![](https://blog.craftercms.org/wp-content/uploads/2017/10/single-asset-versioning-1-1024x200.jpg)
+
+**Figure 1: Single file versioning model. Each object has its own version tree. How and whether relationships are tracked between objects differ from one system to the next.**
+
+Such simplistic approaches work for basic content management needs like blogs or boring websites but largely fall down in the face of managing today's multi-object, multi-asset digital experiences. Today's content models are component-based, and they have many relationships and dependencies. Further, there is often a relationship between the content and the code (CSS, JavaScript, templates, etc.) that needs to be considered. Tracking the edits of any one specific object in isolation is simply not enough.
+
+While simple object versioning does support basic editing, simple review, and basic reversion, these use cases are only the tip of the iceberg in a real-world environment. Scenarios like legal audits, company re-branding, and concurrent feature development drive the need for much more sophisticated CMS capabilities like a "time-machine" preview, multi-object reversion, and content/codebase branching.
+
+Instead of the single file versioning we see in the CMS space, what's needed is a multi-object versioning approach like we see in the programming space. We require an approach that tracks "the entire state of the universe on each change." With this level of version detail, a system can provide real previews at any point in time, make intelligent decisions about what must be reverted, and support a host of branching and workflow needs.
+
+**![](https://blog.craftercms.org/wp-content/uploads/2017/10/craftercms-gitbased-multi-asset-versioning-1-1024x546.jpg)**
+
+> _Figure 2: Multi-object ("striped") versioning model. Each event tracks the state of the entire repository at the time of the event._
+
+This type of solution already exists in the enterprise software development space. With software, one source file is often related to many others. Versions between objects matter. Modern Source Code Management (SCM) has evolved to support this need. Git is today's most popular and widely used source code management system. It's clear that the content and technical components of today's digital experiences share many of the same needs that we see in the software development space. Rather than re-invent Git to achieve the same versioning capabilities in the context of content management, we've based Crafter CMS on Git's versioning mechanics.
+
+Because Crafter CMS is based on Git, every content change event is tracked with an event ID known as a "Commit ID." Using this ID, it is possible to know the state of every content object in the system at the time of the event. For the sake of simplicity, we can say that we've created a version "stripe" across the entire repository at a given moment in time. The system does not make a copy of every object on every edit. That would be too slow and cost too much in terms of storage. Instead, this is done in a very efficient and effective manner by leveraging Git's own proven versioning mechanics.
+
+Moreover, because of the way Git stores and manages versions, traversals to any point in time are extremely fast. Performance is very important when it comes to the types of use cases we discussed earlier. Let's take, for example, an auditing scenario: legal needs to see what the site looked like 46 days, 2 hours, and 42 minutes ago. With most CMS platforms, this scenario is impossible to support. At best, a systems group can attempt to restore a backup from that date and staff can be diverted to give the lawyers what they need. Even if your CMS claims to support this kind of review, the speed at which it can be provided is of key importance. If it's too slow it won't be practical. I've seen demos of CMS platforms that take minutes to render a previous version of a dynamic site. That's too slow when you are doing a triage. It's worse if you are traversing for editorial reasons. A Git-based CMS simply doesn't have this issue, because of the way Git stores versions, traversal of versions in Git-based CMS is extremely fast.
+
+Finally, a Git-based versioning approach itself hints at another important and related characteristic of CMS: content is managed in a document-oriented, file-based store. In short, content is stored as XML. Git is a file-based versioning system. Storing content as files is not only necessary, but the file-based approach has several major advantages. Because we're dealing with files, content is easy to move among environments (Dev, QA, Prod, etc.) and migrate between systems. It's much easier to integrate the content with other 3rd-party systems, for tasks such as language translation, e-commerce, and marketing automation. And because we store content in an XML format, it's multi-byte character is set friendly and totally extensible.
+
+Most CMSs lack the sophisticated versioning mechanics that are needed by today's multi-disciplinary teams who are creating modern digital experiences. Today's sophisticated digital experiences call for a much richer set of versioning mechanics similar to those we see in the software development space with Source Code Management Systems (SCMS). Git is today's most powerful and popular SCMS. Stay tuned for our next blog entry to learn more reasons why you should use a Git-based CMS!
+
+Crafter is a [modern CMS platform for building modern websites](https://dzone.com/go?i=190131&u=http%3A%2F%2Fwww.craftersoftware.com%2Fresources%2Flp%3Fid%3D%2Fmodern-web-dev-with-java%26t%3Deb) and content-rich digital experiences. Download this eBook now. Brought to you in partnership with [Crafter Software](https://dzone.com/go?i=190131&u=http%3A%2F%2Fwww.craftersoftware.com%2Fresources%2Flp%3Fid%3D%2Fmodern-web-dev-with-java%26t%3Deb).

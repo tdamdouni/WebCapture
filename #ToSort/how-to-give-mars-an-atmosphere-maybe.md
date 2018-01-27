@@ -1,0 +1,9 @@
+# How to Give Mars an Atmosphere, Maybe
+
+_Captured: 2017-11-07 at 21:48 from [astrobiology.nasa.gov](https://astrobiology.nasa.gov/news/how-to-give-mars-an-atmosphere-maybe/)_
+
+![An artist rendering of what Mars might look like over time if efforts were made to give it an artificial magnetic field to then enrich its atmosphere and made it more hospitable to human explorers and scientists. \(NASA\)](https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/48/a0/48a007ad-2dc3-401d-8324-c123b812f39e/terraforming-mars.jpg__1240x510_q85_subsampling-2.jpg)
+
+![An artificial magnetosphere of sufficient size generated at L1 – a point where the gravitational pull of Mars and the sun are at a rough equilibrium — allows Mars to be well protected by what is known as the magnetotail. The L1 point for Mars is about 673,920 miles \(or 320 Mars radii\) away from the planet. In this image, Green’s team simulated the passage of a hypothetical extreme Interplanetary Coronal Mass Ejection at Mars. By staying inside the magnetotail of the artificial magnetosphere, the Martian atmosphere lost an order of magnitude less material than it would have otherwise. \(J. Green\)](https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/ce/07/ce07d4a8-0f23-42a4-92b0-9df0c79a2b2c/pls-use-this-image-not-image-1.jpg__1240x510_q85_subsampling-2.jpg)
+
+An artificial magnetosphere of sufficient size generated at L1 - a point where the gravitational pull of Mars and the sun are at a rough equilibrium -- allows Mars to be well protected by what is known as the magnetotail. The L1 point for Mars is about 673,920 miles (or 320 Mars radii) away from the planet. In this image, Green's team simulated the passage of a hypothetical extreme Interplanetary Coronal Mass Ejection at Mars. By staying inside the magnetotail of the artificial magnetosphere, the Martian atmosphere lost an order of magnitude less material than it would have otherwise. (J. Green)

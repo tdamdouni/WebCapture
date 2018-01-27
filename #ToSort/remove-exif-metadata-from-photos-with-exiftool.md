@@ -1,0 +1,73 @@
+# Remove EXIF Metadata from Photos with exiftool
+
+_Captured: 2017-11-01 at 22:38 from [www.linux-magazine.com](http://www.linux-magazine.com/Online/Blogs/Productivity-Sauce/Remove-EXIF-Metadata-from-Photos-with-exiftool)_
+
+![Dmitri Popov](http://www.linux-magazine.com/var/linux_magazin/storage/images/online/blogs/productivity-sauce/275404-17-eng-US/Productivity-Sauce.png)
+
+> _Dmitri Popov_
+
+## Productivity Sauce
+
+Sometimes, it is a good idea to scrub EXIF metadata from photos before sharing them, and there is no better tool for the job than [exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/). The command below nukes all EXIF metadata in a photo in one fell swoop (replace _foo.jpg_ with the actual file name):
+    
+    
+    exiftool -all= foo.jpg
+
+This command removes EXIF metadata from the specified photo, but what if you need to process multiple photos? Then you can use the following command which cleans all the photos in the current directory:
+    
+    
+    for i in *.jpg; do echo "Processing $i"; exiftool -all= "$i"; done
+
+Instead of purging all EXIF metadata from a photo, you can also remove individual fields. For example, the following command can come in handy when you need to remove geographical coordinates embedded in the photo:
+    
+    
+    exiftool -geotag= foo.jpg
+
+And the command below can help you to remove geotags from multiple photos in one go:
+    
+    
+    for i in *.jpg; do echo "Processing $i"; exiftool -geotag= "$i"; done
+
+## Comments
+
+Sponsored
+
+## [ Brilliant Trick Melts Belly Fat Overnight (Do This Tonight) ](http://bevo-us-east-1.adsnative.com/ck?url=https%3A%2F%2Fmedjournal.com-publish.com%2Fdiet%2F%3Fcid%3D23162%26crid%3D2086089%26plid%3Do6HxaAywxxrxqlLDyMHEb68pTc6lfmbwy36oKA13%26pgd%3Dwww.linux-magazine.com%26pgurl%3Dhttp%253A%252F%252Fwww.linux-magazine.com%252FOnline%252FBlogs%252FProductivity-Sauce%252FRemove-EXIF-Metadata-from-Photos-with-exiftool%2523%25257B%252522experiment%252522%25253A%252522taboola_via_polymorph%252522%25252C%252522position%252522%25253A%252522top%252522%25252C%252522variant%252522%25253A%252522update_201709%252522%25257D%26id%3Dq87m9jc2&data=MjFjMTNkNmEyZDZhZjE2MTA1YThhNDBmOTgxZWE5N2E5N2UzMDI3OWU3NzVmODU2ZjViNWRmNjRlNDE1M2E0ZTBlZGQ0OThmNmZlYjRhNTM3MmE2MmYwZWI4ZmY4ZjlmM2FkZTJlN2M2MTliNTUxYzEyMWRjMjg3NjE1ZjFiNzk2YWE2ZjRkMTI5YWU1NTBjMTEyMTcyNGNhNmVkYmY3ZTBhMzE0ZThlZTk2YzY0ZGY5N2E0OWZmZWZmMmQyMzNmMTc2NTdmZTYzZjk4ZDc1Zjk1ZDY0ZjczNDEzZTEwN2JhNDY4NTkyOTY5YWVhMDljYTllYzkzZTVlM2NlZDE1ZjQ4Nzk2ZGIxM2Y1Zjc0Yzg4NzExZGQzZDRiOTQwYzNiNmYxZDhjYzk1ZGUzZGU1ZThhM2EzNzk4MzJlNWE3OGE3NGY0YjJjOTRkMTNmOGZiMDhkYzU5MDMwYWFiN2VkZQ%3D%3D&sid=6b2677f0bad74a8697723010ea599b71_2dd82f8a)
+
+[ Experts are amazed how easily this trick is helping men & women lose their stubborn belly fat. Learn More Sponsored by MedJournal ](http://bevo-us-east-1.adsnative.com/ck?url=https%3A%2F%2Fmedjournal.com-publish.com%2Fdiet%2F%3Fcid%3D23162%26crid%3D2086089%26plid%3Do6HxaAywxxrxqlLDyMHEb68pTc6lfmbwy36oKA13%26pgd%3Dwww.linux-magazine.com%26pgurl%3Dhttp%253A%252F%252Fwww.linux-magazine.com%252FOnline%252FBlogs%252FProductivity-Sauce%252FRemove-EXIF-Metadata-from-Photos-with-exiftool%2523%25257B%252522experiment%252522%25253A%252522taboola_via_polymorph%252522%25252C%252522position%252522%25253A%252522top%252522%25252C%252522variant%252522%25253A%252522update_201709%252522%25257D%26id%3Dq87m9jc2&data=MjFjMTNkNmEyZDZhZjE2MTA1YThhNDBmOTgxZWE5N2E5N2UzMDI3OWU3NzVmODU2ZjViNWRmNjRlNDE1M2E0ZTBlZGQ0OThmNmZlYjRhNTM3MmE2MmYwZWI4ZmY4ZjlmM2FkZTJlN2M2MTliNTUxYzEyMWRjMjg3NjE1ZjFiNzk2YWE2ZjRkMTI5YWU1NTBjMTEyMTcyNGNhNmVkYmY3ZTBhMzE0ZThlZTk2YzY0ZGY5N2E0OWZmZWZmMmQyMzNmMTc2NTdmZTYzZjk4ZDc1Zjk1ZDY0ZjczNDEzZTEwN2JhNDY4NTkyOTY5YWVhMDljYTllYzkzZTVlM2NlZDE1ZjQ4Nzk2ZGIxM2Y1Zjc0Yzg4NzExZGQzZDRiOTQwYzNiNmYxZDhjYzk1ZGUzZGU1ZThhM2EzNzk4MzJlNWE3OGE3NGY0YjJjOTRkMTNmOGZiMDhkYzU5MDMwYWFiN2VkZQ%3D%3D&sid=6b2677f0bad74a8697723010ea599b71_2dd82f8a)
+
+![](http://bevo-us-east-1.adsnative.com/im.gif?data=ZDUzZjAyZjc2MTQ4N2VjNDdkZjYwMTViMzk2YTQyOTM0MzdjZGM5ZWNlNDQ1ZjVjZWUxN2UwYThjM2FlNzg4MzA5Y2MxZjBmMWVhNTljOWJjMjIxZmEyNGRiNjFhZjE3OWQ1NDJjN2IzZmZkODc2ZTMxNGI4OTc2MjI3ZjEyMDk1OWVmZTliMzdiNDJjYjFkMDZmZWZiMDA3M2ZlM2NlYmIyNmMzNGY5NjkyZGE4MWI1N2JjOWVjMDJmYjkzY2FmYmRiYjQzMmJmY2IwMzkyOGY1ZDliZWQ1YTk3NTAzY2I5NmI2ZWY4ZGI3ZTU2ZTlmYzMwNmNhMTFiNDg0NDM2OWQzNTlmZDgzMmEzMTBkYTJjN2ZkY2M2NGJkYWI5NDVmMTc4ZWQwNDc3Y2Y4MmM4MGY2ZTAyNzAzODM2OTRlNjNjYTg3OWI5YTI0ZWI5YTc1MGIzYzg0NWMzNzZhNzVmOQ%3D%3D&sid=6b2677f0bad74a8697723010ea599b71_2dd82f8a)
+
+![](http://bevo-us-east-1.adsnative.com/vi.gif?data=ZDUzZjAyZjc2MTQ4N2VjNDdkZjYwMTViMzk2YTQyOTM0MzdjZGM5ZWNlNDQ1ZjVjZWUxN2UwYThjM2FlNzg4MzA5Y2MxZjBmMWVhNTljOWJjMjIxZmEyNGRiNjFhZjE3OWQ1NDJjN2IzZmZkODc2ZTMxNGI4OTc2MjI3ZjEyMDk1OWVmZTliMzdiNDJjYjFkMDZmZWZiMDA3M2ZlM2NlYmIyNmMzNGY5NjkyZGE4MWI1N2JjOWVjMDJmYjkzY2FmYmRiYjQzMmJmY2IwMzkyOGY1ZDliZWQ1YTk3NTAzY2I5NmI2ZWY4ZGI3ZTU2ZTlmYzMwNmNhMTFiNDg0NDM2OWQzNTlmZDgzMmEzMTBkYTJjN2ZkY2M2NGJkYWI5NDVmMTc4ZWQwNDc3Y2Y4MmM4MGY2ZTAyNzAzODM2OTRlNjNjYTg3OWI5YTI0ZWI5YTc1MGIzYzg0NWMzNzZhNzVmOQ%3D%3D&sid=6b2677f0bad74a8697723010ea599b71_2dd82f8a)
+
+![](http://rudy.adsnative.com/cm.gif)
+
+Report ad
+
+  * Sponsored
+
+[
+
+##  Ellen Shocks LGBT Community & Confirms She Is Moving On 
+
+Many knew what Ellen's plan was, but no one expected it to leak like this.... Learn More Sponsored by Celebritique ](https://bevo-us-east-1.adsnative.com/ck?url=http%3A%2F%2Fcelebritique-online.com%2F%2Fhottest-stories%2F%3Fid%3D9302%26kw%3De5-www.linux-magazine.com&data=YmM2MDI4YWJiNjI1MGU1YThiOTNiY2IwYjQ3NGUzYzkyMTY3ZGY2N2UxM2RiYmZmNDBhYWVmNDJiNjBjYzQ1ZDBjOTlmYTdiOTEzMjJmZmMwZWRjMDJiZGVhMmZiZjBlZWFhZGRlNmVhM2EzY2Y4OTY2MWQwZWI3NmFkMzM1MmE2NGM1ZmE1YzkzNDU3MGRkNzVkYzY4YWMwYzM4M2JmMDIzY2Q5NmZjNGYzMTUyOTliZGUxNmNhZWU1NjkyNzkyMzNiYWYwZTFjYjEzNGYxM2VhOTc1ZDNlMjNmNjZlNWE1ZmFhZjJlZjgzZDEwODg1MTc5MjVhMDQ2MTY1Y2RmN2U4ZDU2Yjk1NmU4Y2JlYzk3YmJmN2M4OWVjY2RiMGU5NjIxMmU4NTg2YWVmOTczNGRlMTgzM2Y3YzliMWQ3MThmODQwMjc1NTNlNmY5M2E5NzA5MGFkNzJlYWZlNjBiZQ%3D%3D&sid=b7c8100ea19641f7990c1d349bde8ea8_05d747dd) ![](https://bevo-us-east-1.adsnative.com/im.gif?data=NjI1NTk0NzkyZWFkMGVjOGZlMjE0MWI5NzYyMzIyYTM4YWJmODA1OTQ4OWNhZWEyODE4NjNiZGQzN2IyYjM5ZjE0N2MzOWIwZmVkNGM1ZGNmZDk0NDk0NzRmY2Y5MGYzMmIyZjE4ZjE1ODEyODFlZmE5NWU1Mzk2MzIxZjMyZjdkMzkwZmE3OTNjM2QxMGUzODljMmZjOGYwNDY5YTQ2Yjk1NWY4YTRmY2FkODNiMDc5M2UyN2FiMDc4MjlkYWJhODk3M2QwZWE5MTY3MmVhYTYxMDg4NzU0ODQ0N2JlMjRiNGVjZTNkZDg5ZGJiMGNjYWMyNDBjYWVjYTI3Yzg4ZDJkY2I4MGUzNzI0MGY3ODM0Mzk4OTg5YTQ4YjQwYTQwYjgwMTY5N2EwMmQyZjAwMjQ1NTE5ODRiYjZmYzYxZmQ5YjM2M2YxZTFmZWEwNTEzMTVjMzliZDMyMWFiNzA5ZA%3D%3D&sid=b7c8100ea19641f7990c1d349bde8ea8_05d747dd)
+
+![](https://bevo-us-east-1.adsnative.com/vi.gif?data=NjI1NTk0NzkyZWFkMGVjOGZlMjE0MWI5NzYyMzIyYTM4YWJmODA1OTQ4OWNhZWEyODE4NjNiZGQzN2IyYjM5ZjE0N2MzOWIwZmVkNGM1ZGNmZDk0NDk0NzRmY2Y5MGYzMmIyZjE4ZjE1ODEyODFlZmE5NWU1Mzk2MzIxZjMyZjdkMzkwZmE3OTNjM2QxMGUzODljMmZjOGYwNDY5YTQ2Yjk1NWY4YTRmY2FkODNiMDc5M2UyN2FiMDc4MjlkYWJhODk3M2QwZWE5MTY3MmVhYTYxMDg4NzU0ODQ0N2JlMjRiNGVjZTNkZDg5ZGJiMGNjYWMyNDBjYWVjYTI3Yzg4ZDJkY2I4MGUzNzI0MGY3ODM0Mzk4OTg5YTQ4YjQwYTQwYjgwMTY5N2EwMmQyZjAwMjQ1NTE5ODRiYjZmYzYxZmQ5YjM2M2YxZTFmZWEwNTEzMTVjMzliZDMyMWFiNzA5ZA%3D%3D&sid=b7c8100ea19641f7990c1d349bde8ea8_05d747dd)
+
+![](https://rudy.adsnative.com/cm.gif)
+
+Report ad
+
+Sponsored
+
+## [ Brilliant Trick Melts Belly Fat Overnight (Do This Tonight) ](http://bevo-us-east-1.adsnative.com/ck?url=http%3A%2F%2Ffatburningbible.com.com-publish.com%2Fdiet%2F%3Fsessionid%3Dd172f109a1cb46d79d127cd698686824_7b911f3c%26cid%3D23077%26crid%3D1818983%26plid%3Do6HxaAywxxrxqlLDyMHEb68pTc6lfmbwy36oKA13%26pgd%3Dwww.linux-magazine.com%26pgurl%3Dhttp%253A%252F%252Fwww.linux-magazine.com%252FOnline%252FBlogs%252FProductivity-Sauce%252FRemove-EXIF-Metadata-from-Photos-with-exiftool%2523%25257B%252522experiment%252522%25253A%252522taboola_via_polymorph%252522%25252C%252522position%252522%25253A%252522bottom%252522%25252C%252522variant%252522%25253A%252522update_201709%252522%25257D%26ip%3D35.202.11.28&data=NDMxMmI2N2I0NTE5ODNjY2Y0M2JjNzllMzMyYjNjODQzMTVjMDc2YjczNDhjZDU2MzgyZWU4MzRiZjY2MTM0N2Y2NTlmMDVlN2QwY2QwYzQ0ODczNGU1MzYxNDUxMzMxNDcyMWUwYWMxMWZhN2Y4MmI4NzMyNTljMDQ4MmU2ZjhjYTc5ZDJjN2M2MTk5MDM5MDQ3MmMwMDcxNDE4N2ZkZWM5MWUyNWRiYmQ5OGI0MTc1OTc4ZDY3MTZlMTQwYjliMGQ3MGMwNzVlOGIyNjYyODNlZWJlYjRjOGYwZTU1M2Q5ZTgzZjAyZjJkNGFjODNhYzA5ZWE5NTQxOWYwMGNjOTYxM2ZhN2E0ZGFkZjczN2RkMWY5YmIzNTYxYmE5ZThkNGYxNDVjOWE3NzRjN2NmMTg5NGQ1OWQ0YWUzYzQyNzhmM2QzNTc1MmNjNGNjOTc3NGUwMjVmYWM2MDU1NGM3YQ%3D%3D&sid=d172f109a1cb46d79d127cd698686824_7b911f3c)
+
+[ Experts are amazed how easily this trick is helping men & women lose their stubborn belly fat. Learn More Sponsored by The Slim Down Club ](http://bevo-us-east-1.adsnative.com/ck?url=http%3A%2F%2Ffatburningbible.com.com-publish.com%2Fdiet%2F%3Fsessionid%3Dd172f109a1cb46d79d127cd698686824_7b911f3c%26cid%3D23077%26crid%3D1818983%26plid%3Do6HxaAywxxrxqlLDyMHEb68pTc6lfmbwy36oKA13%26pgd%3Dwww.linux-magazine.com%26pgurl%3Dhttp%253A%252F%252Fwww.linux-magazine.com%252FOnline%252FBlogs%252FProductivity-Sauce%252FRemove-EXIF-Metadata-from-Photos-with-exiftool%2523%25257B%252522experiment%252522%25253A%252522taboola_via_polymorph%252522%25252C%252522position%252522%25253A%252522bottom%252522%25252C%252522variant%252522%25253A%252522update_201709%252522%25257D%26ip%3D35.202.11.28&data=NDMxMmI2N2I0NTE5ODNjY2Y0M2JjNzllMzMyYjNjODQzMTVjMDc2YjczNDhjZDU2MzgyZWU4MzRiZjY2MTM0N2Y2NTlmMDVlN2QwY2QwYzQ0ODczNGU1MzYxNDUxMzMxNDcyMWUwYWMxMWZhN2Y4MmI4NzMyNTljMDQ4MmU2ZjhjYTc5ZDJjN2M2MTk5MDM5MDQ3MmMwMDcxNDE4N2ZkZWM5MWUyNWRiYmQ5OGI0MTc1OTc4ZDY3MTZlMTQwYjliMGQ3MGMwNzVlOGIyNjYyODNlZWJlYjRjOGYwZTU1M2Q5ZTgzZjAyZjJkNGFjODNhYzA5ZWE5NTQxOWYwMGNjOTYxM2ZhN2E0ZGFkZjczN2RkMWY5YmIzNTYxYmE5ZThkNGYxNDVjOWE3NzRjN2NmMTg5NGQ1OWQ0YWUzYzQyNzhmM2QzNTc1MmNjNGNjOTc3NGUwMjVmYWM2MDU1NGM3YQ%3D%3D&sid=d172f109a1cb46d79d127cd698686824_7b911f3c)
+
+![](http://bevo-us-east-1.adsnative.com/im.gif?data=ZmU3ODRiMTZmZjM1YWIwM2MzZWRmNzA2ZDU0NWFmMDI1YjQyYjkxOTA2ZTcxNTQ5MzQ5NTE1MjUyMTQyY2ZjNjUyNTgwZjM5MzUyNjg2Mzk5NjJkMWRhOWZkMzc2ODdlYWE2MDA2MDQwZGFlMjFiZjYzM2E1NGExY2M5NDM0NjUzNGE4YzYyMTk4NTk5ZTRlZGUyODkyN2Y1YTJiZjI2MGI2NzY3ZWExNzA4NjlmYWNlMTE5NDU0NWI3NzkwZDY4MmUxYThlMjI0ZDIxOWQ1OTI4ZWY4ZGU5NzEwYWE3MDI3OTJhYThiNDgyODQ1ZDU2ZTZjNzVkMWIxZGYzMDlmZjExYzVhNzIwMGY1YjJiZTE1YmRkYWYwOTlhMThlMDFiMjI1ODY3ZTUwZmVmOTQxODZlNWI1MWY5YWExZDNhNDAxMDk5NmYyZDBhNjFlZjZmMTExYThlNmU1Njk3YmI0MQ%3D%3D&sid=d172f109a1cb46d79d127cd698686824_7b911f3c)
+
+![](http://bevo-us-east-1.adsnative.com/vi.gif?data=ZmU3ODRiMTZmZjM1YWIwM2MzZWRmNzA2ZDU0NWFmMDI1YjQyYjkxOTA2ZTcxNTQ5MzQ5NTE1MjUyMTQyY2ZjNjUyNTgwZjM5MzUyNjg2Mzk5NjJkMWRhOWZkMzc2ODdlYWE2MDA2MDQwZGFlMjFiZjYzM2E1NGExY2M5NDM0NjUzNGE4YzYyMTk4NTk5ZTRlZGUyODkyN2Y1YTJiZjI2MGI2NzY3ZWExNzA4NjlmYWNlMTE5NDU0NWI3NzkwZDY4MmUxYThlMjI0ZDIxOWQ1OTI4ZWY4ZGU5NzEwYWE3MDI3OTJhYThiNDgyODQ1ZDU2ZTZjNzVkMWIxZGYzMDlmZjExYzVhNzIwMGY1YjJiZTE1YmRkYWYwOTlhMThlMDFiMjI1ODY3ZTUwZmVmOTQxODZlNWI1MWY5YWExZDNhNDAxMDk5NmYyZDBhNjFlZjZmMTExYThlNmU1Njk3YmI0MQ%3D%3D&sid=d172f109a1cb46d79d127cd698686824_7b911f3c)
+
+![](http://rudy.adsnative.com/cm.gif)
+
+Report ad
