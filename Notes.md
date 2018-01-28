@@ -395,3 +395,5 @@ CC: @nodosenlared
 efficient what should not be done at all.“ —Peter Drucker
 
 * The earlier you can develop a prototype, the easier it is for you to know whether your proposed solution works, without investing too much effort into the process. But you also need to make sure the core of your idea works.
+
+* manage the change: Advice &rArr; Implement & Evolve &rArr; Maintain & Secure &rArr; Support
