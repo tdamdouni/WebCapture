@@ -1,9 +1,0 @@
-# OSI reference model (Open Systems Interconnection) definition
-
-_Captured: 2015-12-22 at 00:32 from [searchnetworking.techtarget.com](http://searchnetworking.techtarget.com/definition/OSI)_
-
-OSI (Open Systems Interconnection) is reference model for how applications can communicate over a [network](http://searchnetworking.techtarget.com/definition/network). A reference model is a conceptual framework for understanding relationships. The purpose of the OSI reference model is to guide vendors and developers so the digital communication products and software programs they create will [interoperate](http://searchsoa.techtarget.com/definition/interoperability), and to facilitate clear comparisons among communications tools. Most vendors involved in telecommunications make an attempt to describe their products and services in relation to the OSI model. And although useful for guiding discussion and evaluation, OSI is rarely actually implemented, as few network products or standard tools keep all related functions together in well-defined layers as related to the model. The TCP/IP protocols, which define the Internet, do not map cleanly to the OSI model.
-
-![](http://cdn.ttgtmedia.com/downloadOffers/images/UnifiedNetworkManagement_cover.png)
-
-Developed by representatives of major computer and telecommunication companies beginning in 1983, OSI was originally intended to be a detailed specification of actual [interfaces](http://whatis.techtarget.com/definition/interface). Instead, the committee decided to establish a common reference model for which others could then develop detailed interfaces, which in turn could become [standards](http://whatis.techtarget.com/definition/standard). OSI was officially adopted as an international standard by the International Organization of Standards ([ISO](http://searchdatacenter.techtarget.com/definition/ISO)).
