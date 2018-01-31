@@ -403,3 +403,7 @@ efficient what should not be done at all.“ —Peter Drucker
 * Project Management Cycle Loop: Design -> Develop -> Analyse -> Evaluate
 
 * almost done is not done _agile_, _lean_, _management_
+
+* TRIZ- Theory of Inventive Problem Solving
+
+* Can Creativity be Systematic?
