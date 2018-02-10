@@ -1,10 +1,10 @@
 # Docker, Inc. Isn't Dead
 
-_Captured: 2018-01-24 at 22:30 from [dzone.com](https://dzone.com/articles/docker-inc-isnt-dead?edition=357102&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-01-24)_
+_Captured: 2018-02-06 at 17:16 from [dzone.com](https://dzone.com/articles/docker-inc-isnt-dead?edition=359129&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=cloud%202018-02-06)_
 
 ![](https://blog.iron.io/wp-content/uploads/2018/01/whale1.jpg)
 
-Chris Short recently wrote up a piece entitled [Docker, Inc. is Dead](https://chrisshort.net/docker-inc-is-dead/), with a prediction that the company would no longer exist sometime in 2018. It's well-written and he does a good job of running through some of Docker's history in recent years. Although I agree with some of his sentiments, I don't think Docker, Inc. will exit the stage anytime soon. Here are some reasons I think Docker, Inc. will live a healthy life in 2018.
+Chris Short recently wrote up a piece entitled [Docker, Inc. is Dead](https://dzone.com/articles/docker-is-dead), with a prediction that the company would no longer exist sometime in 2018. It's well-written and he does a good job of running through some of Docker's history in recent years. Although I agree with some of his sentiments, I don't think Docker, Inc. will exit the stage anytime soon. Here are some reasons I think Docker, Inc. will live a healthy life in 2018.
 
 ### Docker is Good Software
 
@@ -25,5 +25,3 @@ Docker, Inc. isn't going to be acquired (yet) or close their doors. There is a l
 It's a company that's based on OSS with a lot of opportunity in the market. While [one of the products at Iron is Docker-based](https://www.iron.io/worker), we use a wide variety of software from many companies with roots in OSS. We're _happy_ to pay for a higher level of support and features for OSS software backed by a business. For other projects, we often donate through [Open Collective](https://opencollective.com/) to help maintainers and small development teams. Docker's donation of containerd was a great move and I think it is a project that fits perfectly into [CNCF's charter](https://www.cncf.io/about/charter/).
 
 While Docker, Inc. is moving upstream, they haven't at all abandoned its real users: developers. We use Docker daily, contribute back when we can, and are optimistic about its trajectory as a business and a product. Docker, Inc. has a lot of room to grow, and in 2018, it will.
-
-![](https://dz2cdn1.dzone.com/storage/rc-covers/7391100-dzone-aicover.jpg)
