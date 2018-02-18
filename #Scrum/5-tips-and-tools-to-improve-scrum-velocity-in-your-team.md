@@ -1,6 +1,6 @@
 # 5 Tips and Tools to Improve Scrum Velocity in Your Team
 
-_Captured: 2017-09-18 at 10:00 from [dzone.com](https://dzone.com/articles/5-tips-and-tools-to-improve-scrum-velocity-in-your?oid=twitter&utm_content=bufferef759&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)_
+_Captured: 2018-02-18 at 17:24 from [dzone.com](https://dzone.com/articles/5-tips-and-tools-to-improve-scrum-velocity-in-your)_
 
 It's not uncommon today for Scrum Masters to think about effective ways to optimize Scrum velocity. If you have been wrestling with this question for some time, read on for some insight.
 
