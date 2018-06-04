@@ -1,0 +1,7 @@
+- If you're testing your own code, you're not really accounting for new scenarios. That's to say that if someone writes a feature, they're only going to test for the use cases they already considered in development. Having a tester come in brings a fresh set of eyes to look at the feature in new ways that the developer may not have thought of.
+
+- Hiring for testings and bringing in a team that is specifically trained to inspect software quality and focused on finding and reporting bugs will not only improve time to market but also increase the capacity of your developers and improve the software you release. Don't skimp on testers the same way you know not to skip testing.
+
+- Mixing disciplines within a team also creates an environment of learning and holistic understanding of what is involved in building the feature identified in the user story. The simple task of estimating user stories with a cross-functional Scrum team exposes areas that team members may not have considered. Testers, for example, may elaborate upon how a perceived low effort, low complexity estimate may require high effort from testing in terms of setup, test case development, code accessibility, and other factors. It is also true that a team matures more rapidly in an environment of diversity.
+
+- A cross-functional, software development, Scrum team encompass representatives from across functions to develop the required feature or function.
