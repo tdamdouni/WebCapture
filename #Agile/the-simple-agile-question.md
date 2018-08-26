@@ -1,0 +1,21 @@
+# The Simple Agile question
+
+_Captured: 2018-05-07 at 06:57 from [dzone.com](https://dzone.com/articles/the-simple-agile-question?edition=377214&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-05-06)_
+
+See why over 50,000 companies trust Jira Software to plan, track, release, and report great software faster than ever before. [Try the #1 software development tool](https://dzone.com/go?i=281431&u=https%3A%2F%2Fwww.atlassian.com%2Fsoftware%2Fjira%3Futm_source%3Ddzone%26utm_medium%3Ddisplay%26utm_campaign%3Djira_adexp-psa-exp_global-eng_dzone-pre-post-roll-text%26utm_term%3DTry-the-number-one-software-development) used by agile teams.
+
+A few weeks ago I published a blog post on simple DevOps questions you can ask your team to find out how mature your adoption of DevOps practices are ([you find it here](https://notafactoryanymore.com/2018/03/01/mircos-self-assessment-questions-of-devops-maturity/)). There is a case to be made that you should have a similar question for your Agile adoption. The problem here is that there are so many different flavors of Agile and that not one is better than the others (no matter what all those zealots out there are saying). The large amount of variations makes it hard to analyze the maturity of Agile unless you understand the context of the organization and can evaluate the delivery success of the team. But I found a question that helps me differentiate between the "false" or "hybrid" Agile flavors and "real" Agile. I call it my minimum definition of Agile for it to be something I can engage with and think that it can be successful. Here we go, Mirco's minimum Agile definition:
+
+> "One Team, produces a working and tested version of software within each strict timebox of equal length."
+
+You might think this is a really low bar for an Agile definition, but it rules out a lot of the work that I see being done under the name "Agile". It rules out all of the following patterns that are suboptimal if not dangerously risky for delivery success:
+
+  * **Separate design, build and/or test teams** - Often this is a remnant of existing vendor relationships or strong "fiefdoms" and the Agile change has not been able to break down the barrier. For me, this is an absolute showstopper for Agile success. Pause and see how you can enable a joint team.
+  * **Design sprints, followed by build sprints, followed by test sprints** - Let's call this what it is: Waterfall delivery.
+  * **Teams being changed and swapped** - Many of the Agile benefits only manifest once the team has been working together for a while, if you need to keep changing people or ramp-up or down then there is something wrong with the work preparation part.
+  * **Agile teams building lots of stuff but are unable to validate it end-to-end** - This is perhaps an already more advanced problem but I keep seeing it a lot these days. Agile teams deliver software but cannot test it sufficiently and while the velocity is high, once the product gets end-to-end tested it falls apart. There are three root causes that I commonly see: unavailability of test environments, lack of maturity in DevOps practices and lack of up-front-planning of end-to-end scenarios.
+  * **Sprints that have different lengths or are changed at last-minute** - Agile is more successful because it is more rigorous and forces you to address problems early and often. If you weaken the conditions you are stepping on a slippery slope that will likely impact you more and more. Step off the slope and fix the problems rather than changing the sprint timebox.
+
+I have been happy with this definition for now as it weeds out the most common bad patterns, perhaps it helps you too. Let me know if you have your own question or definition that you use.
+
+See why over 50,000 companies trust Jira Software to plan, track, release, and report great software faster than ever before. [Try the #1 software development tool](https://dzone.com/go?i=281432&u=https%3A%2F%2Fwww.atlassian.com%2Fsoftware%2Fjira%3Futm_source%3Ddzone%26utm_medium%3Ddisplay%26utm_campaign%3Djira_adexp-psa-exp_global-eng_dzone-pre-post-roll-text%26utm_term%3DTry-the-number-one-software-development) used by agile teams.
