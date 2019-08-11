@@ -1,0 +1,95 @@
+# Use Stories to Deliver Business Value - DZone Agile
+
+_Captured: 2019-08-07 at 19:06 from [dzone.com](https://dzone.com/articles/use-stories-deliver?edition=513292&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202019-08-07)_
+
+![Conversations](/storage/temp/12285512-conversations.jpg)
+
+_Successful user stories are all about successful conversations._
+
+Why is it that companies choose to pay developers to write software? It's definitely not because software has any degree of intrinsic value. 
+
+> Companies fund software products (and by extension software developers) because they derive significant business value from those products. 
+
+Software companies develop and sell software because it meets some identified market demand. Value is provided to the customer via some task (e.g. photo editing) they are now able to complete in a more productive way. Value is provided to the software company in the form of revenue and profits. 
+
+Internal IT organizations develop software because it delivers value to other portions of their parent companies. I currently work for a research institution. One of the value metrics at my company is the number of publications produced each year. We deliver value by producing software that makes researchers more productive, thereby increasing the output of publications.
+
+Any software product which **does not provide any business value** to its funding organization -- be it a product developed and sold by a software company or an enterprise system developed by an internal IT organization -- really **has no reason for being**. 
+
+> So this begs the question: How can we ensure that the software products we develop provide business value to our customers? 
+
+Software requirements specifications (SRS), and later user cases, have long served as the medium for documenting customer requirements (i.e. the value which must be delivered). They are typically the result of a long, arduous, up-front requirements elicitation process. Customers, business analysts, developers, etc. will hunker down for days, weeks, even months, to produce "exhaustive" documentation of these requirements. 
+
+At the end of this process, names are signed "in blood," indicating that both the customers (be they actual end users or a marketing organization) and the development organization agree on exactly what software will be produced.
+
+SRS and use cases have a few problems, however:
+
+  1. They are typically set in stone, only alterable through a bureaucratic change control process **instituted for the sole purpose of discouraging change**. This resistance to change prevents them from evolving to reflect the current best understanding of the customers' needs.
+  2. Their "exhaustive" nature discourages continued communication between the customers and the business. They are often implemented verbatim, regardless of whether or not they continue to (or ever did) make logical sense.
+  3. The fact that they are completed "up front" creates an enormous delay between the detailed breakdown of many features and the implementation of those same features. This delay forces a continuous context switching process on the part of the development team, as details which were established long ago must be "swapped back in" to memory before implementation can begin. 
+
+Each of these problems seriously detracts from the potential value that any software product can deliver. 
+
+> On the contrary, they encourage us to build the wrong thing. There must be a better way! 
+
+As usual, we can turn to the sage advice of agility for help. [User stories are the ubiquitous capture method for requirements in agile processes](https://dzone.com/articles/what-are-user-stories-and-who-should-write-them). They continually prove themselves as an effective means for ensuring the delivery of value through software.
+
+If you search the web, you'll find many different definitions of user stories. My favorites revolve around the theme that story cards (the earliest medium for capturing user stories is the index card, still in heavy use today) are "promises of conversations to be held at a later time." 
+
+**Conversations between whom?** The customer and the developer. **Conversations about what?** The **_VALUE_** that is to be delivered.
+
+Ron Jeffries has gone so far as [to formalize this definition a bit](https://ronjeffries.com/xprog/articles/expcardconversationconfirmation/). He breaks the user story down into three principal components:
+
+  1. Card
+  2. Conversation
+  3. Confirmation
+
+These three components are an inseparable trinity. **Eliminate any of them, and value is immediately lost**. Let's examine these components to understand why.
+
+## The Card
+
+The card is the first physical representation of the user story. As I stated earlier, the card is usually your average index card. Its small size is intentional. **We're avoiding the temptation to exhaustively document the requirement**. A typical story definition will be only a single sentence:
+
+"As a lab manager, I should be able to filter a list of reagents so that I can easily locate the ones I need to use."
+
+> You may also like: [The Card Is Not a User Story](https://dzone.com/articles/the-card-is-not-the-user-story)
+
+You'll notice this same pattern in a lot of user stories. This pattern is so prevalent that it has inherited its own name, "Role-Goal-Motivation." We'll talk about roles in a later article. For now I'd like to focus in on the goal and motivation. 
+
+The goal is the "what I need to do." The motivation is the "why I need to do it." The why represents the VALUE this particular story will deliver. I always try to ensure that our stories are represented in this way **so that we will not forget about the value portion**.
+
+In fact, avoiding forgetfulness is the primary value provided by the card. We're not trying to document everything. We're just creating what Jeffries calls "a token." You might even refer to it as a kanban from the lean world. It's primary purpose is **to remind us to have those conversations**.
+
+## The Conversation
+
+The conversation is **where the real value capture happens**. It is in the regular face-to-face conversations between the customers and the developers that each participant gains common understanding of what a particular requirement is all about. 
+
+These conversations take place several times over the course of development. They will initially occur when the story is being defined and the card is created. They will occur again when it comes time to estimate and schedule the story for implementation. They should occur frequently over the course of the iteration in which a given story is being implemented. They will occur yet again when the story is "completed" and the new capabilities of the software are being demonstrated for the first time. 
+
+Each of these conversations results in the exchange of "thoughts, opinions, and feelings" regarding the value that must be added.These conversations are the heart of how we mitigate the problems with software requirements specifications. 
+
+Because our conversations are never set in stone, because there is no change control process, we can efficiently and effectively **respond to our evolving understanding of how best to deliver value**. Because we don't attempt to document our understanding of the required value exhaustively, we can **allow our understanding to evolve throughout the design and implementation of the software**. Because these conversations occur continually rather than up-front, there are **no delays between the working out of the details and the implementation of those details**. 
+
+Our context-switching problem has been eliminated.
+
+## The Confirmation
+
+The conversations themselves, however, are not enough. How do we know when we're done? The last crucial component to the story is the confirmation, or "acceptance test." 
+
+[Acceptance tests](https://dzone.com/articles/the-abcs-of-acceptance-test-design) are automated tests that document in a malleable way our best current understanding of how value is to be delivered for a given story. They need to be understandable by both the customer and the developer. The rise in availability of [Behavior Driven Developmen](https://dzone.com/articles/getting-started-with-behavior-driven-development)t tools such as [Cucumber](http://cukes.info/) provides an excellent means for creating acceptance tests. 
+
+Because these tests are malleable, they can be readily changed as additional conversations about the story occur, and as the software itself evolves. Because they are automated and executable, we can easily tell at any given point in time whether or not the software meets our current best understanding of what a given story requires. 
+
+There's no risk that the software and the "requirements" will drift out of sync as long **as these tests are being executed on a very regular basis**. If possible, this should happen each and every time new code is committed to the source repository.
+
+## Summary
+
+Software development is foremost **about delivering value to our customers**. Since that is the case, we ought to be using the best tools available to ensure that we're continually delivering the value that our customers expect. I hope through this article that I've been able to shed a little light on why user stories are an excellent tool for accomplishing the delivery of value.
+
+_Originally published June 2010_
+
+### Further reading
+
+[What Is the Right Size for a User Story?](https://dzone.com/articles/what-right-size-user-story)
+
+[Best Practices to Succeed With User Stories](https://dzone.com/articles/best-practices-to-succeed-with-user-stories)
