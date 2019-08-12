@@ -1,8 +1,8 @@
 # Agile Values in Action
 
-_Captured: 2018-08-22 at 09:36 from [dzone.com](https://dzone.com/articles/agile-values-in-action?edition=385398&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=agile%202018-08-21)_
+_Captured: 2018-09-05 at 07:06 from [dzone.com](https://dzone.com/articles/agile-values-in-action?edition=385398&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=agile%202018-09-04)_
 
-Adopting a DevOps practice starts with understanding where you are in the implementation journey. Download the [DevOps Transformation Roadmap](https://dzone.com/go?i=299508&u=http%3A%2F%2Ftechtowntraining.com%2Fresources%2Ftools-resources%2Fdevops-transformation-roadmap%3Futm_source%3Ddznoe%26utm_medium%3Dfooter%26utm_content%3Dguide). Brought to you in partnership with [Techtown](https://dzone.com/go?i=299508&u=http%3A%2F%2Ftechtowntraining.com%2F%3Futm_source%3Ddznoe%26utm_medium%3Dfooter).
+Buckled up and all set to kick-start your Agile transformation journey? [10 Road Signs to watch out for in your Agile journey](https://dzone.com/go?i=300521&u=https%3A%2F%2Fbit.ly%2F2v4H9ua). Brought to you in partnership with [Jile](https://dzone.com/go?i=300521&u=https%3A%2F%2Fbit.ly%2F2ACAooH).
 
 ![Image title](https://dzone.com/storage/temp/9927495-honor.jpg)
 
@@ -22,10 +22,8 @@ The Agile Values mean different things to different people - here is what they m
 
 So, in summary, while Scrum, Kanban, and other framework practices are important, practices alone can still lead to failure. The Agile [values](https://dzone.com/articles/agile-principles-over-practices) are generally harder to incorporate into our development efforts, but they are the core of agility, they make Agile more sustainable in the long run, and they help maximize the tremendous benefits Agile has to offer.
 
-Take Agile to the next level with DevOps. Learn practical tools and techniques in the three-day [DevOps Implementation Boot Camp](https://dzone.com/go?i=299507&u=http%3A%2F%2Ftechtowntraining.com%2Fcourses%2Fdevops-implementation-boot-camp-icp-fdo%3Futm_source%3Ddznoe%26utm_medium%3Dheader%26utm_content%3Dcourse). Brought to you in partnership with [Techtown](https://dzone.com/go?i=299507&u=http%3A%2F%2Ftechtowntraining.com%2F%3Futm_source%3Ddznoe%26utm_medium%3Dheader).
+What does it mean by Scaling Agile? Download the whitepaper on [Five dimensions of Scaling Agile in Large Enterprises](https://dzone.com/go?i=300522&u=https%3A%2F%2Fbit.ly%2F2NZrB1F). Brought to you in partnership with [Jile](https://dzone.com/go?i=300522&u=https%3A%2F%2Fbit.ly%2F2M6e8Vt).
 
 Topics:
 
 agile values ,software ,project management ,lean ,agile development ,scrum ,kanban
-
-Opinions expressed by DZone contributors are their own.

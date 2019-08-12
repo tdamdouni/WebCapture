@@ -1,6 +1,8 @@
 # Scrum and Technical Excellence
 
-_Captured: 2018-08-20 at 07:55 from [dzone.com](https://dzone.com/articles/scrum-and-technical-excellence)_
+_Captured: 2018-09-05 at 07:05 from [dzone.com](https://dzone.com/articles/scrum-and-technical-excellence?edition=385398&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=agile%202018-09-04)_
+
+**[Download this white paper](https://dzone.com/go?i=283441&u=https%3A%2F%2Fwww.scrum.org%2Fresources%2Fcharacteristics-great-scrum-team-0%3Futm_source%3DDZone%26utm_medium%3DArticle%26utm_campaign%3Dcharacteristics-whitepaper%2520) to learn about the ways to make a Scrum Team great, brought to you in partnership with [Scrum.org](https://dzone.com/go?i=283441&u=https%3A%2F%2Fwww.scrum.org%2FAbout%2FAll-Articles%2FarticleType%2FArticleView%2FarticleId%2F1029%2FCharacteristics-of-a-Great-Scrum-Team%3Futm_source%3DDZone%26utm_medium%3DArticle%26utm_campaign%3DGreatScrumTeam). **
 
 ![](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/ScrumBlogHeader.png)
 
@@ -45,3 +47,9 @@ So the flow is that every Sprint the team will discuss process improvements for 
 So what separates Professional Scrum Teams from reckless or mechanical Scrum Team? It is their Definition of Done. Professional Scrum Teams have high attention to quality and you can see that from the content of their Definition of Done that has exhaustive technical practices. Scrum does not say the technical practices you need to do but it does not mean you should not practice them. Scrum is a general product development framework and barely adequate to develop quality products. The framework is designed so that it doesn't get in your way to continuously discover what technical practices that are appropriate for your products to be valuable in the market. It takes imagination and creativity to discover the missing pieces for your process within the Scrum framework.
 
 Stay tuned for more content around "Scrum And ..." from us. Don't forget to leave a comment for any other complementary practices that you want us to cover.
+
+**[Learn more](https://dzone.com/go?i=259322&u=https%3A%2F%2Fwww.scrum.org%2Fresources%2Fconvergence-scrum-and-devops%3Futm_source%3Ddzone%26utm_medium%3Ddevops) about the myths about Scrum and DevOps. [Download the whitepaper](https://dzone.com/go?i=259322&u=https%3A%2F%2Fwww.scrum.org%2Fresources%2Fconvergence-scrum-and-devops%3Futm_source%3Ddzone%26utm_medium%3Ddevops) now brought to you in partnership with Scrum.org.**
+
+Topics:
+
+agile ,scrum ,technical excellence ,technical debt ,scrum guide ,scrum practices

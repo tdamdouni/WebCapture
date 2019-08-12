@@ -1,6 +1,6 @@
 # Scrum Mastery: 4 Steps to Optimize Product Value
 
-_Captured: 2018-08-09 at 06:09 from [dzone.com](https://dzone.com/articles/scrum-mastery-4-steps-to-optimize-product-value?edition=387204&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-08-08)_
+_Captured: 2018-09-05 at 07:04 from [dzone.com](https://dzone.com/articles/scrum-mastery-4-steps-to-optimize-product-value?edition=385398&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=agile%202018-09-04)_
 
 **[Download this white paper](https://dzone.com/go?i=283441&u=https%3A%2F%2Fwww.scrum.org%2Fresources%2Fcharacteristics-great-scrum-team-0%3Futm_source%3DDZone%26utm_medium%3DArticle%26utm_campaign%3Dcharacteristics-whitepaper%2520) to learn about the ways to make a Scrum Team great, brought to you in partnership with [Scrum.org](https://dzone.com/go?i=283441&u=https%3A%2F%2Fwww.scrum.org%2FAbout%2FAll-Articles%2FarticleType%2FArticleView%2FarticleId%2F1029%2FCharacteristics-of-a-Great-Scrum-Team%3Futm_source%3DDZone%26utm_medium%3DArticle%26utm_campaign%3DGreatScrumTeam). **
 
