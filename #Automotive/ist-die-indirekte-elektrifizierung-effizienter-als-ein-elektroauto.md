@@ -1,0 +1,27 @@
+# Ist die indirekte Elektrifizierung effizienter als ein Elektroauto?
+
+_Captured: 2019-03-18 at 07:44 from [www.ingenieur.de](https://www.ingenieur.de/technik/fachbereiche/e-mobilitaet/ist-die-indirekte-elektrifizierung-effizienter-als-ein-elektroauto/?utm_source=Maileon&utm_medium=email&utm_campaign=NewsletterING&utm_content=20190314)_
+
+Eine aktuelle Studie weist auf das unterschatzte Potenzial von E-Fuels hin. Energie aus erneuerbaren Quellen ließe sich so nutzen, um synthetische Kraftstoffe zu gewinnen. Fallt damit die Gesamtbilanz sogar besser aus als bei reinen Elektrofahrzeugen?
+
+![Synthetische Kraftstoffe werden verdeutlicht durch ein Auto, das an einer grünen Ladesäule getankt wird, auf der Green Energy steht](https://www.ingenieur.de/wp-content/uploads/2019/02/E-Fuels_B8126821_PixBox.jpg)
+
+> _Foto: panthermedia.net/PixBox_
+
+Die Elektrifizierung des Antriebs sei langst in vollem Gange, so ist immer wieder zu horen. Aber hat die Entwicklung auch den richtigen Weg eingeschlagen? „Gemeinhin wird daruber sehr ingenieurwissenschaftlich diskutiert - dabei ist die Frage der Zukunft unserer Mobilitat langst zu einer gesellschaftlichen Debatte geworden. Bei der Frage etwa nach dem Antrieb der Zukunft ist eine gesamtheitliche Betrachtung und Bewertung notwendig, die unter anderem auch Fragen der Akzeptanz einbezieht", unterstreicht David Bothe von Frontier Economics Limited. Gemeinsam mit dem Institut der deutschen Wirtschaft (IW) hat Frontier unlangst eine Studie erstellt, die sich mit den unterschatzten Potenzialen von E-Fuels auseinandersetzt. Unter E-Fuels werden synthetische Kraftstoffe verstanden, die mittels (erneuerbarer) Energie aus Wasser und Kohlendioxid hergestellt werden. Erkenntnisse aus der Studie wird Bothe auch auf dem [Internationalen Motorenkongress](https://www.vdi-wissensforum.de/motorenkongress/?utm_source=post_article&utm_medium=post_article&utm_campaign=01KO8026019&utm_content=post_article_ingenieur) in Baden-Baden vorstellen.
+
+## Die Systemkosten der Mobilitat ganzheitlich betrachten
+
+Um die angestrebten Klimaschutzziele zu verwirklichen, muss Deutschland langfristig auch den Verkehrssektor nahezu vollstandig auf erneuerbare Energien umstellen. Schließlich finden von 2.472 Terawattstunden (TWh) Gesamtendenergie, die in Deutschland im Jahr genutzt werden (Stand 2015), rund 30 % im Verkehrssektor Verwendung. „In der offentlichen Diskussion steht meist die direkte Elektrifizierung von Fahrzeugen im Fokus. Dabei zeigen unsere energiewirtschaftlichen Betrachtungen, dass chemische Energietrager, die als E-Fuels aus erneuerbarem Strom gewonnen werden, durchaus eine bessere okonomische Effizienz aufweisen", so Bothe. Verschiedene Technologien dazu befinden sich derzeit in der Erforschung beziehungsweise Erprobung. Zusammengefasst werden die verschiedenen Ansatze fur synthetische Kraftstoffe unter dem Oberbegriff „Power-to-X".
+
+Da erneuerbare Energien grundsatzlich unerschopflich sind, sei nicht primar der Wirkungsgrad entscheidend, sondern welcher energetische Nutzungspfad die geringsten Systemkosten aufweist - und sich technisch und sozial umsetzen lasst. „In einer systemischen Betrachtung zeigt sich, dass die Umwandlungsverluste von E-Fuels durch die Vorteile, die chemische Energietrager fur die Energieversorgung bieten, in vielen Fallen mehr als kompensiert werden", betont Bothe weiter.
+
+## E-Fuels bieten eine Reihe von Vorteilen
+
+In einer aktuellen Studie zeigt das Beratungsunternehmen Frontier Economics: Bei einer autarken Energieversorgung in Deutschland bis zum Jahr 2050 lassen sich durch die Nutzung von gasformigen und flussigen E-Fuels 250 Milliarden Euro einsparen - verglichen mit einer weitreichenden Elektrifizierung von Fahrzeugen. Die zentralen Kostenvorteile von E-Fuels sind dabei die hohe Energiedichte und die damit verbundene leichte Speicherbarkeit sowie die Moglichkeit, die vorhandene Infrastruktur und vertraute Endanwendungen fur flussige und gasformige Energietrager weiterhin zu nutzen - vom klassischen Verbrennungsmotor bis zum ohnehin vorhandenen, flachendeckenden Tankstellennetz. Der Endverbraucher musste sich nicht einmal beim Tankvorgang umstellen. Ganz anders die Herausforderungen bei einer Umstellung auf Elektroautos: Hier fehlt es ebenso an der Infrastruktur wie an flachendeckend verfugbaren Losungen fur ein Schnellladen der Fahrzeugbatterien. Dies alles konnte zu einer großeren gesellschaftlichen Akzeptanz der indirekten Elektrifizierung im Vergleich zur Elektrifizierung des Fahrzeugantriebs fuhren.
+
+## Fur Akzeptanz beim automobilen Wandel sorgen
+
+Neben den okonomischen und technischen Aspekten werde oft ubersehen, dass die Energiewende nur gelingen kann, wenn es eine breite gesellschaftliche Unterstutzung fur dieses Vorhaben gebe, meint Bothe. „Die Vorteile von E-Fuels wiegen mogliche Nachteile mehr als auf. Auch bei einer langfristigen Umstellung des Verkehrssektors auf annahernd 100 % erneuerbare Energien ist daher ein Energietragermix aus Strom und E-Fuels die wirtschaftlichste Losung fur die Energieversorgung." Dies bietet Perspektiven fur den Verbrennungsmotor, aber auch fur alternative Anwendungen auf Basis von Brennstoffen wie Hybridsysteme und Brennstoffzellen.
+
+Die Studienergebnisse zu E-Fuels wird David Bothe auf dem [Internationalen Motorenkongress](https://www.vdi-wissensforum.de/motorenkongress/?utm_source=post_article&utm_medium=post_article&utm_campaign=01KO8026019&utm_content=post_article_ingenieur) vorstellen, der vom 26.-27. Marz 2019 in Baden-Baden stattfindet.

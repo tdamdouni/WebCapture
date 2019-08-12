@@ -1,0 +1,23 @@
+# The Six Functions Of Strategy
+
+_Captured: 2019-01-08 at 16:05 from [www.forbes.com](https://www.forbes.com/sites/jeroenkraaijenbrink/2019/01/08/the-six-functions-of-strategy/)_
+
+![](https://specials-images.forbesimg.com/dam/imageserve/1076939180/960x0.jpg?fit=scale)
+
+It is quite popular to question the role of strategy in today's volatile, uncertain, complex and ambiguous ([VUCA](http://www.forbes.com/sites/jeroenkraaijenbrink/2018/12/19/what-does-vuca-really-mean/)) world. Strategy under such challenging conditions is pointless, so the argument goes, because things change so fast and are so uncertain that any strategy is outdated as soon as it is formulated. And the world is too complex and ambiguous to make sense of anyway. Therefore, instead of putting so much energy in formulating strategy, companies should focus their attention on agility and execution.
+
+But is this really so? Is the world [really so VUCA](http://www.forbes.com/sites/jeroenkraaijenbrink/2019/01/04/is-the-world-really-more-vuca-than-ever/) that strategy doesn't have a role in it? To see whether such reasoning holds, it is useful to have a look at what are the core functions of strategy. This means looking at what strategy is supposed to do for organizations at its core and whether that is still relevant today.
+
+The best place to look for such answers is the scientific strategy literature, especially the classical, older books and articles based on which the strategy discipline is founded. Given the hugely diverging definitions of strategy that are around, any attempt to define a set of core functions of strategy is a bit of a risky endeavor. After all, if we don't agree about what strategy is, how can we agree about what it is supposed to do? However, a careful reading of the classical strategy literature suggests that the following six core functions of strategy can be identified:
+
+  1. **Strategy helps preparing an organization for the future.** This does not necessarily imply long-term plans or planning in general. It does imply, though, that strategy is forward-looking and that it should help organizations focus on other things than just the short-term and day-to-day activities.
+  2. **Strategy helps distinguishing an organization from others.** Strategy helps an organization focus on its unique assets and features and exploit those in a meaningful way. This does not imply a quest for complete uniqueness. Without some distinction from its competitors, though, there is no reason for customers to choose for a particular organization.
+
+## YOU MAY ALSO LIKE
+
+  3. **Strategy provides an organization with some stability.** An organization in constant flux or constant reorientation will drift and not realize its full potential. Strategy is not meant as a rigid straightjacket. Organizations need some guidance and stability though - especially in turbulent times - and that is what strategy provides.
+  4. **Strategy serves as a common frame of reference.** Even though circumstances will change, strategy offers an organization a common point of reference. This makes that, if there is a change, the people in and around the organization collectively can know what assumptions, ideas or plans they are going to deviate from.
+  5. **Strategy supports internal and external alignment.** As overarching managerial discipline, strategy provides an integrative overview of the most important internal and external factors to be taken into account by an organization. Such overview helps to align the organization both internally as well as with its external environment.
+  6. **Strategy guides organizational action.** Strategy isn't made for the sake of strategy. It is meant to give direction to the things that an organization does. Without such direction, organizations would just engage in uncoordinated, fragmented and possibly counterproductive actions.
+
+If these are the core functions of strategy as anticipated in the early days of the discipline, we can ask whether they are still relevant today, especially in [VUCA times](http://www.forbes.com/sites/jeroenkraaijenbrink/2019/01/04/is-the-world-really-more-vuca-than-ever/). A quick view immediately confirms this for all six: organizations today still need to be prepared for the future, need to find ways to distinguish themselves from others, need stability to maintain themselves, need a common frame of reference everyone can refer to, need to keep overview to realize alignment and need guidance for the actions that they perform. Without any one of these core functions of strategy, the risk of drifting away with the winds of change is simply too large for any organization today.
